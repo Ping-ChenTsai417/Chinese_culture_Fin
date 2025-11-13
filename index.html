@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <title>今日黃曆 · Yi & Ji</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 頂部 -->
+    <header class="top-bar">
+      <button class="top-btn">
+        <span class="icon">‹</span><span>上一月</span>
+      </button>
+      <div class="top-bar-title" id="monthTitle">載入中...</div>
+      <button class="top-btn">
+        <span>陽曆</span><span class="icon">☰</span>
+      </button>
+    </header>
+
+    <!-- 日期條（先放幾個靜態示意，之後要再動態也可以） -->
+    <section class="date-strip">
+      <div class="date-item active">
+        <div class="day" id="weekdayText">--</div>
+        <div class="greg" id="gregDate">--</div>
+        <div class="lunar" id="lunarStrip">載入中...</div>
+      </div>
+    </section>
+
+    <!-- 主卡片 -->
+    <main class="card">
+      <div class="card-header">
+        <div class="card-header-title" id="lunarTitle">載入中...</div>
+        <div class="card-header-sub" id="headerSub">請稍候</div>
+      </div>
+
+      <div class="card-main">
+        <div class="yiji-column">
+          <div class="yiji-box">
+            <div class="yiji-tag yi">宜</div>
+            <ul class="yiji-items" id="yiList">
+              <li>載入中...</li>
+            </ul>
+          </div>
+          <div class="yiji-box">
+            <div class="yiji-tag ji">忌</div>
+            <ul class="yiji-items" id="jiList">
+              <li>載入中...</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="god-illustration">
+          <!-- 之後可以換成真正圖片 -->
+          <span>插畫</span>
+        </div>
+      </div>
+
+      <div class="card-subnote" id="noteText">
+        今日宜忌僅作為文化參考。
+      </div>
+
+      <div class="side-badge">
+        今日·中國風黃曆
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

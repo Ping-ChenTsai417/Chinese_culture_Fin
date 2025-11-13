@@ -1,0 +1,9 @@
+# API keys
+.env
+
+# 產生的 JSON
+data/*.json
+
+# Python cache
+__pycache__/
+*.pyc

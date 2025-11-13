@@ -1,0 +1,222 @@
+:root {
+  --bg: #f6f3f0;
+  --red: #d95c4a;
+  --dark-red: #b63e30;
+  --card-bg: #fffaf6;
+  --text-main: #5a4740;
+  --text-muted: #8b7b72;
+  --green: #2f9b5a;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang TC",
+    "Microsoft JhengHei", sans-serif;
+  background: var(--bg);
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+  color: var(--text-main);
+}
+
+.app {
+  width: 100%;
+  max-width: 420px; /* 手機寬度優先 */
+}
+
+/* 頂部欄 */
+.top-bar {
+  background: var(--red);
+  color: #fff7f0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+  border-radius: 10px 10px 0 0;
+}
+
+.top-btn {
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.top-bar-title {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* 日期條 */
+.date-strip {
+  display: flex;
+  background: #fbe8de;
+  padding: 6px 4px 8px;
+  gap: 6px;
+  border-radius: 0 0 10px 10px;
+  margin-bottom: 10px;
+}
+
+.date-item {
+  flex: 1;
+  border-radius: 8px;
+  background: #fef3ee;
+  text-align: center;
+  padding: 4px 2px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.date-item .day {
+  font-size: 12px;
+}
+.date-item .greg {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--dark-red);
+}
+.date-item .lunar {
+  font-size: 11px;
+}
+
+.date-item.active {
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* 主卡片 */
+.card {
+  background: var(--card-bg);
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border: 1px solid #f0e0d4;
+  padding-bottom: 12px;
+  position: relative;
+}
+
+.card-header {
+  background: linear-gradient(135deg, #f7d8c2, #f1b79c);
+  border-radius: 14px 14px 0 0;
+  padding: 10px 12px 8px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-header-title {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.card-header-sub {
+  font-size: 11px;
+  color: #fff5ec;
+  margin-top: 2px;
+}
+
+/* 宜忌 + 插畫 */
+.card-main {
+  display: flex;
+  padding: 10px 10px 0;
+  gap: 8px;
+}
+
+.yiji-column {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.yiji-box {
+  background: #fff7f2;
+  border-radius: 10px;
+  padding: 6px 6px 6px 10px;
+  border: 1px solid #f0ddd0;
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.yiji-tag {
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.yiji-tag.yi {
+  background: var(--green);
+}
+
+.yiji-tag.ji {
+  background: #d8453a;
+}
+
+.yiji-items {
+  list-style: none;
+  line-height: 1.4;
+}
+
+.yiji-items li + li {
+  margin-top: 2px;
+}
+
+.god-illustration {
+  flex: 1;
+  background: #fbe7de;
+  border-radius: 12px;
+  border: 1px solid #f1d4c5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: #c78e71;
+}
+
+/* 文字說明 */
+.card-subnote {
+  padding: 4px 10px 0;
+  font-size: 11px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.side-badge {
+  position: absolute;
+  top: 64px;
+  right: -2px;
+  writing-mode: vertical-rl;
+  background: #f4c7b0;
+  color: #8b4d3a;
+  font-size: 11px;
+  padding: 6px 3px 4px;
+  border-radius: 6px 0 0 6px;
+}
+
+/* 簡單 RWD：小螢幕時可稍微調整間距 */
+@media (max-width: 360px) {
+  .card-main {
+    flex-direction: column;
+  }
+  .yiji-column {
+    width: 100%;
+  }
+}
