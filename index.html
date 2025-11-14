@@ -8,6 +8,7 @@
 </head>
 <body>
   <div class="app">
+
     <!-- 頂部列 -->
     <header class="top-bar">
       <button class="top-btn">
@@ -18,23 +19,22 @@
 
       <!-- 語言切換 -->
       <div class="lang-switch">
-        <button class="lang-btn active" data-lang="zh" onclick="setLang('zh')">中</button>
-        <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
-        <button class="lang-btn" data-lang="fi" data-label="Suomi" onclick="setLang('fi')">FI</button>
+        <button class="lang-btn active" data-lang="zh">中</button>
+        <button class="lang-btn" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="fi">FI</button>
       </div>
     </header>
 
-    <!-- 主卡片：黃曆內容 -->
+    <!-- 主體卡片 -->
     <main class="almanac-card">
-      <!-- 上方：年份 / 農曆資訊 -->
+
+      <!-- header（年份 / 農曆） -->
       <section class="almanac-header">
-        <div class="almanac-header-line" id="headerYear">2025年 11月</div>
-        <div class="almanac-header-line small" id="headerLunar">
-          載入中…
-        </div>
+        <div class="almanac-header-line" id="headerYear">載入中…</div>
+        <div class="almanac-header-line small" id="headerLunar">載入中…</div>
       </section>
 
-      <!-- 中間：大日期 + 星期 -->
+      <!-- 大日期 -->
       <section class="almanac-main">
         <div class="big-day" id="bigDay">--</div>
         <div class="day-info">
@@ -43,7 +43,7 @@
         </div>
       </section>
 
-      <!-- 宜 / 忌 -->
+      <!-- 宜 忌 -->
       <section class="yiji-section">
         <div class="yiji-column">
           <div class="yiji-title yi">宜</div>
@@ -59,16 +59,12 @@
         </div>
       </section>
 
-      <!-- 今日小語 -->
+      <!-- 小語 -->
       <section class="note-section">
-        <p id="noteText">
-          今日宜忌僅作為文化參考，請以自己的身心狀態為主。
-        </p>
+        <p id="noteText">載入中…</p>
       </section>
 
-      <div class="side-badge">
-        今日 · 中國風黃曆
-      </div>
+      <div class="side-badge">今日 · 中國風黃曆</div>
     </main>
   </div>
 

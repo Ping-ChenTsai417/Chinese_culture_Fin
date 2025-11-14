@@ -8,7 +8,7 @@
   --green: #2f9b5a;
 }
 
-/* 全域重置 */
+/* reset */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -16,41 +16,38 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "PingFang TC",
-    "Microsoft JhengHei", sans-serif;
-  background: radial-gradient(circle at top, #ffece0 0, #f6f1ea 45%, #f2e4d6 100%);
+  background: radial-gradient(circle at top, #ffece0 0, #f6f1ea 50%, #f2e4d6 100%);
+  font-family: "PingFang TC", "Microsoft JhengHei", sans-serif;
   display: flex;
   justify-content: center;
-  padding: 16px 12px;
-  color: var(--text-main);
+  padding: 16px;
 }
 
-/* app 容器（手機優先） */
 .app {
   width: 100%;
   max-width: 420px;
 }
 
-/* 頂部列 */
+/* top bar */
 .top-bar {
   background: var(--red);
-  color: #fff7f0;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 8px 10px;
+  color: white;
+  padding: 8px 12px;
   border-radius: 12px 12px 0 0;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  z-index: 10; /* <<< 確保語言鍵永遠在上面 */
 }
 
 .top-btn {
+  background: none;
   border: none;
-  background: transparent;
   color: inherit;
-  font-size: 13px;
+  font-size: 14px;
   display: flex;
-  align-items: center;
-  gap: 4px;
+  gap: 3px;
   cursor: pointer;
 }
 
@@ -59,88 +56,77 @@ body {
   font-weight: 600;
 }
 
-/* 語言切換 */
+/* language switch */
 .lang-switch {
   display: flex;
   gap: 4px;
 }
 
 .lang-btn {
-  background: rgba(255, 255, 255, 0.16);
-  border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  padding: 2px 8px;
+  background: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.5);
+  padding: 2px 6px;
   font-size: 12px;
-  color: #ffeae0;
+  border-radius: 6px;
   cursor: pointer;
 }
 
 .lang-btn.active {
-  background: #fff7ef;
+  background: #fff;
   color: var(--dark-red);
-  border-color: #ffd1ba;
 }
 
-
-/* 黃曆主卡片 */
+/* card */
 .almanac-card {
-  margin-top: 10px;
   background: var(--card-bg);
-  border-radius: 0 0 16px 16px;
-  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+  border-radius: 0 0 12px 12px;
   border: 1px solid #f1dac4;
-  padding: 12px 12px 14px;
-  position: relative;
-  overflow: hidden;
+  padding: 12px;
+  margin-top: 6px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
 }
 
-/* 上方 header（年份 / 農曆） */
 .almanac-header {
   text-align: center;
-  border-bottom: 1px dashed #e4c8ae;
-  padding-bottom: 6px;
+  border-bottom: 1px dashed #debda4;
+  padding-bottom: 4px;
 }
 
 .almanac-header-line {
   font-size: 14px;
   font-weight: 600;
-  letter-spacing: 2px;
 }
 
 .almanac-header-line.small {
-  margin-top: 3px;
   font-size: 11px;
+  margin-top: 3px;
   color: var(--text-muted);
 }
 
-/* 中間：大日期 */
+/* big date */
 .almanac-main {
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 18px;
-  padding: 10px 6px 8px;
-  border-bottom: 1px dashed #e4c8ae;
+  align-items: flex-end;
+  gap: 20px;
+  padding: 10px 0;
+  border-bottom: 1px dashed #debda4;
 }
 
 .big-day {
   font-size: 64px;
-  line-height: 1;
   font-weight: 800;
   color: var(--dark-red);
-  text-shadow: 0 3px 0 #f3c7af;
 }
 
 .day-info {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   gap: 2px;
 }
 
 .weekday {
   font-size: 14px;
-  font-weight: 600;
 }
 
 .date-iso {
@@ -148,92 +134,70 @@ body {
   color: var(--text-muted);
 }
 
-/* 宜 / 忌 區塊 */
+/* Yi Ji */
 .yiji-section {
+  margin-top: 12px;
   display: flex;
   gap: 10px;
-  margin-top: 10px;
 }
 
 .yiji-column {
   flex: 1;
-  background: #fffaf5;
-  border-radius: 12px;
-  border: 1px solid #f0d6c0;
-  padding: 8px 8px 6px;
+  background: white;
+  border-radius: 10px;
+  border: 1px solid #f1dac4;
+  padding: 8px;
 }
 
 .yiji-title {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 14px;
   font-weight: 700;
-  border-radius: 999px;
-  padding: 2px 10px;
+  font-size: 14px;
   margin-bottom: 6px;
-  color: #fff7ef;
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 6px;
+  color: white;
 }
 
-.yiji-title.yi {
-  background: var(--green);
-}
-
-.yiji-title.ji {
-  background: var(--red);
-}
+.yiji-title.yi { background: var(--green); }
+.yiji-title.ji { background: var(--red); }
 
 .yiji-list {
-  list-style: none;
   font-size: 12px;
-  line-height: 1.5;
   color: var(--text-main);
 }
 
 .yiji-list li + li {
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
-/* 今日小語 */
+/* note */
 .note-section {
-  margin-top: 10px;
-  border-top: 1px dashed #e4c8ae;
-  padding-top: 6px;
+  margin-top: 12px;
+  border-top: 1px dashed #debda4;
+  padding-top: 8px;
 }
 
 .note-section p {
-  font-size: 11px;
   color: var(--text-muted);
+  font-size: 12px;
   text-align: center;
 }
 
-/* 側邊標籤 */
+/* badge */
 .side-badge {
   position: absolute;
-  top: 40px;
-  right: -2px;
+  right: -3px;
+  top: 80px;
   writing-mode: vertical-rl;
-  background: #f4c4aa;
-  color: #84402c;
-  font-size: 11px;
-  padding: 6px 3px 4px;
+  background: #f6d7c6;
+  padding: 6px;
   border-radius: 6px 0 0 6px;
+  color: var(--dark-red);
+  font-size: 11px;
 }
 
-/* RWD：螢幕較窄時，宜忌上下排 */
-@media (max-width: 380px) {
-  .almanac-main {
-    flex-direction: column;
-    gap: 4px;
-  }
-
-  .yiji-section {
-    flex-direction: column;
-  }
-
-  .day-info {
-    align-items: center;
-  }
+/* RWD */
+@media (max-width: 400px) {
+  .yiji-section { flex-direction: column; }
 }
-
-
