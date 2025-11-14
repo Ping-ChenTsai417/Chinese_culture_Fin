@@ -8,64 +8,65 @@
 </head>
 <body>
   <div class="app">
-
-    <!-- 頂部列 -->
+    <!-- 頂部 -->
     <header class="top-bar">
-      <button class="top-btn">
-        <span class="icon">‹</span><span id="prevMonthLabel">上一月</span>
+      <button class="top-btn" id="prevMonth">
+        <span class="icon">‹</span><span>上一月</span>
       </button>
-
-      <div class="top-bar-title" id="monthTitle">載入中…</div>
+      
+      <div class="top-bar-title" id="monthTitle">載入中...</div>
 
       <!-- 語言切換 -->
       <div class="lang-switch">
-        <button class="lang-btn active" data-lang="zh">中</button>
+        <button class="lang-btn" data-lang="zh">中</button>
         <button class="lang-btn" data-lang="en">EN</button>
         <button class="lang-btn" data-lang="fi">FI</button>
       </div>
     </header>
 
-    <!-- 主體卡片 -->
-    <main class="almanac-card">
-
-      <!-- header（年份 / 農曆） -->
-      <section class="almanac-header">
-        <div class="almanac-header-line" id="headerYear">載入中…</div>
-        <div class="almanac-header-line small" id="headerLunar">載入中…</div>
-      </section>
+    <!-- 卡片 -->
+    <div class="almanac-card">
+      <!-- 標題 -->
+      <div class="almanac-header">
+        <div class="almanac-header-line" id="headerYear">2025年 11月</div>
+        <div class="almanac-header-line small" id="headerLunar">農曆資訊載入中...</div>
+      </div>
 
       <!-- 大日期 -->
-      <section class="almanac-main">
+      <div class="almanac-main">
         <div class="big-day" id="bigDay">--</div>
         <div class="day-info">
           <div class="weekday" id="weekdayDisplay">--</div>
           <div class="date-iso" id="dateIsoDisplay">YYYY-MM-DD</div>
         </div>
-      </section>
+      </div>
 
-      <!-- 宜 忌 -->
-      <section class="yiji-section">
+      <!-- 宜忌 -->
+      <div class="yiji-section">
         <div class="yiji-column">
           <div class="yiji-title yi">宜</div>
           <ul class="yiji-list" id="yiList">
-            <li>載入中…</li>
+            <li>載入中...</li>
           </ul>
         </div>
         <div class="yiji-column">
           <div class="yiji-title ji">忌</div>
           <ul class="yiji-list" id="jiList">
-            <li>載入中…</li>
+            <li>載入中...</li>
           </ul>
         </div>
-      </section>
+      </div>
 
-      <!-- 小語 -->
-      <section class="note-section">
-        <p id="noteText">載入中…</p>
-      </section>
+      <!-- 備註 -->
+      <div class="note-section">
+        <p id="noteText">今日宜忌僅作為文化參考。</p>
+      </div>
 
-      <div class="side-badge">今日 · 中國風黃曆</div>
-    </main>
+      <!-- 側邊標籤 -->
+      <div class="side-badge">
+        今日·中國風黃曆
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>

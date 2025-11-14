@@ -1,6 +1,4 @@
-//
-// app.js — NEW VERSION
-//
+// app.js — 修复版本
 
 let currentLang = "zh"; // zh | en | fi
 let currentData = null;
@@ -34,9 +32,9 @@ function updateLangButtons() {
 
 // 取得今日小語（多語 fallback）
 function getNote(data) {
-  if (currentLang === "zh") return data.note_zh || data.note_en || "";
-  if (currentLang === "fi") return data.note_fi || data.note_en || "";
-  return data.note_en || "";
+  if (currentLang === "zh") return data.note_zh || data.note_en || "今日宜忌僅作為文化參考。";
+  if (currentLang === "fi") return data.note_fi || data.note_en || "For cultural reference only.";
+  return data.note_en || "For cultural reference only.";
 }
 
 // 畫面更新
@@ -44,7 +42,7 @@ function render(data) {
   currentData = data;
 
   const iso = data.date_iso || getTodayIso();
-  const d = new Date(iso);
+  const d = new Date(iso + "T00:00:00"); // 加上時間避免時區問題
 
   const year = d.getFullYear();
   const month = d.getMonth();
@@ -53,80 +51,143 @@ function render(data) {
 
   // 月份標題
   const monthTitle = document.getElementById("monthTitle");
-  monthTitle.textContent =
-    currentLang === "zh"
-      ? `${year}年 ${month+1}月`
-      : `${MONTH_LABELS[currentLang][month]} ${year}`;
+  if (monthTitle) {
+    monthTitle.textContent =
+      currentLang === "zh"
+        ? `${year}年 ${month+1}月`
+        : `${MONTH_LABELS[currentLang][month]} ${year}`;
+  }
 
-  document.getElementById("headerYear").textContent =
-    monthTitle.textContent;
+  // 年份標題
+  const headerYear = document.getElementById("headerYear");
+  if (headerYear) {
+    headerYear.textContent =
+      currentLang === "zh"
+        ? `${year}年 ${month+1}月`
+        : `${MONTH_LABELS[currentLang][month]} ${year}`;
+  }
 
-  // 星期與日期
-  document.getElementById("bigDay").textContent = day;
-  document.getElementById("weekdayDisplay").textContent =
-    WEEKDAY_LABELS[currentLang][weekday];
-  document.getElementById("dateIsoDisplay").textContent = iso;
+  // 大日期
+  const bigDay = document.getElementById("bigDay");
+  if (bigDay) {
+    bigDay.textContent = day;
+  }
+
+  // 星期
+  const weekdayDisplay = document.getElementById("weekdayDisplay");
+  if (weekdayDisplay) {
+    weekdayDisplay.textContent = WEEKDAY_LABELS[currentLang][weekday];
+  }
+
+  // ISO日期
+  const dateIsoDisplay = document.getElementById("dateIsoDisplay");
+  if (dateIsoDisplay) {
+    dateIsoDisplay.textContent = iso;
+  }
 
   // 農曆資訊
   const lunar = data.lunar_cn || "";
   const zodiac = data.zodiac_cn || "";
   const solar = data.solar_term_cn || "—";
-  document.getElementById("headerLunar").textContent =
-    `${lunar} · ${zodiac?zodiac+"年 · ":""}節氣：${solar}`;
+  const headerLunar = document.getElementById("headerLunar");
+  if (headerLunar) {
+    headerLunar.textContent = `${lunar} · ${zodiac ? zodiac+"年 · " : ""}節氣：${solar}`;
+  }
 
   // 宜
   const yiList = document.getElementById("yiList");
-  yiList.innerHTML = "";
-  (data.yi||[]).forEach(item=>{
-    const li = document.createElement("li");
-    li.textContent = item[currentLang] || item.en || item.zh || item.fi;
-    yiList.appendChild(li);
-  });
+  if (yiList) {
+    yiList.innerHTML = "";
+    if (data.yi && data.yi.length > 0) {
+      data.yi.forEach(item => {
+        const li = document.createElement("li");
+        li.textContent = item[currentLang] || item.en || item.zh || item.fi || item;
+        yiList.appendChild(li);
+      });
+    } else {
+      const li = document.createElement("li");
+      li.textContent = currentLang === "zh" ? "無特別事項" : "None";
+      yiList.appendChild(li);
+    }
+  }
 
   // 忌
   const jiList = document.getElementById("jiList");
-  jiList.innerHTML = "";
-  (data.ji||[]).forEach(item=>{
-    const li = document.createElement("li");
-    li.textContent = item[currentLang] || item.en || item.zh || item.fi;
-    jiList.appendChild(li);
-  });
+  if (jiList) {
+    jiList.innerHTML = "";
+    if (data.ji && data.ji.length > 0) {
+      data.ji.forEach(item => {
+        const li = document.createElement("li");
+        li.textContent = item[currentLang] || item.en || item.zh || item.fi || item;
+        jiList.appendChild(li);
+      });
+    } else {
+      const li = document.createElement("li");
+      li.textContent = currentLang === "zh" ? "無特別禁忌" : "None";
+      jiList.appendChild(li);
+    }
+  }
 
   // note
-  document.getElementById("noteText").textContent = getNote(data);
+  const noteText = document.getElementById("noteText");
+  if (noteText) {
+    noteText.textContent = getNote(data);
+  }
 }
 
 // 載入 JSON
 async function loadToday() {
   const iso = getTodayIso();
+  console.log("Loading data for:", iso);
+  
   try {
     const res = await fetch(`data/${iso}.json`);
-    if (!res.ok) throw new Error("no json");
+    console.log("Fetch response:", res.status);
+    
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+    
     const data = await res.json();
+    console.log("Loaded data:", data);
     render(data);
   } catch (e) {
+    console.error("Error loading data:", e);
+    
+    // 顯示錯誤訊息，但用預設數據
     render({
       date_iso: iso,
-      lunar_cn: "",
+      lunar_cn: "農曆資訊未載入",
       zodiac_cn: "",
       solar_term_cn: "—",
-      yi: [],
-      ji: [],
-      note_en: "Failed to load today's JSON."
+      yi: [{zh: "無資料", en: "No data", fi: "Ei tietoja"}],
+      ji: [{zh: "無資料", en: "No data", fi: "Ei tietoja"}],
+      note_zh: "無法載入今日黃曆資料，請檢查 data 資料夾。",
+      note_en: "Failed to load today's data. Please check the data folder.",
+      note_fi: "Tietojen lataaminen epäonnistui. Tarkista data-kansio."
     });
   }
 }
 
-// 語言切換事件（不使用 onclick）
-document.addEventListener("DOMContentLoaded", ()=>{
-  document.querySelectorAll(".lang-btn").forEach(btn=>{
-    btn.addEventListener("click", ()=>{
+// 初始化
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("DOM loaded, initializing...");
+  
+  // 語言切換按鈕事件
+  document.querySelectorAll(".lang-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
       currentLang = btn.dataset.lang;
+      console.log("Language changed to:", currentLang);
       updateLangButtons();
-      if (currentData) render(currentData);
+      if (currentData) {
+        render(currentData);
+      }
     });
   });
 
+  // 初始化語言按鈕狀態
   updateLangButtons();
+  
+  // 載入今日資料
   loadToday();
 });

@@ -1,33 +1,43 @@
 {
   "date_iso": "2025-11-14",
-  "weekday_en": "Friday",
   "lunar_cn": "十月廿四",
   "zodiac_cn": "蛇",
   "solar_term_cn": "—",
   "yi": [
     {
-      "zh": "规划周末时光",
-      "en": "Plan your weekend",
-      "fi": "Suunnittele viikonloppua"
+      "zh": "與友相聚",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
     },
     {
-      "zh": "与人交流分享",
-      "en": "Connect and share",
-      "fi": "Keskustele ja jaa"
+      "zh": "享受悠閒",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
     }
   ],
   "ji": [
     {
-      "zh": "过度耗费精力",
-      "en": "Over-exert yourself",
-      "fi": "Kuluttaa liikaa energiaa"
+      "zh": "熬夜通宵",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
     },
     {
-      "zh": "拖延未竟之事",
-      "en": "Postpone pending tasks",
-      "fi": "Lykkää keskeneräisiä töitä"
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Rasita itseäsi liikaa"
+    },
+    {
+      "zh": "累積壓力",
+      "en": "Accumulate stress",
+      "fi": "Kerää stressiä"
     }
   ],
-  "note_en": "As the week winds down, take a moment to reflect on your achievements and embrace the approaching weekend's calm.",
-  "note_fi": "Viikon lähestyessä loppuaan, pysähdy pohtimaan saavutuksiasi ja anna mielesi rauhoittua lähestyvää viikonloppua varten."
+  "note_zh": "週末將至，為自己留出空間，享受當下，迎接輕鬆。",
+  "note_en": "As the weekend approaches, make space for yourself to enjoy the present and embrace ease.",
+  "note_fi": "Viikonlopun lähestyessä varaa aikaa itsellesi nauttiaksesi nykyhetkestä ja rentoutuaksesi."
 }

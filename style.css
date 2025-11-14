@@ -21,6 +21,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 16px;
+  min-height: 100vh;
 }
 
 .app {
@@ -38,7 +39,7 @@ body {
   justify-content: space-between;
   align-items: center;
   position: relative;
-  z-index: 10; /* <<< 確保語言鍵永遠在上面 */
+  z-index: 10;
 }
 
 .top-btn {
@@ -48,7 +49,12 @@ body {
   font-size: 14px;
   display: flex;
   gap: 3px;
+  align-items: center;
   cursor: pointer;
+}
+
+.top-btn .icon {
+  font-size: 18px;
 }
 
 .top-bar-title {
@@ -65,15 +71,22 @@ body {
 .lang-btn {
   background: rgba(255,255,255,0.2);
   border: 1px solid rgba(255,255,255,0.5);
-  padding: 2px 6px;
+  padding: 3px 8px;
   font-size: 12px;
   border-radius: 6px;
   cursor: pointer;
+  color: white;
+  transition: all 0.2s;
+}
+
+.lang-btn:hover {
+  background: rgba(255,255,255,0.3);
 }
 
 .lang-btn.active {
   background: #fff;
   color: var(--dark-red);
+  font-weight: 600;
 }
 
 /* card */
@@ -81,20 +94,22 @@ body {
   background: var(--card-bg);
   border-radius: 0 0 12px 12px;
   border: 1px solid #f1dac4;
-  padding: 12px;
-  margin-top: 6px;
+  padding: 16px;
   box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  position: relative;
 }
 
 .almanac-header {
   text-align: center;
   border-bottom: 1px dashed #debda4;
-  padding-bottom: 4px;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
 }
 
 .almanac-header-line {
   font-size: 14px;
   font-weight: 600;
+  color: var(--text-main);
 }
 
 .almanac-header-line.small {
@@ -109,24 +124,28 @@ body {
   justify-content: center;
   align-items: flex-end;
   gap: 20px;
-  padding: 10px 0;
+  padding: 12px 0;
   border-bottom: 1px dashed #debda4;
 }
 
 .big-day {
-  font-size: 64px;
+  font-size: 72px;
   font-weight: 800;
   color: var(--dark-red);
+  line-height: 1;
 }
 
 .day-info {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 4px;
+  padding-bottom: 8px;
 }
 
 .weekday {
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-main);
 }
 
 .date-iso {
@@ -146,15 +165,15 @@ body {
   background: white;
   border-radius: 10px;
   border: 1px solid #f1dac4;
-  padding: 8px;
+  padding: 10px;
 }
 
 .yiji-title {
   font-weight: 700;
-  font-size: 14px;
-  margin-bottom: 6px;
+  font-size: 13px;
+  margin-bottom: 8px;
   display: inline-block;
-  padding: 2px 10px;
+  padding: 3px 12px;
   border-radius: 6px;
   color: white;
 }
@@ -163,25 +182,32 @@ body {
 .yiji-title.ji { background: var(--red); }
 
 .yiji-list {
+  list-style: none;
   font-size: 12px;
   color: var(--text-main);
 }
 
-.yiji-list li + li {
-  margin-top: 3px;
+.yiji-list li {
+  padding: 3px 0;
+}
+
+.yiji-list li::before {
+  content: "• ";
+  color: var(--text-muted);
 }
 
 /* note */
 .note-section {
   margin-top: 12px;
   border-top: 1px dashed #debda4;
-  padding-top: 8px;
+  padding-top: 10px;
 }
 
 .note-section p {
   color: var(--text-muted);
-  font-size: 12px;
+  font-size: 11px;
   text-align: center;
+  line-height: 1.4;
 }
 
 /* badge */
@@ -191,13 +217,25 @@ body {
   top: 80px;
   writing-mode: vertical-rl;
   background: #f6d7c6;
-  padding: 6px;
+  padding: 8px 6px;
   border-radius: 6px 0 0 6px;
   color: var(--dark-red);
   font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
 }
 
 /* RWD */
 @media (max-width: 400px) {
-  .yiji-section { flex-direction: column; }
+  .yiji-section { 
+    flex-direction: column; 
+  }
+  
+  .big-day {
+    font-size: 64px;
+  }
+  
+  .almanac-main {
+    gap: 15px;
+  }
 }
