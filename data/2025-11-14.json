@@ -1,0 +1,33 @@
+{
+  "date_iso": "2025-11-14",
+  "weekday_en": "Friday",
+  "lunar_cn": "十月廿四",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "规划周末时光",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppua"
+    },
+    {
+      "zh": "与人交流分享",
+      "en": "Connect and share",
+      "fi": "Keskustele ja jaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "过度耗费精力",
+      "en": "Over-exert yourself",
+      "fi": "Kuluttaa liikaa energiaa"
+    },
+    {
+      "zh": "拖延未竟之事",
+      "en": "Postpone pending tasks",
+      "fi": "Lykkää keskeneräisiä töitä"
+    }
+  ],
+  "note_en": "As the week winds down, take a moment to reflect on your achievements and embrace the approaching weekend's calm.",
+  "note_fi": "Viikon lähestyessä loppuaan, pysähdy pohtimaan saavutuksiasi ja anna mielesi rauhoittua lähestyvää viikonloppua varten."
+}

@@ -1,0 +1,33 @@
+{
+  "date_iso": "2025-11-13",
+  "weekday_en": "Thursday",
+  "lunar_cn": "十月廿三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "回顾进展",
+      "en": "Review your week's progress",
+      "fi": "Kertaa viikon edistystäsi"
+    },
+    {
+      "zh": "联系同事",
+      "en": "Connect with colleagues",
+      "fi": "Ota yhteyttä työkavereihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "过度劳累",
+      "en": "Overwork yourself",
+      "fi": "Ylikuormita itseäsi"
+    },
+    {
+      "zh": "忽视休息",
+      "en": "Neglect your rest",
+      "fi": "Unohda levätä"
+    }
+  ],
+  "note_en": "As the week winds down, take a moment to acknowledge your efforts and prepare for restorative rest.",
+  "note_fi": "Viikon lähestyessä loppuaan, pysähdy hetkeksi tunnustamaan ponnistelusi ja valmistaudu palauttavaan lepoon."
+}
