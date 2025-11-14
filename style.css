@@ -1,13 +1,14 @@
 :root {
-  --bg: #f6f3f0;
-  --red: #d95c4a;
-  --dark-red: #b63e30;
-  --card-bg: #fffaf6;
-  --text-main: #5a4740;
-  --text-muted: #8b7b72;
+  --bg: #f6f1ea;
+  --red: #d64532;
+  --dark-red: #b13527;
+  --card-bg: #fff7ef;
+  --text-main: #5a3f36;
+  --text-muted: #8d7a6f;
   --green: #2f9b5a;
 }
 
+/* 全域重置 */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -17,19 +18,20 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "PingFang TC",
     "Microsoft JhengHei", sans-serif;
-  background: var(--bg);
+  background: radial-gradient(circle at top, #ffece0 0, #f6f1ea 45%, #f2e4d6 100%);
   display: flex;
   justify-content: center;
-  padding: 12px;
+  padding: 16px 12px;
   color: var(--text-main);
 }
 
+/* app 容器（手機優先） */
 .app {
   width: 100%;
-  max-width: 420px; /* 手機寬度優先 */
+  max-width: 420px;
 }
 
-/* 頂部欄 */
+/* 頂部列 */
 .top-bar {
   background: var(--red);
   color: #fff7f0;
@@ -37,14 +39,15 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 8px 10px;
-  border-radius: 10px 10px 0 0;
+  border-radius: 12px 12px 0 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
 }
 
 .top-btn {
   border: none;
   background: transparent;
   color: inherit;
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -56,167 +59,181 @@ body {
   font-weight: 600;
 }
 
-/* 日期條 */
-.date-strip {
+/* 語言切換 */
+.lang-switch {
   display: flex;
-  background: #fbe8de;
-  padding: 6px 4px 8px;
-  gap: 6px;
-  border-radius: 0 0 10px 10px;
-  margin-bottom: 10px;
+  gap: 4px;
 }
 
-.date-item {
-  flex: 1;
-  border-radius: 8px;
-  background: #fef3ee;
-  text-align: center;
-  padding: 4px 2px;
-  font-size: 11px;
-  color: var(--text-muted);
-}
-
-.date-item .day {
+.lang-btn {
+  background: rgba(255, 255, 255, 0.16);
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 2px 8px;
   font-size: 12px;
+  color: #ffeae0;
+  cursor: pointer;
 }
-.date-item .greg {
-  font-size: 18px;
-  font-weight: 700;
+
+.lang-btn.active {
+  background: #fff7ef;
   color: var(--dark-red);
-}
-.date-item .lunar {
-  font-size: 11px;
+  border-color: #ffd1ba;
 }
 
-.date-item.active {
-  background: #ffffff;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-}
 
-/* 主卡片 */
-.card {
+/* 黃曆主卡片 */
+.almanac-card {
+  margin-top: 10px;
   background: var(--card-bg);
-  border-radius: 14px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  border: 1px solid #f0e0d4;
-  padding-bottom: 12px;
-  position: relative;
-}
-
-.card-header {
-  background: linear-gradient(135deg, #f7d8c2, #f1b79c);
-  border-radius: 14px 14px 0 0;
-  padding: 10px 12px 8px;
-  text-align: center;
+  border-radius: 0 0 16px 16px;
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+  border: 1px solid #f1dac4;
+  padding: 12px 12px 14px;
   position: relative;
   overflow: hidden;
 }
 
-.card-header-title {
-  font-size: 16px;
-  font-weight: 700;
+/* 上方 header（年份 / 農曆） */
+.almanac-header {
+  text-align: center;
+  border-bottom: 1px dashed #e4c8ae;
+  padding-bottom: 6px;
+}
+
+.almanac-header-line {
+  font-size: 14px;
+  font-weight: 600;
   letter-spacing: 2px;
 }
 
-.card-header-sub {
+.almanac-header-line.small {
+  margin-top: 3px;
   font-size: 11px;
-  color: #fff5ec;
-  margin-top: 2px;
+  color: var(--text-muted);
 }
 
-/* 宜忌 + 插畫 */
-.card-main {
+/* 中間：大日期 */
+.almanac-main {
   display: flex;
-  padding: 10px 10px 0;
-  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 10px 6px 8px;
+  border-bottom: 1px dashed #e4c8ae;
+}
+
+.big-day {
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 800;
+  color: var(--dark-red);
+  text-shadow: 0 3px 0 #f3c7af;
+}
+
+.day-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+}
+
+.weekday {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.date-iso {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+/* 宜 / 忌 區塊 */
+.yiji-section {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
 }
 
 .yiji-column {
-  width: 40%;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
+  flex: 1;
+  background: #fffaf5;
+  border-radius: 12px;
+  border: 1px solid #f0d6c0;
+  padding: 8px 8px 6px;
 }
 
-.yiji-box {
-  background: #fff7f2;
-  border-radius: 10px;
-  padding: 6px 6px 6px 10px;
-  border: 1px solid #f0ddd0;
-  display: flex;
-  align-items: flex-start;
-  gap: 6px;
-  font-size: 12px;
-}
-
-.yiji-tag {
-  width: 22px;
-  height: 22px;
-  border-radius: 999px;
-  display: flex;
+.yiji-title {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
-  flex-shrink: 0;
+  border-radius: 999px;
+  padding: 2px 10px;
+  margin-bottom: 6px;
+  color: #fff7ef;
 }
 
-.yiji-tag.yi {
+.yiji-title.yi {
   background: var(--green);
 }
 
-.yiji-tag.ji {
-  background: #d8453a;
+.yiji-title.ji {
+  background: var(--red);
 }
 
-.yiji-items {
+.yiji-list {
   list-style: none;
-  line-height: 1.4;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--text-main);
 }
 
-.yiji-items li + li {
+.yiji-list li + li {
   margin-top: 2px;
 }
 
-.god-illustration {
-  flex: 1;
-  background: #fbe7de;
-  border-radius: 12px;
-  border: 1px solid #f1d4c5;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 12px;
-  color: #c78e71;
+/* 今日小語 */
+.note-section {
+  margin-top: 10px;
+  border-top: 1px dashed #e4c8ae;
+  padding-top: 6px;
 }
 
-/* 文字說明 */
-.card-subnote {
-  padding: 4px 10px 0;
+.note-section p {
   font-size: 11px;
   color: var(--text-muted);
   text-align: center;
 }
 
+/* 側邊標籤 */
 .side-badge {
   position: absolute;
-  top: 64px;
+  top: 40px;
   right: -2px;
   writing-mode: vertical-rl;
-  background: #f4c7b0;
-  color: #8b4d3a;
+  background: #f4c4aa;
+  color: #84402c;
   font-size: 11px;
   padding: 6px 3px 4px;
   border-radius: 6px 0 0 6px;
 }
 
-/* 簡單 RWD：小螢幕時可稍微調整間距 */
-@media (max-width: 360px) {
-  .card-main {
+/* RWD：螢幕較窄時，宜忌上下排 */
+@media (max-width: 380px) {
+  .almanac-main {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .yiji-section {
     flex-direction: column;
   }
-  .yiji-column {
-    width: 100%;
+
+  .day-info {
+    align-items: center;
   }
 }
+
+

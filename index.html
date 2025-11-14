@@ -8,61 +8,66 @@
 </head>
 <body>
   <div class="app">
-    <!-- 頂部 -->
+    <!-- 頂部列 -->
     <header class="top-bar">
       <button class="top-btn">
-        <span class="icon">‹</span><span>上一月</span>
+        <span class="icon">‹</span><span id="prevMonthLabel">上一月</span>
       </button>
-      <div class="top-bar-title" id="monthTitle">載入中...</div>
-      <button class="top-btn">
-        <span>陽曆</span><span class="icon">☰</span>
-      </button>
+
+      <div class="top-bar-title" id="monthTitle">載入中…</div>
+
+      <!-- 語言切換 -->
+      <div class="lang-switch">
+        <button class="lang-btn active" data-lang="zh" onclick="setLang('zh')">中</button>
+        <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
+        <button class="lang-btn" data-lang="fi" data-label="Suomi" onclick="setLang('fi')">FI</button>
+      </div>
     </header>
 
-    <!-- 日期條（先放幾個靜態示意，之後要再動態也可以） -->
-    <section class="date-strip">
-      <div class="date-item active">
-        <div class="day" id="weekdayText">--</div>
-        <div class="greg" id="gregDate">--</div>
-        <div class="lunar" id="lunarStrip">載入中...</div>
-      </div>
-    </section>
+    <!-- 主卡片：黃曆內容 -->
+    <main class="almanac-card">
+      <!-- 上方：年份 / 農曆資訊 -->
+      <section class="almanac-header">
+        <div class="almanac-header-line" id="headerYear">2025年 11月</div>
+        <div class="almanac-header-line small" id="headerLunar">
+          載入中…
+        </div>
+      </section>
 
-    <!-- 主卡片 -->
-    <main class="card">
-      <div class="card-header">
-        <div class="card-header-title" id="lunarTitle">載入中...</div>
-        <div class="card-header-sub" id="headerSub">請稍候</div>
-      </div>
+      <!-- 中間：大日期 + 星期 -->
+      <section class="almanac-main">
+        <div class="big-day" id="bigDay">--</div>
+        <div class="day-info">
+          <div class="weekday" id="weekdayDisplay">--</div>
+          <div class="date-iso" id="dateIsoDisplay">YYYY-MM-DD</div>
+        </div>
+      </section>
 
-      <div class="card-main">
+      <!-- 宜 / 忌 -->
+      <section class="yiji-section">
         <div class="yiji-column">
-          <div class="yiji-box">
-            <div class="yiji-tag yi">宜</div>
-            <ul class="yiji-items" id="yiList">
-              <li>載入中...</li>
-            </ul>
-          </div>
-          <div class="yiji-box">
-            <div class="yiji-tag ji">忌</div>
-            <ul class="yiji-items" id="jiList">
-              <li>載入中...</li>
-            </ul>
-          </div>
+          <div class="yiji-title yi">宜</div>
+          <ul class="yiji-list" id="yiList">
+            <li>載入中…</li>
+          </ul>
         </div>
-
-        <div class="god-illustration">
-          <!-- 之後可以換成真正圖片 -->
-          <span>插畫</span>
+        <div class="yiji-column">
+          <div class="yiji-title ji">忌</div>
+          <ul class="yiji-list" id="jiList">
+            <li>載入中…</li>
+          </ul>
         </div>
-      </div>
+      </section>
 
-      <div class="card-subnote" id="noteText">
-        今日宜忌僅作為文化參考。
-      </div>
+      <!-- 今日小語 -->
+      <section class="note-section">
+        <p id="noteText">
+          今日宜忌僅作為文化參考，請以自己的身心狀態為主。
+        </p>
+      </section>
 
       <div class="side-badge">
-        今日·中國風黃曆
+        今日 · 中國風黃曆
       </div>
     </main>
   </div>
