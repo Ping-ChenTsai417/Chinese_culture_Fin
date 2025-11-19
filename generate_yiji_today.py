@@ -224,11 +224,14 @@ def main():
     """主程式：可選擇生成今天或指定日期的黃曆"""
     import sys
     
-    # 檢查是否有命令列參數指定日期
-    if len(sys.argv) > 1:
+    # 取得命令列傳進來的日期字串（如果有的話）
+    date_arg = sys.argv[1].strip() if len(sys.argv) > 1 else ""
+
+    if date_arg:
+        # 有輸入而且不是純空白 → 視為指定日期
         try:
             # 嘗試解析日期參數 (格式: YYYY-MM-DD)
-            date_str = sys.argv[1]
+            date_str = date_arg
             today = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
             print(f"📅 生成指定日期：{date_str}")
         except ValueError:
@@ -236,7 +239,7 @@ def main():
             print("範例：python generate_yiji_today.py 2025-11-15")
             return
     else:
-        # 使用當前 UTC 時間
+        # 沒有輸入日期（或只輸入空白） → 使用當前 UTC 時間
         today = datetime.now(timezone.utc)
         print(f"📅 生成今日黃曆：{today.strftime('%Y-%m-%d')}")
 
