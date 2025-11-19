@@ -200,13 +200,16 @@ function render(data) {
     }
   }
 
-  // 第 2 排：生肖年
+  // 第 2 排：生肖年（這裡修正 FI 版）
   if (headerZodiac) {
     const zodiacName = ZODIAC_MAP[zodiacCode]?.[currentLang] || zodiacCode || "";
     if (currentLang === "zh") {
       headerZodiac.textContent = `${zodiacName}年`;
-    } else {
+    } else if (currentLang === "en") {
       headerZodiac.textContent = `Year of ${zodiacName}`;
+    } else {
+      // fi：Käärmeen vuosi
+      headerZodiac.textContent = `${zodiacName}n vuosi`;
     }
   }
 
@@ -266,7 +269,7 @@ function render(data) {
     } else {
       const li = document.createElement("li");
       li.textContent = currentLang === "zh" ? "無特別禁忌" : "None";
-      yiList.appendChild(li);
+      jiList.appendChild(li);
     }
   }
 
