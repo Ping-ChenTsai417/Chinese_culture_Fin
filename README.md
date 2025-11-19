@@ -30,10 +30,11 @@ A scheduled GitHub Actions workflow runs a Python script that:
    - Notes in English, Finnish, and optionally Chinese
 3. Saves the result to:
 
-```text
+```
 data/YYYY-MM-DD.json
+```
 
-## ⚙️ How It Works
+### ⚙️ How It Works
 
 1. **Daily Automation (GitHub Actions)**
    - A scheduled workflow runs once per day (via cron).
@@ -65,8 +66,10 @@ pip install python-dotenv google-generativeai
 ### 3. Create a `.env` file (only for local runs)
 
 Create a file named `.env` in the project root:
+```bash
 GEMINI_API_KEY=`your_api_key`
 GEMINI_MODEL_NAME=`gemini-1.5-flash`
+```
 
 ---
 
