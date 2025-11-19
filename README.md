@@ -59,10 +59,11 @@ data/YYYY-MM-DD.json
 ```bash
 git clone https://github.com/<your_name>/Chinese_culture_Fin
 cd Chinese_culture_Fin
+```
 ### 2. Install dependencies
 ```bash
 pip install python-dotenv google-generativeai
-
+```
 ### 3. Create a `.env` file (only for local runs)
 
 Create a file named `.env` in the project root:
