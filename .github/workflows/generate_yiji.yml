@@ -38,7 +38,7 @@ jobs:
       - name: Generate today's YiJi JSON
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL_NAME: gemini-1.5-flash
+          GEMINI_MODEL_NAME: gemini-2.5-flash
         run: |
           # 如果手动触发时指定了日期，使用该日期；否则使用今天
           if [ -n "${{ github.event.inputs.date }}" ]; then
