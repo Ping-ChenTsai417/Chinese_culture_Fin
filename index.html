@@ -7,6 +7,14 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- 背景動畫 -->
+  <div class="bg-animation">
+    <div class="lantern lantern-1"></div>
+    <div class="lantern lantern-2"></div>
+    <div class="coin coin-1"></div>
+    <div class="coin coin-2"></div>
+  </div>
+
   <div class="app">
     <!-- 頂部 -->
     <header class="top-bar">
@@ -44,13 +52,13 @@
       <!-- 宜忌 -->
       <div class="yiji-section">
         <div class="yiji-column">
-          <div class="yiji-title yi">宜</div>
+          <div class="yiji-title yi" id="yiTitle">宜</div>
           <ul class="yiji-list" id="yiList">
             <li>載入中...</li>
           </ul>
         </div>
         <div class="yiji-column">
-          <div class="yiji-title ji">忌</div>
+          <div class="yiji-title ji" id="jiTitle">忌</div>
           <ul class="yiji-list" id="jiList">
             <li>載入中...</li>
           </ul>

@@ -1,4 +1,4 @@
-// app.js — 修复版本
+// app.js 
 
 let currentLang = "zh"; // zh | en | fi
 let currentData = null;
@@ -15,6 +15,20 @@ const MONTH_LABELS = {
   zh: ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
   en: ["January","February","March","April","May","June","July","August","September","October","November","December"],
   fi: ["Tammikuu","Helmikuu","Maaliskuu","Huhtikuu","Toukokuu","Kesäkuu","Heinäkuu","Elokuu","Syyskuu","Lokakuu","Marraskuu","Joulukuu"]
+};
+
+// 多語宜忌標題
+const YIJI_LABELS = {
+  zh: { yi: "宜", ji: "忌" },
+  en: { yi: "Do", ji: "Avoid" },
+  fi: { yi: "Tee", ji: "Vältä" }
+};
+
+// 多語農曆標籤
+const LUNAR_LABELS = {
+  zh: { year: "年", solarTerm: "節氣：" },
+  en: { year: "", solarTerm: "Solar Term: " },
+  fi: { year: "", solarTerm: "Kausi: " }
 };
 
 // 取得 yyyy-mm-dd
@@ -85,14 +99,22 @@ function render(data) {
     dateIsoDisplay.textContent = iso;
   }
 
-  // 農曆資訊
+  // 農曆資訊（多語支持）
   const lunar = data.lunar_cn || "";
   const zodiac = data.zodiac_cn || "";
   const solar = data.solar_term_cn || "—";
   const headerLunar = document.getElementById("headerLunar");
   if (headerLunar) {
-    headerLunar.textContent = `${lunar} · ${zodiac ? zodiac+"年 · " : ""}節氣：${solar}`;
+    const yearLabel = LUNAR_LABELS[currentLang].year;
+    const solarLabel = LUNAR_LABELS[currentLang].solarTerm;
+    headerLunar.textContent = `${lunar} · ${zodiac ? zodiac + yearLabel + " · " : ""}${solarLabel}${solar}`;
   }
+
+  // 更新宜忌標題
+  const yiTitle = document.getElementById("yiTitle");
+  const jiTitle = document.getElementById("jiTitle");
+  if (yiTitle) yiTitle.textContent = YIJI_LABELS[currentLang].yi;
+  if (jiTitle) jiTitle.textContent = YIJI_LABELS[currentLang].ji;
 
   // 宜
   const yiList = document.getElementById("yiList");
