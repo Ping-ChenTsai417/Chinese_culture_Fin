@@ -105,8 +105,9 @@ Your live website will be available at:
 
 Run:
 
-```bash
+```
 python generate_yiji_today.py
+```
 This will produce:
 `data/YYYY-MM-DD.json`
 Open `index.html` locally in your browser to preview the website.
