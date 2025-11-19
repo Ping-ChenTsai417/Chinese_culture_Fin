@@ -7,7 +7,10 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- 背景動畫 -->
+  <!-- 紅色靈動泡泡背景 -->
+  <div class="bubble-bg"></div>
+
+  <!-- 背景動畫：燈籠與銅錢 -->
   <div class="bg-animation">
     <div class="lantern lantern-1"></div>
     <div class="lantern lantern-2"></div>
@@ -16,7 +19,7 @@
   </div>
 
   <div class="app">
-    <!-- 頂部 -->
+    <!-- 頂部紅色列：顯示今天日期 + 語言切換 -->
     <header class="top-bar">
       <button class="top-btn" id="prevMonth">
         <span class="icon">‹</span><span>上一月</span>
@@ -32,15 +35,25 @@
       </div>
     </header>
 
-    <!-- 卡片 -->
+    <!-- 主卡片 -->
     <div class="almanac-card">
-      <!-- 標題 -->
+      <!-- 頭部三行：農曆、大字節氣 -->
       <div class="almanac-header">
-        <div class="almanac-header-line" id="headerYear">2025年 11月</div>
-        <div class="almanac-header-line small" id="headerLunar">農曆資訊載入中...</div>
+        <!-- 第 1 排：農曆年月日（字體大） -->
+        <div class="almanac-header-line lunar-main" id="headerLunarMain">
+          農曆資訊載入中...
+        </div>
+        <!-- 第 2 排：生肖年 -->
+        <div class="almanac-header-line lunar-sub" id="headerZodiac">
+          生肖載入中...
+        </div>
+        <!-- 第 3 排：節氣（字體較大） -->
+        <div class="almanac-header-line solar-term" id="headerSolar">
+          節氣載入中...
+        </div>
       </div>
 
-      <!-- 大日期 -->
+      <!-- 公曆大日期 -->
       <div class="almanac-main">
         <div class="big-day" id="bigDay">--</div>
         <div class="day-info">
@@ -70,10 +83,8 @@
         <p id="noteText">今日宜忌僅作為文化參考。</p>
       </div>
 
-      <!-- 側邊標籤 -->
-      <div class="side-badge">
-        今日·中國風黃曆
-      </div>
+      <!-- 側邊標籤（多語） -->
+      <div class="side-badge" id="sideBadge"></div>
     </div>
   </div>
 
