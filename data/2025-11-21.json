@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-21",
+  "lunar_cn": "十月初一",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "小雪",
+  "yi": [
+    {
+      "zh": "與友相聚",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax mind and body",
+      "fi": "Rentouta kehoa ja mieltä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan the weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Vältä ylitöitä"
+    },
+    {
+      "zh": "飲食無度",
+      "en": "Eat without moderation",
+      "fi": "Älä syö liikaa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain constantly",
+      "fi": "Vältä valitusta"
+    }
+  ],
+  "note_zh": "小雪時節，以溫暖的心情迎接週末，享受與親友相聚的時光。",
+  "note_en": "With Minor Snow, embrace the weekend's warmth and connection with loved ones.",
+  "note_fi": "Pikkulumen saapuessa, ota viikonlopun lämpö vastaan läheisten kanssa."
+}
