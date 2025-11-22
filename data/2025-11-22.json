@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-22",
+  "lunar_cn": "十月廿二",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "小雪",
+  "yi": [
+    {
+      "zh": "與親友聚會",
+      "en": "Connect with loved ones",
+      "fi": "Yhdistä läheisiin"
+    },
+    {
+      "zh": "整理居家空間",
+      "en": "Organize home space",
+      "fi": "Järjestä kotitila"
+    },
+    {
+      "zh": "享受戶外時光",
+      "en": "Enjoy outdoor time",
+      "fi": "Nauti ulkoilmasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用手機",
+      "en": "Excessive phone use",
+      "fi": "Liiallinen puhelimen käyttö"
+    },
+    {
+      "zh": "長時間獨處",
+      "en": "Prolonged solitude",
+      "fi": "Pitkä yksinäisyys"
+    },
+    {
+      "zh": "忽略身心休息",
+      "en": "Neglect body's rest",
+      "fi": "Laiminlyö lepo"
+    }
+  ],
+  "note_zh": "小雪已至，週末宜靜心養性，為身心注入溫暖。",
+  "note_en": "Minor Snow arrives. This weekend, calm your mind and nourish your body with warmth.",
+  "note_fi": "Pieni Lumi saapuu. Tänä viikonloppuna rauhoita mielesi ja ravitse kehoasi lämmöllä."
+}
