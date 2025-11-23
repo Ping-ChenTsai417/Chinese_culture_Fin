@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-23",
+  "lunar_cn": "十月廿三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Savor good food",
+      "fi": "Nauti hyvästä ruoasta"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan your future",
+      "fi": "Suunnittele tulevaisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思考",
+      "en": "Overthink things",
+      "fi": "Ajattele liikaa"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "負面比較",
+      "en": "Avoid comparisons",
+      "fi": "Vältä vertailuja"
+    }
+  ],
+  "note_zh": "週末是為心靈充電的時刻，慢下來，感受生活的美好。",
+  "note_en": "The weekend is for recharging your soul; slow down and appreciate life's beauty.",
+  "note_fi": "Viikonloppu on sielun lataamista varten; hidasta ja arvosta elämän kauneutta."
+}
