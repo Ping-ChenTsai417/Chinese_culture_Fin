@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-24",
+  "lunar_cn": "十月初四",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "享用午餐",
+      "en": "Enjoy your lunch",
+      "fi": "Nauti lounas"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöstä itsesi"
+    },
+    {
+      "zh": "拖延工作",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "負面比較",
+      "en": "Negative comparisons",
+      "fi": "Negatiiviset vertailut"
+    }
+  ],
+  "note_zh": "以積極心態開啟新的一週，清晰的目標讓每一步都充滿力量。",
+  "note_en": "Start your week with a positive mindset and clear goals, empowering every step.",
+  "note_fi": "Aloita viikko positiivisella mielellä ja selkeillä tavoitteilla, antaen voimaa joka askeleelle."
+}
