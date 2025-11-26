@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-26",
+  "lunar_cn": "十月初六",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "短暫小憩",
+      "en": "Take a short break",
+      "fi": "Pidä tauko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思考",
+      "en": "Overthink things",
+      "fi": "Yli-analysoi"
+    },
+    {
+      "zh": "忽略休憩",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "沉迷手機",
+      "en": "Excessive phone use",
+      "fi": "Liikaa puhelinta"
+    }
+  ],
+  "note_zh": "週中需調整身心節奏，輕柔呼吸，保持內在平靜。",
+  "note_en": "Midweek, adjust your mind-body rhythm, breathe gently, and maintain inner peace.",
+  "note_fi": "Keskiviikkona säädä mielen ja kehon rytmiä, hengitä lempeästi ja säilytä sisäinen rauha."
+}
