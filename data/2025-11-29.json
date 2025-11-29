@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-29",
+  "lunar_cn": "十月廿九",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "投入愛好",
+      "en": "Engage in hobbies",
+      "fi": "Harrasta"
+    },
+    {
+      "zh": "輕鬆活動",
+      "en": "Gentle movement",
+      "fi": "Kevyttä liikuntaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthinking",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "匆忙行事",
+      "en": "Rushing tasks",
+      "fi": "Kiirehtiminen"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglecting rest",
+      "fi": "Levon laiminlyönti"
+    }
+  ],
+  "note_zh": "在繁忙中尋找片刻寧靜，享受週末的喜悅與平衡。",
+  "note_en": "Find stillness amidst busyness, embracing weekend joy and balance.",
+  "note_fi": "Löydä tyyneys kiireen keskeltä, nauti viikonlopun ilosta ja tasapainosta."
+}
