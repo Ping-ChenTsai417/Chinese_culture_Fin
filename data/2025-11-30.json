@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-11-30",
+  "lunar_cn": "十月初十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心養神",
+      "en": "Calm mind, nurture spirit",
+      "fi": "Rauhoita mieltä, ravitse sielua"
+    },
+    {
+      "zh": "與家人共聚",
+      "en": "Gather with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "規劃下週",
+      "en": "Plan the week ahead",
+      "fi": "Suunnittele ensi viikko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "思慮過度",
+      "en": "Overthink and worry",
+      "fi": "Pohdi liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istua paikallaan"
+    },
+    {
+      "zh": "過度用手機",
+      "en": "Excessive phone use",
+      "fi": "Liiallinen puhelimen käyttö"
+    }
+  ],
+  "note_zh": "週日是放鬆與沉澱的日子，為新的一週積蓄能量，保持身心平衡。",
+  "note_en": "Sunday is for rest and reflection; gather energy for the new week, maintaining mind-body balance.",
+  "note_fi": "Sunnuntai on lepoa ja mietiskelyä varten; kerää energiaa uudelle viikolle, säilyttäen kehon ja mielen tasapainon."
+}
