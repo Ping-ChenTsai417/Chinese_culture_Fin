@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-01",
+  "lunar_cn": "十一月初十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "暖心午茶",
+      "en": "Enjoy warm tea",
+      "fi": "Nauti lämmintä teetä"
+    },
+    {
+      "zh": "輕柔伸展",
+      "en": "Gentle stretching",
+      "fi": "Kevyttä venyttelyä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜工作",
+      "en": "Work late hours",
+      "fi": "Valvoa myöhään"
+    },
+    {
+      "zh": "抱怨煩惱",
+      "en": "Complain and worry",
+      "fi": "Valittaa ja murehtia"
+    },
+    {
+      "zh": "長時間久坐",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    }
+  ],
+  "note_zh": "把握週初，用心規劃，為一週注入溫暖與活力。",
+  "note_en": "Embrace the start of the week, plan mindfully, and infuse it with warmth and energy.",
+  "note_fi": "Ota viikon alku vastaan, suunnittele tietoisesti ja täytä se lämmöllä ja energialla."
+}
