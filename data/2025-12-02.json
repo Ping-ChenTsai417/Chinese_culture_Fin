@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-02",
+  "lunar_cn": "十月十二",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理工作",
+      "en": "Organize your tasks",
+      "fi": "Järjestele työt"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "適度伸展",
+      "en": "Gentle stretching",
+      "fi": "Venyttele kevyesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜工作",
+      "en": "Work late nights",
+      "fi": "Valvo työn takia"
+    },
+    {
+      "zh": "思緒混亂",
+      "en": "Confused thinking",
+      "fi": "Sekava ajattelu"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    }
+  ],
+  "note_zh": "今日宜專注目標，有序行動，為高效一週打下堅實基礎。",
+  "note_en": "Focus on goals, act systematically, build a strong foundation for an efficient week.",
+  "note_fi": "Keskity tavoitteisiin, toimi järjestelmällisesti, luo perusta tehokkaalle viikolle."
+}
