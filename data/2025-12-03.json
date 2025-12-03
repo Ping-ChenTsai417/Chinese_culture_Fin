@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-03",
+  "lunar_cn": "十一月初三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "與朋友交流",
+      "en": "Connect with friends",
+      "fi": "Yhdistä ystäviin"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "固步自封",
+      "en": "Stick to old ways",
+      "fi": "Pysy vanhassa"
+    },
+    {
+      "zh": "抱怨不休",
+      "en": "Constant complaining",
+      "fi": "Jatkuva valitus"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Rasita itseäsi"
+    }
+  ],
+  "note_zh": "靜心片刻，為忙碌的一天注入平靜與清晰。",
+  "note_en": "Take a moment to center yourself, bringing calm and clarity to your busy day.",
+  "note_fi": "Ota hetki itsellesi, tuo rauhaa ja selkeyttä kiireiseen päivääsi."
+}
