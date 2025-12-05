@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-05",
+  "lunar_cn": "十月十五",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受美食",
+      "en": "Savor a meal",
+      "fi": "Nauti ateriasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "社交聚會",
+      "en": "Socialize with friends",
+      "fi": "Tapaa ystäviä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityö"
+    },
+    {
+      "zh": "負面評論",
+      "en": "Negative remarks",
+      "fi": "Negatiiviset kommentit"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late watching shows",
+      "fi": "Valvo myöhään sarjojen parissa"
+    }
+  ],
+  "note_zh": "在一週的尾聲，卸下疲憊，讓心靈準備迎接輕鬆與愉悅。",
+  "note_en": "As the week ends, release your fatigue and prepare your mind for ease and joy.",
+  "note_fi": "Viikon lopussa päästä irti väsymyksestä ja valmista mielesi rentoutumiseen ja iloon."
+}
