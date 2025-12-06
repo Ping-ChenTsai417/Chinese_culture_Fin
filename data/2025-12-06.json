@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-06",
+  "lunar_cn": "十月十六",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "大雪",
+  "yi": [
+    {
+      "zh": "與家人共樂",
+      "en": "Enjoy family time",
+      "fi": "Nauti perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Ulkoile"
+    },
+    {
+      "zh": "動手創作",
+      "en": "Engage in creative work",
+      "fi": "Luovaa tekemistä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度依賴螢幕",
+      "en": "Overuse screens",
+      "fi": "Liikaa näyttöaikaa"
+    },
+    {
+      "zh": "宅家不動",
+      "en": "Stay inactive indoors",
+      "fi": "Olematta aktiivinen"
+    },
+    {
+      "zh": "與人爭執",
+      "en": "Argue with others",
+      "fi": "Riidellä muiden kanssa"
+    }
+  ],
+  "note_zh": "大雪時節宜靜思，與親友共享冬日溫暖，心靈自得安寧。",
+  "note_en": "As Major Snow arrives, reflect quietly and share winter warmth with loved ones for inner peace.",
+  "note_fi": "Suuren lumen saapuessa rauhoitu ja jaa talven lämpöä läheisten kanssa sisäisen rauhan löytämiseksi."
+}
