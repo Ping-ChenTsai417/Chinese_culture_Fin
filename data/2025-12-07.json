@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-07",
+  "lunar_cn": "十月十七",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受自然",
+      "en": "Enjoy nature",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "家庭團聚",
+      "en": "Connect with family",
+      "fi": "Perheen tapaaminen"
+    },
+    {
+      "zh": "規劃週程",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink",
+      "fi": "Ajattele liikaa"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istu liikaa"
+    }
+  ],
+  "note_zh": "讓週日成為充電與準備的一天，為新週注入活力。",
+  "note_en": "Let Sunday be a day of recharge and preparation, infusing energy for the new week.",
+  "note_fi": "Anna sunnuntain olla latautumisen ja valmistautumisen päivä, täytä uusi viikko energialla."
+}
