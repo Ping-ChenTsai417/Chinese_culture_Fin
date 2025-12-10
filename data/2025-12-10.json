@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-10",
+  "lunar_cn": "十月二十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "創意發想",
+      "en": "Brainstorm ideas",
+      "fi": "Ideoi luovasti"
+    },
+    {
+      "zh": "分享喜悅",
+      "en": "Share happiness",
+      "fi": "Jaa iloa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Overthink worries",
+      "fi": "Liika murehtiminen"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "應酬過多",
+      "en": "Excessive socializing",
+      "fi": "Liiallinen seurustelu"
+    }
+  ],
+  "note_zh": "在忙碌中尋找寧靜，為心靈充電，輕盈迎接挑戰。",
+  "note_en": "Find calm amidst busy, recharge your mind, and face challenges lightly.",
+  "note_fi": "Löydä rauhaa kiireestä, lataa mieltä ja kohtaa haasteet kevyesti."
+}
