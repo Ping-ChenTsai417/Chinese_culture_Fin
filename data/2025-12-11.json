@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-11",
+  "lunar_cn": "十月十一",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindful meditation",
+      "fi": "Harjoita meditaatiota"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Engage in excessive worrying",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "忽略家人",
+      "en": "Neglect loved ones",
+      "fi": "Laiminlyö läheisiä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Maintain prolonged inactivity",
+      "fi": "Istua pitkään"
+    }
+  ],
+  "note_zh": "今日宜靜心，平衡內外世界，讓心靈找到片刻安寧。",
+  "note_en": "Today, seek inner peace, balance your inner and outer worlds, and let your spirit find a moment of calm.",
+  "note_fi": "Tänään etsi sisäistä rauhaa, tasapainota sisäistä ja ulkoista maailmaa ja anna sielusi löytää hetken tyyneyttä."
+}
