@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-13",
+  "lunar_cn": "十一月十三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受閒暇",
+      "en": "Enjoy leisure",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "與家人共樂",
+      "en": "Share joy with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "探索新知",
+      "en": "Explore new interests",
+      "fi": "Tutki uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度規劃",
+      "en": "Over-plan",
+      "fi": "Yli-suunnittelu"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Laiminlyö lepo"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "週末是身心充電的好時機，讓自己放鬆，感受當下的美好。",
+  "note_en": "The weekend is a great time to recharge mind and body; allow yourself to relax and appreciate the present moment.",
+  "note_fi": "Viikonloppu on hyvä aika ladata mieltä ja kehoa; anna itsesi rentoutua ja arvostaa nykyhetkeä."
+}
