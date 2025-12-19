@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-19",
+  "lunar_cn": "十月廿九",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax and unwind",
+      "fi": "Rentoudu ja virkisty"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Enjoy a meal",
+      "fi": "Nauti ateriasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "累積壓力",
+      "en": "Accumulate stress",
+      "fi": "Kerää stressiä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian kauan"
+    }
+  ],
+  "note_zh": "在忙碌的週末前，給自己一個放鬆的夜晚，儲備能量。",
+  "note_en": "Before a busy weekend, grant yourself a relaxing evening to recharge.",
+  "note_fi": "Ennen kiireistä viikonloppua anna itsellesi rentouttava ilta tankata energiaa."
+}
