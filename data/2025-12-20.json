@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-20",
+  "lunar_cn": "十一月二十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "發展興趣愛好",
+      "en": "Cultivate a hobby",
+      "fi": "Kehitä harrastusta"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink worries",
+      "fi": "Ajattele liikaa"
+    },
+    {
+      "zh": "長時間看屏幕",
+      "en": "Excessive screen time",
+      "fi": "Liikaa näyttöaikaa"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect your rest",
+      "fi": "Laiminlyö lepoa"
+    }
+  ],
+  "note_zh": "週末是恢復身心、為新一週積蓄能量的好時光。",
+  "note_en": "The weekend is a great time to recharge and gather energy for the new week.",
+  "note_fi": "Viikonloppu on hyvä aika ladata akkuja ja kerätä energiaa uudelle viikolle."
+}
