@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-21",
+  "lunar_cn": "十一月廿一",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "冬至",
+  "yi": [
+    {
+      "zh": "圍爐聚餐",
+      "en": "Gather for a meal",
+      "fi": "Yhdessä syömään"
+    },
+    {
+      "zh": "溫和運動",
+      "en": "Gentle exercise",
+      "fi": "Kevyttä liikuntaa"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Over-exert oneself",
+      "fi": "Vältä ylirasitusta"
+    },
+    {
+      "zh": "獨自憂慮",
+      "en": "Worry alone",
+      "fi": "Älä murehdi yksin"
+    },
+    {
+      "zh": "熬夜傷身",
+      "en": "Stay up late",
+      "fi": "Vältä valvomista"
+    }
+  ],
+  "note_zh": "冬至陽生，與親友共暖，為來年積蓄能量。",
+  "note_en": "As the light returns, share warmth with loved ones and gather strength for the year ahead.",
+  "note_fi": "Talvipäivänseisauksen valo syntyy, jaa lämpöä läheisten kanssa ja kerää energiaa tulevalle vuodelle."
+}
