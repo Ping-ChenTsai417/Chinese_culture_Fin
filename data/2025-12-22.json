@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-22",
+  "lunar_cn": "冬月初二",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "冬至",
+  "yi": [
+    {
+      "zh": "品嚐湯圓",
+      "en": "Enjoy tangyuan",
+      "fi": "Nauti tangyuanista"
+    },
+    {
+      "zh": "規劃週程",
+      "en": "Plan the week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "溫和活動",
+      "en": "Gentle exercise",
+      "fi": "Hellävarainen liikunta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "受寒著涼",
+      "en": "Catch a cold",
+      "fi": "Vilustuminen"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimi hätäisesti"
+    }
+  ],
+  "note_zh": "冬至陽生，願你在寒冬中尋得溫暖，為新的一週積蓄能量。",
+  "note_en": "Winter Solstice brings the return of light; find warmth and gather energy for the week ahead.",
+  "note_fi": "Talvipäivänseisaus tuo valon takaisin; löydä lämpöä ja kerää energiaa tulevalle viikolle."
+}
