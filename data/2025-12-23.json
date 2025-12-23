@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-23",
+  "lunar_cn": "十一月初三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理桌面",
+      "en": "Organize workspace",
+      "fi": "Järjestä työpöytä"
+    },
+    {
+      "zh": "思考未來",
+      "en": "Ponder future",
+      "fi": "Pohdi tulevaisuutta"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink and worry",
+      "fi": "Ylimääräinen murehtiminen"
+    },
+    {
+      "zh": "飲食不均",
+      "en": "Unbalanced eating",
+      "fi": "Epätasapainoinen syöminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian kauan"
+    }
+  ],
+  "note_zh": "今日是整理思緒、為即將到來的節日做準備的好時機，同時不忘照顧身心。",
+  "note_en": "Today is a good time to organize your thoughts and prepare for the upcoming festivities, while still caring for your mind and body.",
+  "note_fi": "Tänään on hyvä aika järjestellä ajatuksia ja valmistautua tuleviin juhliin, samalla huolehtien mielestä ja kehosta."
+}
