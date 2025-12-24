@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-24",
+  "lunar_cn": "十一月初四",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for tomorrow",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "鑽牛角尖",
+      "en": "Overthink trivial matters",
+      "fi": "Murehdi turhia"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istu liikaa"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylirasita itseäsi"
+    }
+  ],
+  "note_zh": "在繁忙中找到片刻寧靜，心靈的豐盛是最大的禮物。",
+  "note_en": "Find moments of tranquility amidst the bustle; a rich spirit is the greatest gift.",
+  "note_fi": "Löydä rauhallisia hetkiä kiireen keskeltä; rikas mieli on suurin lahja."
+}
