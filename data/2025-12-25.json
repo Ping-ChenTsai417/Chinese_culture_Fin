@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-25",
+  "lunar_cn": "十一月廿五",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "品嚐健康美食",
+      "en": "Enjoy healthy food",
+      "fi": "Nauti terveellistä ruokaa"
+    },
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Yhdistä läheisiin"
+    },
+    {
+      "zh": "反思與規劃",
+      "en": "Reflect and make plans",
+      "fi": "Pohdi ja suunnittele"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "長時間用眼",
+      "en": "Limit screen time",
+      "fi": "Rajoita ruutuaikaa"
+    },
+    {
+      "zh": "沉溺負面",
+      "en": "Shun negative thoughts",
+      "fi": "Vältä negatiivisuutta"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，享受與人連結的溫暖。",
+  "note_en": "Find tranquility amidst busyness, cherish connections with others.",
+  "note_fi": "Löydä kiireen keskeltä rauhaa, nauti yhteydestä muihin."
+}
