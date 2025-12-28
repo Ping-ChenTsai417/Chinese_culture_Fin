@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-28",
+  "lunar_cn": "十一月初八",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita mielenrauhaa"
+    },
+    {
+      "zh": "品味茶香",
+      "en": "Savor tea",
+      "fi": "Nauti teestä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "沉溺網路",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thoughts",
+      "fi": "Negatiiviset ajatukset"
+    }
+  ],
+  "note_zh": "在安靜中尋找內心的平靜，為身心注入新的活力。",
+  "note_en": "Find inner peace in quietude, rejuvenating your body and mind.",
+  "note_fi": "Löydä sisäinen rauha hiljaisuudesta, virkistäen kehoasi ja mieltäsi."
+}
