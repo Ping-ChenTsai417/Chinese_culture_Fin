@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-29",
+  "lunar_cn": "十一月初九",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃本週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity työhön"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Vältä viivyttelyä"
+    },
+    {
+      "zh": "思慮過多",
+      "en": "Overthink issues",
+      "fi": "Liiallista murehtimista"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Vältä istumista"
+    }
+  ],
+  "note_zh": "新的一週，以清晰的思緒和積極的態度迎接挑戰，保持身心平衡。",
+  "note_en": "Embrace the new week with clear thoughts and a positive attitude, maintaining body-mind balance.",
+  "note_fi": "Ota uusi viikko vastaan selkein ajatuksin ja positiivisella asenteella, ylläpitäen kehon ja mielen tasapainoa."
+}
