@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-30",
+  "lunar_cn": "十一月初十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "回顧省思",
+      "en": "Reflect and review",
+      "fi": "Pohdi ja arvioi"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Keskustele muiden kanssa"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestele ajatuksia"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "獨自憋悶",
+      "en": "Isolate yourself",
+      "fi": "Eristäydy yksin"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    }
+  ],
+  "note_zh": "回顧成長，心懷感恩，為新的一年積蓄力量。",
+  "note_en": "Reflect on growth, be grateful, and gather strength for the new year.",
+  "note_fi": "Pohdi kasvua, ole kiitollinen ja kerää voimia uuteen vuoteen."
+}
