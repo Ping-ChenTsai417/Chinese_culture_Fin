@@ -1,0 +1,43 @@
+{
+  "date_iso": "2025-12-31",
+  "lunar_cn": "十一月十一",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃未來",
+      "en": "Plan for the future",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "聯繫親友",
+      "en": "Connect with loved ones",
+      "fi": "Ota yhteyttä läheisiin"
+    },
+    {
+      "zh": "享受寧靜",
+      "en": "Enjoy tranquility",
+      "fi": "Nauti rauhasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää asioita"
+    },
+    {
+      "zh": "獨自閉鎖",
+      "en": "Isolate oneself",
+      "fi": "Eristäytyminen"
+    }
+  ],
+  "note_zh": "在歲末沉澱心靈，為新的一年注入希望與活力。",
+  "note_en": "Reflect at year-end, infusing the new year with hope and vitality.",
+  "note_fi": "Pohdi vuoden lopussa, täytä uusi vuosi toivolla ja elinvoimalla."
+}
