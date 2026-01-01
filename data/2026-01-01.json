@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-01",
+  "lunar_cn": "十一月十二",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與友共餐",
+      "en": "Dine with friends",
+      "fi": "Ruokaile ystävien kanssa"
+    },
+    {
+      "zh": "規劃新始",
+      "en": "Plan new beginnings",
+      "fi": "Suunnittele uusia alkuja"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatuksia"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "沉迷舊習",
+      "en": "Stick to old habits",
+      "fi": "Juutu vanhoihin tapoihin"
+    },
+    {
+      "zh": "抱怨不休",
+      "en": "Constant complaining",
+      "fi": "Jatkuva valitus"
+    }
+  ],
+  "note_zh": "新年伊始，為自己設定積極目標，輕啟美好的一頁。",
+  "note_en": "As the new year begins, set positive intentions and start a beautiful new chapter.",
+  "note_fi": "Uuden vuoden alkaessa aseta positiivisia aikomuksia ja aloita kaunis uusi luku."
+}
