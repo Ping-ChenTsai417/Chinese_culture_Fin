@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-02",
+  "lunar_cn": "十一月十三",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受下班",
+      "en": "Enjoy after-work",
+      "fi": "Nauti illasta"
+    },
+    {
+      "zh": "規劃休閒",
+      "en": "Plan leisure time",
+      "fi": "Suunnittele vapaa-aika"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜工作",
+      "en": "Work late night",
+      "fi": "Työskentele myöhään"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiiviset ajatukset"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspend",
+      "fi": "Ylikuluta"
+    }
+  ],
+  "note_zh": "週末將至，讓忙碌的思緒沉澱，為身心創造放鬆與充電的空間。",
+  "note_en": "As the weekend approaches, let your busy mind settle and create space for relaxation and rejuvenation.",
+  "note_fi": "Viikonlopun lähestyessä anna ajatusten rauhoittua ja luo tilaa rentoutumiselle ja latautumiselle."
+}
