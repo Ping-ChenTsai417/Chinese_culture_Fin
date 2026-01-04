@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-04",
+  "lunar_cn": "臘月十五",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax and unwind",
+      "fi": "Rentoudu ja virkisty"
+    },
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用眼",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "煩惱多慮",
+      "en": "Overthink and worry",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Postpone important tasks",
+      "fi": "Lykkää asioita"
+    }
+  ],
+  "note_zh": "讓週日成為充電日，為即將到來的一週儲備能量。",
+  "note_en": "Let Sunday be a day of recharge, building energy for the coming week.",
+  "note_fi": "Anna sunnuntain olla latauspäivä, kerää voimia tulevalle viikolle."
+}
