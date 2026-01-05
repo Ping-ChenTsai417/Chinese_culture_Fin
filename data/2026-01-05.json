@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-05",
+  "lunar_cn": "十一月十六",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "小寒",
+  "yi": [
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "輕度活動",
+      "en": "Engage in light activity",
+      "fi": "Kevyttä toimintaa"
+    },
+    {
+      "zh": "專注當下",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita läsnäoloa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Overthink things",
+      "fi": "Murehtia liikaa"
+    },
+    {
+      "zh": "拖延工作",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttää töitä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit for too long",
+      "fi": "Istua pitkään"
+    }
+  ],
+  "note_zh": "新的一週，以清新的心態迎接挑戰，讓每一步都充滿意義。",
+  "note_en": "A new week begins; embrace challenges with a fresh mind, making every step meaningful.",
+  "note_fi": "Uusi viikko alkaa; kohtaa haasteet virkeällä mielellä, tehden jokaisesta askeleesta merkityksellisen."
+}
