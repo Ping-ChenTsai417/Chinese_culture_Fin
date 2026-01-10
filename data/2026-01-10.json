@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-10",
+  "lunar_cn": "十一月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Cultivate a hobby",
+      "fi": "Harrasta"
+    },
+    {
+      "zh": "輕鬆運動",
+      "en": "Gentle exercise",
+      "fi": "Kevyt liikunta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "熬夜不眠",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "鑽牛角尖",
+      "en": "Overthink worries",
+      "fi": "Murehdi liikaa"
+    }
+  ],
+  "note_zh": "週末宜慢活，尋找生活中的小確幸，讓心靈充電。",
+  "note_en": "Embrace the weekend's slow pace, find small joys, and recharge your spirit.",
+  "note_fi": "Nauti viikonlopun hitaudesta, löydä pieniä iloja ja lataa mieltäsi."
+}
