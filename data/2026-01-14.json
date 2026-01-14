@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-14",
+  "lunar_cn": "十二月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "冥想靜心",
+      "en": "Meditate deeply",
+      "fi": "Syvämeditoi"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Savor good food",
+      "fi": "Nauti ruoasta"
+    },
+    {
+      "zh": "規劃目標",
+      "en": "Plan your goals",
+      "fi": "Suunnittele tavoitteita"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentele"
+    },
+    {
+      "zh": "衝動消費",
+      "en": "Impulsive spending",
+      "fi": "Impulssiostokset"
+    },
+    {
+      "zh": "負面抱怨",
+      "en": "Negative complaining",
+      "fi": "Negatiivinen valitus"
+    }
+  ],
+  "note_zh": "讓今日的寧靜滋養你的心靈，為下半週注入活力與清晰。",
+  "note_en": "Let today's calm nourish your spirit, bringing vitality and clarity to the rest of your week.",
+  "note_fi": "Anna tämän päivän rauhan ravitsevan sieluasi, tuoden elinvoimaa ja selkeyttä loppuviikkoon."
+}
