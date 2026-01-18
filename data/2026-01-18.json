@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-18",
+  "lunar_cn": "十二月廿九",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Gather with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita mindfulnessia"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatuksesi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvoa myöhään"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspend",
+      "fi": "Kuluta liikaa"
+    },
+    {
+      "zh": "擔憂未來",
+      "en": "Worry about future",
+      "fi": "Murehtia tulevasta"
+    }
+  ],
+  "note_zh": "好好享受週日，為新的一週儲備能量。",
+  "note_en": "Embrace Sunday's calm to recharge for the week ahead.",
+  "note_fi": "Nauti sunnuntain rauhasta ja lataa energiaa tulevaan viikkoon."
+}
