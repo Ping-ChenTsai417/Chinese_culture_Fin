@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-21",
+  "lunar_cn": "十二月初三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan your future",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "伸展舒緩",
+      "en": "Gentle stretching",
+      "fi": "Venyttele kevyesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "長時間用眼",
+      "en": "Excessive screen time",
+      "fi": "Liikaa näyttöaikaa"
+    },
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink things",
+      "fi": "Liikaa murehtimista"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "週中宜靜心反思，為接下來的日子注入新活力。",
+  "note_en": "Midweek is perfect for reflection, recharging for the days ahead.",
+  "note_fi": "Keskiviikko on täydellinen hetki pohtia ja ladata energiaa."
+}
