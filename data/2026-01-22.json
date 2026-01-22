@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-22",
+  "lunar_cn": "臘月初四",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "品茗小憩",
+      "en": "Enjoy a tea break",
+      "fi": "Nauti teehetkestä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Uurasta liikaa"
+    },
+    {
+      "zh": "輕忽休息",
+      "en": "Neglect your rest",
+      "fi": "Laiminlyö lepo"
+    },
+    {
+      "zh": "盲目消費",
+      "en": "Impulse spending",
+      "fi": "Impulssiostelu"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，為身心注入活力，準備迎接美好的週末。",
+  "note_en": "Find moments of calm amidst busyness, rejuvenate your mind and body, and prepare for a wonderful weekend.",
+  "note_fi": "Löydä hetkiä rauhaa kiireen keskellä, virkistä mielesi ja kehosi, ja valmistaudu upeaan viikonloppuun."
+}
