@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-23",
+  "lunar_cn": "十二月廿四",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理空間",
+      "en": "Organize your space",
+      "fi": "Järjestä tilaa"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Worry excessively",
+      "fi": "Huolehdi liikaa"
+    },
+    {
+      "zh": "熬夜娛樂",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istu paikoillaan"
+    }
+  ],
+  "note_zh": "讓一週的辛勞在今日得到釋放，為即將到來的週末注入輕鬆與喜悅。",
+  "note_en": "Let the week's efforts release today, bringing ease and joy into the coming weekend.",
+  "note_fi": "Anna viikon vaivojen vapautua tänään, tuoden rentoutta ja iloa tulevaan viikonloppuun."
+}
