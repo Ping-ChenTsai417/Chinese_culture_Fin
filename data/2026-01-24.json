@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-24",
+  "lunar_cn": "臘月初六",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親友相聚",
+      "en": "Gather with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Nurture a hobby",
+      "fi": "Kehitä harrastusta"
+    },
+    {
+      "zh": "悠閒早晨",
+      "en": "Enjoy a relaxed morning",
+      "fi": "Nauti rauhallisesta aamusta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用手機",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "思慮過多",
+      "en": "Overthink things",
+      "fi": "Yliajattelu"
+    },
+    {
+      "zh": "匆忙急躁",
+      "en": "Rush impatiently",
+      "fi": "Kiirehtiminen"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、享受當下的好時光，讓喜悅充滿心間。",
+  "note_en": "The weekend is a great time to relax and enjoy the present, letting joy fill your heart.",
+  "note_fi": "Viikonloppu on hyvä aika rentoutua ja nauttia nykyhetkestä, anna ilon täyttää sydämesi."
+}
