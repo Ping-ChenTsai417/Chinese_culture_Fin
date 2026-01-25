@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-25",
+  "lunar_cn": "十二月初七",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "享受慢活",
+      "en": "Embrace slow living",
+      "fi": "Nauti hitaasta elämästä"
+    },
+    {
+      "zh": "準備新週",
+      "en": "Prepare for new week",
+      "fi": "Valmistaudu uuteen viikkoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度規劃",
+      "en": "Over-planning",
+      "fi": "Ylisuunnittelu"
+    },
+    {
+      "zh": "糾結瑣事",
+      "en": "Dwell on trifles",
+      "fi": "Takertuminen pikkuseikkoihin"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Istua paikallaan pitkään"
+    }
+  ],
+  "note_zh": "讓週末的寧靜滋養心靈，準備迎接新的一週。",
+  "note_en": "Let the weekend's tranquility nourish your soul, preparing for a new week.",
+  "note_fi": "Anna viikonlopun rauha ravitsee sieluasi, valmistaen uuteen viikkoon."
+}
