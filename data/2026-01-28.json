@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-01-28",
+  "lunar_cn": "臘月初十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃未來",
+      "en": "Plan the future",
+      "fi": "Suunnittele eteenpäin"
+    },
+    {
+      "zh": "與朋友聚會",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "負面思考",
+      "en": "Dwell on negativity",
+      "fi": "Murehtiminen"
+    },
+    {
+      "zh": "過度耗神",
+      "en": "Overwork yourself",
+      "fi": "Uupuminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit still too long",
+      "fi": "Liiallinen istuminen"
+    }
+  ],
+  "note_zh": "今日宜放鬆身心，為餘下的一周注入活力。",
+  "note_en": "Today, relax your mind and body, energizing the rest of the week.",
+  "note_fi": "Tänään rentouta mieltä ja kehoa, virkistä loppuviikkoa."
+}
