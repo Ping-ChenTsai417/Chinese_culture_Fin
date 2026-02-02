@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-02",
+  "lunar_cn": "十二月十五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita läsnäoloa"
+    },
+    {
+      "zh": "享用午餐",
+      "en": "Enjoy your lunch",
+      "fi": "Nauti lounas"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "任務拖延",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "負面思維",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "過度久坐",
+      "en": "Sit too long",
+      "fi": "Istu liikaa"
+    }
+  ],
+  "note_zh": "週一新起點，設定清晰目標，開啟活力一周。",
+  "note_en": "Monday marks a fresh start; set clear goals to energize your week.",
+  "note_fi": "Maanantai on uusi alku; aseta selkeät tavoitteet virkistääksesi viikkoasi."
+}
