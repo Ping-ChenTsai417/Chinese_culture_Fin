@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-07",
+  "lunar_cn": "臘月二十",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受閒暇",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "培養愛好",
+      "en": "Cultivate a hobby",
+      "fi": "Kehitä harrastusta"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä toisiin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "獨自一人",
+      "en": "Isolate yourself",
+      "fi": "Eristäydy"
+    },
+    {
+      "zh": "計劃過滿",
+      "en": "Over-schedule day",
+      "fi": "Ylikuormita päivä"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、滋養內在的時光，讓自己沉浸在喜悅之中。",
+  "note_en": "Weekends are for unwinding and nourishing your inner self; allow joy to fill your day.",
+  "note_fi": "Viikonloppu on aikaa rentoutumiseen ja sisäisen minän ravitsemiseen; anna ilon täyttää päiväsi."
+}
