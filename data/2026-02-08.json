@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-08",
+  "lunar_cn": "臘月二十",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人共享時光",
+      "en": "Enjoy family time",
+      "fi": "Nauti perheen kanssa"
+    },
+    {
+      "zh": "規劃下週目標",
+      "en": "Plan next week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "靜心沉澱思緒",
+      "en": "Quiet your mind",
+      "fi": "Rauhoita mielesi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用電子產品",
+      "en": "Avoid excess screen time",
+      "fi": "Vältä näyttöaikaa"
+    },
+    {
+      "zh": "陷入負面情緒",
+      "en": "Dwell on negativity",
+      "fi": "Vältä negatiivisuutta"
+    },
+    {
+      "zh": "拖延明日之事",
+      "en": "Postpone tasks",
+      "fi": "Älä viivyttele"
+    }
+  ],
+  "note_zh": "善用今日悠閒，滋養身心，為新的開始積蓄能量。",
+  "note_en": "Embrace today's calm, nourish your spirit, and gather energy for a fresh start.",
+  "note_fi": "Hyödynnä päivän rauhaa, ravitse mieltä ja kerää energiaa uuteen alkuun."
+}
