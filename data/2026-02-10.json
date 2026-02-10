@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-10",
+  "lunar_cn": "十二月廿二",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃今日",
+      "en": "Plan your day",
+      "fi": "Suunnittele päiväsi"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "分享喜悅",
+      "en": "Share happiness",
+      "fi": "Jaa iloa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worry",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian pitkään"
+    },
+    {
+      "zh": "沉迷虛擬",
+      "en": "Get lost in virtual",
+      "fi": "Uppoudu virtuaaliin"
+    }
+  ],
+  "note_zh": "今日宜靜心，讓思緒清晰，迎接美好。",
+  "note_en": "Today, calm your mind, let thoughts clear, and welcome good things.",
+  "note_fi": "Tänään rauhoita mielesi, selkiytä ajatukset ja toivota hyvää."
+}
