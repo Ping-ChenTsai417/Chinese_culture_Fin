@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-11",
+  "lunar_cn": "正月十四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃未來",
+      "en": "Review plans",
+      "fi": "Tarkista suunnitelmat"
+    },
+    {
+      "zh": "社交互動",
+      "en": "Connect socially",
+      "fi": "Sosiaalista vuorovaikutusta"
+    },
+    {
+      "zh": "輕度伸展",
+      "en": "Gentle stretching",
+      "fi": "Kevyt venyttely"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Over-worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "忽視飲食",
+      "en": "Neglect meals",
+      "fi": "Laiminlyö ateriat"
+    },
+    {
+      "zh": "長時久坐",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    }
+  ],
+  "note_zh": "週中之際，為身心注入活力，用輕盈步伐迎接挑戰。",
+  "note_en": "Mid-week, energize your body and mind. Face challenges with a light step.",
+  "note_fi": "Keskiviikko on hyvää aikaa energisoida keho ja mieli. Kohtaa haasteet kevyellä askeleella."
+}
