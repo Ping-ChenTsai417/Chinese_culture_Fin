@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-13",
+  "lunar_cn": "正月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Gather with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Savor good food",
+      "fi": "Nauti ruoasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan the weekend",
+      "fi": "Suunnittele viikonloppua"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Engage in negative thoughts",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late binge-watching",
+      "fi": "Valvo sarjojen ääressä"
+    }
+  ],
+  "note_zh": "放下週中的忙碌，以輕鬆愉悅的心情迎接週末的到來。",
+  "note_en": "Let go of the week's busyness and welcome the weekend with a light, joyful heart.",
+  "note_fi": "Päästä irti viikon kiireistä ja toivota viikonloppu tervetulleeksi kevyellä, iloisella sydämellä."
+}
