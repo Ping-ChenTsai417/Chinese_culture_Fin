@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-15",
+  "lunar_cn": "十二月廿九",
+  "zodiac_cn": "蛇",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Spend time with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    },
+    {
+      "zh": "規劃下週",
+      "en": "Plan for the week ahead",
+      "fi": "Suunnittele viikko eteenpäin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度熬夜",
+      "en": "Stay up too late",
+      "fi": "Valvo liian myöhään"
+    },
+    {
+      "zh": "沉溺電玩",
+      "en": "Indulge in gaming",
+      "fi": "Uppoudu pelaamiseen"
+    },
+    {
+      "zh": "擔憂未來",
+      "en": "Worry about the future",
+      "fi": "Murehdi tulevasta"
+    }
+  ],
+  "note_zh": "靜心沉澱，為新的一週積蓄能量，讓身心煥然一新。",
+  "note_en": "Quiet your mind and recharge for the new week, letting your body and spirit refresh.",
+  "note_fi": "Rauhoita mielesi ja lataa energiaa uuteen viikkoon, virkistäen kehoasi ja sieluasi."
+}
