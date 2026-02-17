@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-17",
+  "lunar_cn": "正月初一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人團聚",
+      "en": "Gather with family",
+      "fi": "Kokoontua perheen kanssa"
+    },
+    {
+      "zh": "品嚐節慶美食",
+      "en": "Savor festive food",
+      "fi": "Maistella juhliruokia"
+    },
+    {
+      "zh": "許下新年願望",
+      "en": "Make new year wishes",
+      "fi": "Tehdä uudenvuoden toiveita"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistää itseään"
+    },
+    {
+      "zh": "爭吵不休",
+      "en": "Constant arguing",
+      "fi": "Jatkuva riitely"
+    },
+    {
+      "zh": "執著過去",
+      "en": "Cling to past",
+      "fi": "Tyytyä menneeseen"
+    }
+  ],
+  "note_zh": "新年伊始，擁抱希望與喜悅，與所愛之人共度美好時光。",
+  "note_en": "As the new year begins, embrace hope and joy, spending quality time with loved ones.",
+  "note_fi": "Uuden vuoden alkaessa syleile toivoa ja iloa, viettäen aikaa rakkaidesi kanssa."
+}
