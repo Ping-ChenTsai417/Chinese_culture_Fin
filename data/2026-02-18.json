@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-18",
+  "lunar_cn": "正月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "雨水",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita tietoisuutta"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan future goals",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "負面情緒",
+      "en": "Shun negativity",
+      "fi": "Vältä negatiivisuutta"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Skip late nights",
+      "fi": "Vältä myöhäisiä iltoja"
+    }
+  ],
+  "note_zh": "雨水滋潤大地，願你今日心靈也得清淨，開啟美好新篇章。",
+  "note_en": "As rain nurtures the earth, let your spirit find peace and begin a beautiful new chapter today.",
+  "note_fi": "Kun sade ravitsee maata, anna mielesi löytää rauha ja aloita kaunis uusi luku tänään."
+}
