@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-19",
+  "lunar_cn": "正月初三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity töihin"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with people",
+      "fi": "Verkostoidu"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度操勞",
+      "en": "Overwork yourself",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda levätä"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thoughts",
+      "fi": "Negatiiviset ajatukset"
+    }
+  ],
+  "note_zh": "保持專注，同時也別忘了為週末的放鬆做準備，讓身心得到平衡。",
+  "note_en": "Stay focused today, and gently prepare for a relaxing weekend ahead, finding balance for mind and body.",
+  "note_fi": "Pysy tänään keskittyneenä ja valmistaudu samalla rentouttavaan viikonloppuun, löytäen tasapainon mielelle ja keholle."
+}
