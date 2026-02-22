@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-22",
+  "lunar_cn": "正月初六",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Savor good food",
+      "fi": "Nauti hyvästä ruoasta"
+    },
+    {
+      "zh": "靜思規劃",
+      "en": "Reflect and plan",
+      "fi": "Pohdi ja suunnittele"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistää itseäsi"
+    },
+    {
+      "zh": "久視螢幕",
+      "en": "Stare at screens",
+      "fi": "Tuijota näyttöjä"
+    },
+    {
+      "zh": "操之過急",
+      "en": "Rush things",
+      "fi": "Hätäile asioita"
+    }
+  ],
+  "note_zh": "週日宜慢，讓身心充分休憩，為新一周積蓄能量。",
+  "note_en": "Sundays are for slowing down; let your body and mind rest, gathering energy for the new week.",
+  "note_fi": "Sunnuntait ovat hidastamista varten; anna kehon ja mielen levätä, keräten energiaa uudelle viikolle."
+}
