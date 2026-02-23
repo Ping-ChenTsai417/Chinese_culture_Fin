@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-23",
+  "lunar_cn": "正月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃工作",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Yhdistä muihin"
+    },
+    {
+      "zh": "享受午餐",
+      "en": "Enjoy your lunch",
+      "fi": "Nauti lounaasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度焦慮",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    },
+    {
+      "zh": "心不在焉",
+      "en": "Be distracted",
+      "fi": "Ole hajamielinen"
+    }
+  ],
+  "note_zh": "新的一周，以清晰的目標和平靜的心態開啟，讓效率與放鬆並存。",
+  "note_en": "Start the new week with clear goals and a calm mind, balancing efficiency with relaxation.",
+  "note_fi": "Aloita uusi viikko selkeillä tavoitteilla ja rauhallisella mielellä, tasapainottaen tehokkuus ja rentoutuminen."
+}
