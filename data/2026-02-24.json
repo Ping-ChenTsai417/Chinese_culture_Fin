@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-24",
+  "lunar_cn": "正月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatuksia"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity töihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度分心",
+      "en": "Excessive distraction",
+      "fi": "Liiallinen häiriö"
+    },
+    {
+      "zh": "抱怨批評",
+      "en": "Complain and criticize",
+      "fi": "Valita ja kritisoida"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "今日宜整理思緒，靜心規劃，為接下來的一週注入清晰與活力。",
+  "note_en": "Today, organize your thoughts, plan with a calm mind, and bring clarity and vitality to the week ahead.",
+  "note_fi": "Järjestä ajatuksesi, suunnittele rauhallisesti ja tuo selkeyttä ja elinvoimaa tulevalle viikolle."
+}
