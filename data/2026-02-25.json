@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-25",
+  "lunar_cn": "正月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "短暫休息",
+      "en": "Take a short break",
+      "fi": "Pidä lyhyt tauko"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ole yhteydessä muihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度分心",
+      "en": "Avoid distractions",
+      "fi": "Vältä häiriötekijöitä"
+    },
+    {
+      "zh": "熬夜工作",
+      "en": "Stay up late working",
+      "fi": "Valvo työn takia"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Avoid prolonged sitting",
+      "fi": "Vältä pitkää istumista"
+    }
+  ],
+  "note_zh": "願你今日心緒平靜，專注前行，感受生活中的美好。",
+  "note_en": "May your mind be calm today, moving forward with focus, appreciating life's beauty.",
+  "note_fi": "Olkoon mielesi tänään rauhallinen, etenet keskittyneesti ja arvostat elämän kauneutta."
+}
