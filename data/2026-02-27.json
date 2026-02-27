@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-02-27",
+  "lunar_cn": "正月十一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax and unwind",
+      "fi": "Rentoudu ja virkisty"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Savor good food",
+      "fi": "Nauti hyvästä ruoasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Murehdit liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istu paikoillasi"
+    },
+    {
+      "zh": "苛求自己",
+      "en": "Be self-critical",
+      "fi": "Ole liian ankara itsellesi"
+    }
+  ],
+  "note_zh": "讓一週的辛勞在週末前劃上句點，以輕盈的心情迎接放鬆。",
+  "note_en": "Let the week's efforts conclude before the weekend, embracing relaxation with a light heart.",
+  "note_fi": "Anna viikon ponnistusten päättyä ennen viikonloppua, vastaanota rentoutuminen kevyellä sydämellä."
+}
