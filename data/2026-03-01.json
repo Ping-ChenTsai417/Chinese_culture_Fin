@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-01",
+  "lunar_cn": "正月十二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受家庭時光",
+      "en": "Enjoy family time",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Ulkoile luonnossa"
+    },
+    {
+      "zh": "規劃一週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "追逐瑣事",
+      "en": "Chase trivial tasks",
+      "fi": "Jahtaa pikkujuttuja"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "讓週日成為心靈的港灣，為即將到來的一週儲備寧靜與力量。",
+  "note_en": "Let Sunday be a harbor for your soul, gathering peace and strength for the week ahead.",
+  "note_fi": "Anna sunnuntain olla sielusi satama, keräten rauhaa ja voimaa tulevalle viikolle."
+}
