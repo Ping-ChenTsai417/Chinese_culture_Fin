@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-04",
+  "lunar_cn": "正月十五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "創意發想",
+      "en": "Generate ideas",
+      "fi": "Kehitä ideoita"
+    },
+    {
+      "zh": "與人分享",
+      "en": "Share with others",
+      "fi": "Jaa muiden kanssa"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink worries",
+      "fi": "Liikaa murehtimista"
+    },
+    {
+      "zh": "積壓工作",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele töitä"
+    },
+    {
+      "zh": "獨自苦悶",
+      "en": "Suffer alone",
+      "fi": "Kärsi yksin"
+    }
+  ],
+  "note_zh": "今日宜將創意化為行動，與人連結，共同成長。",
+  "note_en": "Today, transform creativity into action, connect with others, and grow together.",
+  "note_fi": "Tänään muuta luovuus teoiksi, yhdisty muihin ja kasva yhdessä."
+}
