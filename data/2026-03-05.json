@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-05",
+  "lunar_cn": "正月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "驚蟄",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "品嚐時令",
+      "en": "Savor seasonal food",
+      "fi": "Nauti kauden ruoista"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistä itseäsi"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimi impulsiivisesti"
+    },
+    {
+      "zh": "沉溺煩惱",
+      "en": "Dwell on worries",
+      "fi": "Murehdi liikaa"
+    }
+  ],
+  "note_zh": "驚蟄時節，萬物復甦。感受春日活力，讓身心一同煥發新氣象。",
+  "note_en": "As Jing Zhe arrives, nature awakens. Embrace spring's vitality and let your mind and body rejuvenate.",
+  "note_fi": "Jing Zhe - hyönteisten herääminen. Ota vastaan kevään elinvoima ja anna mielesi ja kehosi virkistyä."
+}
