@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-06",
+  "lunar_cn": "正月十七",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax and unwind",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜過勞",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspend",
+      "fi": "Kuluta liikaa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain constantly",
+      "fi": "Valita jatkuvasti"
+    }
+  ],
+  "note_zh": "週末將至，為自己創造一個充滿歡樂與放鬆的時光。",
+  "note_en": "The weekend approaches; create time for joy and relaxation.",
+  "note_fi": "Viikonloppu lähestyy; luo aikaa ilolle ja rentoutumiselle."
+}
