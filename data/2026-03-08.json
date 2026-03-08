@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-08",
+  "lunar_cn": "正月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Embrace nature",
+      "fi": "Syleile luontoa"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax mind and body",
+      "fi": "Rentouta kehoa ja mieltä"
+    },
+    {
+      "zh": "培養創意",
+      "en": "Nurture creativity",
+      "fi": "Kehitä luovuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink and worry",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "虛度時光",
+      "en": "Waste time aimlessly",
+      "fi": "Hukkaa aikaa turhaan"
+    },
+    {
+      "zh": "長時間用眼",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    }
+  ],
+  "note_zh": "讓心靈沉澱，為新週注入寧靜與活力。",
+  "note_en": "Let your mind settle, infusing the new week with peace and vitality.",
+  "note_fi": "Anna mielen rauhoittua, täytä uusi viikko rauhalla ja elinvoimalla."
+}
