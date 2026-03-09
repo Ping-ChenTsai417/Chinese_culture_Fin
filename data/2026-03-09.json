@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-09",
+  "lunar_cn": "正月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃工作",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "聯繫友人",
+      "en": "Connect with friends",
+      "fi": "Ota yhteyttä ystäviin"
+    },
+    {
+      "zh": "適度運動",
+      "en": "Engage in light exercise",
+      "fi": "Kevyttä liikuntaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Limit screen time",
+      "fi": "Rajoita ruutuaikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Shun negative thoughts",
+      "fi": "Vältä negatiivisuutta"
+    }
+  ],
+  "note_zh": "新的一周，帶著清晰的目標和輕鬆的心情前行，願你步步皆歡喜。",
+  "note_en": "As a new week begins, move forward with clear goals and a light heart, may joy follow every step.",
+  "note_fi": "Uuden viikon alkaessa, kulje eteenpäin selkein tavoittein ja kevyin mielin, seuratkoon ilo jokaista askelta."
+}
