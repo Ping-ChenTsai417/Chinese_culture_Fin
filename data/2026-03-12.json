@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-12",
+  "lunar_cn": "二月廿二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃行程",
+      "en": "Plan your schedule",
+      "fi": "Suunnittele aikataulusi"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worry",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "沉迷娛樂",
+      "en": "Indulge in entertainment",
+      "fi": "Uppoudu viihteeseen"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "今日事今日畢，平衡工作與生活，為週末的放鬆做好準備。",
+  "note_en": "Finish today's tasks today, balance work and life, and prepare for weekend relaxation.",
+  "note_fi": "Tee päivän työt tänään, tasapainota elämä ja työ, ja valmistaudu viikonlopun rentoutumiseen."
+}
