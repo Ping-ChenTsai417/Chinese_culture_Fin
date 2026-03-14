@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-14",
+  "lunar_cn": "正月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受週末",
+      "en": "Enjoy the weekend",
+      "fi": "Nauti viikonlopusta"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Vietä luonnossa aikaa"
+    },
+    {
+      "zh": "探索新知",
+      "en": "Explore new knowledge",
+      "fi": "Tutustu uuteen"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Excessive worrying",
+      "fi": "Ylimääräinen huoli"
+    },
+    {
+      "zh": "沉迷娛樂",
+      "en": "Overindulge in entertainment",
+      "fi": "Liikaa viihdettä"
+    },
+    {
+      "zh": "忽略身心",
+      "en": "Neglect mind and body",
+      "fi": "Unohda itsesi"
+    }
+  ],
+  "note_zh": "讓週末的陽光灑滿心靈，享受當下的寧靜與美好。",
+  "note_en": "Let the weekend sunshine fill your heart, enjoying the present peace and beauty.",
+  "note_fi": "Anna viikonlopun auringonpaisteen täyttää sydämesi, nauti nykyhetken rauhasta ja kauneudesta."
+}
