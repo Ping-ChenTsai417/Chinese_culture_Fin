@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-15",
+  "lunar_cn": "二月廿六",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Ulkoile"
+    },
+    {
+      "zh": "閱讀放鬆",
+      "en": "Relax with reading",
+      "fi": "Rentoudu lukemalla"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "沉迷電子產品",
+      "en": "Overuse gadgets",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "過度規劃",
+      "en": "Over-plan",
+      "fi": "Ylisuunnittelu"
+    },
+    {
+      "zh": "爭論不休",
+      "en": "Engage in arguments",
+      "fi": "Riitely"
+    }
+  ],
+  "note_zh": "讓心靈在悠閒中充電，享受當下的寧靜與美好。",
+  "note_en": "Let your mind recharge in leisure, enjoying the present calm and beauty.",
+  "note_fi": "Anna mielen latautua vapaa-ajalla, nauttien nykyhetken rauhasta ja kauneudesta."
+}
