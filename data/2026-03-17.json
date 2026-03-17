@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-17",
+  "lunar_cn": "二月廿八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestele ajatuksia"
+    },
+    {
+      "zh": "專注當下",
+      "en": "Focus on present",
+      "fi": "Keskity nykyhetkeen"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overtax yourself",
+      "fi": "Rasita itseäsi liikaa"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "負面比較",
+      "en": "Negative comparisons",
+      "fi": "Negatiivinen vertailu"
+    }
+  ],
+  "note_zh": "今日宜動靜皆宜，在忙碌中尋找片刻寧靜，保持內心平衡。",
+  "note_en": "Today, balance activity with calm. Find moments of peace amidst busyness to maintain inner balance.",
+  "note_fi": "Tänään tasapainota aktiivisuus rauhallisuuden kanssa. Löydä hetkiä rauhaa kiireen keskellä säilyttääksesi sisäisen tasapainon."
+}
