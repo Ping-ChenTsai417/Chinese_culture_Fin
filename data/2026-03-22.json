@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-22",
+  "lunar_cn": "二月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Vietä luonnossa aikaa"
+    },
+    {
+      "zh": "享受家庭時光",
+      "en": "Cherish family time",
+      "fi": "Nauti perheen seurasta"
+    },
+    {
+      "zh": "輕柔活動筋骨",
+      "en": "Gentle movement",
+      "fi": "Lempeää liikuntaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Murehtia liikaa"
+    },
+    {
+      "zh": "匆忙行事",
+      "en": "Rush unnecessarily",
+      "fi": "Kiirehtiä turhaan"
+    },
+    {
+      "zh": "長時間看屏幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "讓今日的寧靜為你積蓄能量，迎接新的一週。",
+  "note_en": "Let today's peace recharge you for the coming week.",
+  "note_fi": "Anna tämän päivän rauhan ladata sinua tulevaa viikkoa varten."
+}
