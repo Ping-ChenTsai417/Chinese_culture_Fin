@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-25",
+  "lunar_cn": "二月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Mindful meditation",
+      "fi": "Tietoinen meditaatio"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen huoli"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，保持內心平和。",
+  "note_en": "Find moments of calm amidst busyness, maintaining inner peace.",
+  "note_fi": "Löydä rauhan hetkiä kiireestä, säilyttäen sisäisen rauhan."
+}
