@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-27",
+  "lunar_cn": "二月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Gather with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax mind and body",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää asioita"
+    },
+    {
+      "zh": "抱怨連連",
+      "en": "Constant complaining",
+      "fi": "Jatkuva valitus"
+    }
+  ],
+  "note_zh": "輕盈地放下本週的煩憂，為週末充飽電，迎接新的美好。",
+  "note_en": "Gently release the week's worries, recharge for the weekend, and welcome new beauty.",
+  "note_fi": "Päästä irti viikon huolista, lataudu viikonloppuun ja toivota uusi kauneus tervetulleeksi."
+}
