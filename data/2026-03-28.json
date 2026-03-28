@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-28",
+  "lunar_cn": "二月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "戶外活動",
+      "en": "Enjoy nature",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Pursue hobbies",
+      "fi": "Harrasta"
+    },
+    {
+      "zh": "與家人相處",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度消費",
+      "en": "Excessive spending",
+      "fi": "Ylikulutus"
+    },
+    {
+      "zh": "爭吵不休",
+      "en": "Avoid arguments",
+      "fi": "Vältä riitoja"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sedentary lifestyle",
+      "fi": "Vältä paikallaanoloa"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、滋養內在的好時光，讓自己沉浸在喜悅中。",
+  "note_en": "Weekends are for relaxing and nurturing your inner self; immerse yourself in joy.",
+  "note_fi": "Viikonloppu on hyvää aikaa rentoutua ja hoitaa sisintäsi; anna itsesi uppoutua iloon."
+}
