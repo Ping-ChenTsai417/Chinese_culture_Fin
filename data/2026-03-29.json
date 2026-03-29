@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-29",
+  "lunar_cn": "二月十一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita mindfulnessia"
+    },
+    {
+      "zh": "享受家庭時光",
+      "en": "Enjoy family time",
+      "fi": "Nauti perheen kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "焦慮擔憂",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "過度使用電子產品",
+      "en": "Too much screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "壓縮休息",
+      "en": "Skip your rest",
+      "fi": "Ohita lepo"
+    }
+  ],
+  "note_zh": "讓身心在週末的尾聲徹底放鬆，為新的一週積蓄能量。",
+  "note_en": "Allow your mind and body to fully relax this Sunday, gathering energy for the new week.",
+  "note_fi": "Anna mielesi ja kehosi rentoutua täysin tänä sunnuntaina, keräten energiaa uudelle viikolle."
+}
