@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-03-31",
+  "lunar_cn": "二月十三",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Savor a good meal",
+      "fi": "Nauti ateriasta"
+    },
+    {
+      "zh": "規劃行程",
+      "en": "Plan your schedule",
+      "fi": "Suunnittele aikataulu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylirasittaa itseäsi"
+    },
+    {
+      "zh": "匆忙決策",
+      "en": "Make hasty decisions",
+      "fi": "Tee hätiköityjä päätöksiä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit for too long",
+      "fi": "Istu liian pitkään"
+    }
+  ],
+  "note_zh": "善用今日能量，專注提升自我，同時也別忘了留點時間給自己充電。",
+  "note_en": "Harness today's energy to focus on self-improvement, but remember to set aside time for rejuvenation.",
+  "note_fi": "Hyödynnä päivän energiaa itsesi kehittämiseen, mutta muista varata aikaa palautumiseen."
+}
