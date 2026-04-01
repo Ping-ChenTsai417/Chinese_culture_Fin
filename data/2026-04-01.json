@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-01",
+  "lunar_cn": "二月十四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "會友交流",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice meditation",
+      "fi": "Harjoita meditaatiota"
+    },
+    {
+      "zh": "輕度運動",
+      "en": "Gentle movement",
+      "fi": "Kevyt liikunta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "思慮過度",
+      "en": "Overthink and worry",
+      "fi": "Yliajatteleminen"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Delay tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liikaa"
+    }
+  ],
+  "note_zh": "忙碌之餘，停下來感受生活中的小確幸，讓心靈得到片刻的寧靜。",
+  "note_en": "Amidst busyness, pause to appreciate life's small joys and find moments of tranquility.",
+  "note_fi": "Kiireen keskellä pysähdy arvostamaan elämän pieniä iloja ja löydä hetki rauhaa."
+}
