@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-04",
+  "lunar_cn": "三月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "清明",
+  "yi": [
+    {
+      "zh": "與親友相聚",
+      "en": "Gather with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "整理個人空間",
+      "en": "Organize personal space",
+      "fi": "Järjestä oma tila"
+    },
+    {
+      "zh": "戶外踏青",
+      "en": "Enjoy nature walk",
+      "fi": "Nauti luontokävelystä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Excessive fatigue",
+      "fi": "Liiallinen uupumus"
+    },
+    {
+      "zh": "沉溺思慮",
+      "en": "Dwell on worries",
+      "fi": "Vajoa huoliin"
+    },
+    {
+      "zh": "熬夜玩樂",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "清明時節，與自然連結，享受片刻寧靜，心靈亦得滋養。",
+  "note_en": "As Qingming arrives, connect with nature, enjoy a moment of tranquility, and nourish your soul.",
+  "note_fi": "Qingming-juhlassa yhdisty luontoon, nauti hetken rauhasta ja ravitse sieluasi."
+}
