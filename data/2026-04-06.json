@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-06",
+  "lunar_cn": "二月廿九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃目標",
+      "en": "Set clear goals",
+      "fi": "Aseta tavoitteita"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "伸展運動",
+      "en": "Gentle stretching",
+      "fi": "Venyttele kevyesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延懈怠",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele töissä"
+    },
+    {
+      "zh": "久視螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liikaa näyttöaikaa"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglect self-care",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "把握今日，為本週定下積極的基調，讓每個片刻都充滿意義。",
+  "note_en": "Embrace today to set a positive tone for the week, making every moment meaningful.",
+  "note_fi": "Hyödynnä tämä päivä luodaksesi positiivisen viikon, tehden jokaisesta hetkestä merkityksellisen."
+}
