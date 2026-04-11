@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-11",
+  "lunar_cn": "二月廿四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親友團聚",
+      "en": "Gather with loved ones",
+      "fi": "Kokoonnu läheisten kanssa"
+    },
+    {
+      "zh": "培養愛好",
+      "en": "Nurture a hobby",
+      "fi": "Harrasta rakasta"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度安排",
+      "en": "Over-scheduling activities",
+      "fi": "Liikaa ohjelmaa"
+    },
+    {
+      "zh": "沉溺憂慮",
+      "en": "Dwell on worries",
+      "fi": "Murehtiminen"
+    },
+    {
+      "zh": "久宅室內",
+      "en": "Stay indoors too long",
+      "fi": "Pitkä sisälläolo"
+    }
+  ],
+  "note_zh": "週末宜慢活，感受當下美好，讓心靈充電。",
+  "note_en": "Slow down this weekend, appreciate the present, and recharge your spirit.",
+  "note_fi": "Hidasta viikonloppuna, arvosta hetkeä ja lataa sieluasi."
+}
