@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-13",
+  "lunar_cn": "二月廿六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃本週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    },
+    {
+      "zh": "健康飲食",
+      "en": "Eat a healthy meal",
+      "fi": "Syö terveellisesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele tehtäviä"
+    }
+  ],
+  "note_zh": "新的一週，以平和的心態開啟，讓每個當下都充滿意義。",
+  "note_en": "A new week begins; start with a peaceful mind and make every moment meaningful.",
+  "note_fi": "Uusi viikko alkaa; aloita rauhallisella mielellä ja tee jokaisesta hetkestä merkityksellinen."
+}
