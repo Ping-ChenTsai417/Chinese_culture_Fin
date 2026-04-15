@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-15",
+  "lunar_cn": "三月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理空間",
+      "en": "Organize your space",
+      "fi": "Järjestä tilaa"
+    },
+    {
+      "zh": "交流互動",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "午間小憩",
+      "en": "Take a midday break",
+      "fi": "Pidä päivätauko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Avoid overthinking",
+      "fi": "Vältä yliajattelua"
+    },
+    {
+      "zh": "堆積工作",
+      "en": "Don't pile up tasks",
+      "fi": "Älä kasaa töitä"
+    },
+    {
+      "zh": "沉迷娛樂",
+      "en": "Limit screen time",
+      "fi": "Rajoita ruutuaikaa"
+    }
+  ],
+  "note_zh": "週中宜靜心，為接下來的挑戰積蓄能量，保持一份從容。",
+  "note_en": "Find calm mid-week to recharge for upcoming challenges, maintaining a composed spirit.",
+  "note_fi": "Löydä tyyneys keskellä viikkoa, lataa energiaa tuleviin haasteisiin ja säilytä rauhallinen mieli."
+}
