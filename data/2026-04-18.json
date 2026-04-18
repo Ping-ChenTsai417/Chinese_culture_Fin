@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-18",
+  "lunar_cn": "三月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take a nature walk",
+      "fi": "Kävele luonnossa"
+    },
+    {
+      "zh": "發展興趣",
+      "en": "Cultivate a hobby",
+      "fi": "Kehitä harrastusta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用屏",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "煩惱瑣事",
+      "en": "Dwell on trifles",
+      "fi": "Murehdi pikkujuttuja"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect your rest",
+      "fi": "Laiminlyö lepo"
+    }
+  ],
+  "note_zh": "週末是放鬆與充電的時光，讓心靈和身體都得到滋養。",
+  "note_en": "Saturdays are for recharging; nourish your mind and body.",
+  "note_fi": "Lauantait ovat latautumista varten; ravitse mieltäsi ja kehoasi."
+}
