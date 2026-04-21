@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-21",
+  "lunar_cn": "三月初四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃工作",
+      "en": "Plan your tasks",
+      "fi": "Suunnittele tehtävät"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöstä itsesi"
+    },
+    {
+      "zh": "沉迷娛樂",
+      "en": "Over-indulge entertainment",
+      "fi": "Ylikäytä viihdettä"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "今日宜規劃，讓每一步都充滿目的與效率，同時不忘留白。",
+  "note_en": "Plan your day with purpose and efficiency, remembering to leave space for reflection.",
+  "note_fi": "Suunnittele päiväsi tarkoituksella ja tehokkaasti, muistaen jättää tilaa pohdiskelulle."
+}
