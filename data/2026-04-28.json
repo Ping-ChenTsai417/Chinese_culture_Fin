@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-28",
+  "lunar_cn": "三月十一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃待辦",
+      "en": "Plan tasks",
+      "fi": "Suunnittele tehtäviä"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink worries",
+      "fi": "Liikaa murehtimista"
+    },
+    {
+      "zh": "暴飲暴食",
+      "en": "Overeat",
+      "fi": "Ylensyönti"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "今日是平衡工作與休息的好時機，讓身心都得到滋養。",
+  "note_en": "Today is a good time to balance work and rest, nourishing both body and mind.",
+  "note_fi": "Tänään on hyvä aika tasapainottaa työtä ja lepoa, raviten kehoa ja mieltä."
+}
