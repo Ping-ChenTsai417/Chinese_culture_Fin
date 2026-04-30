@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-04-30",
+  "lunar_cn": "三月十三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Connect with friends",
+      "fi": "Vietä aikaa ystävien kanssa"
+    },
+    {
+      "zh": "整理工作區",
+      "en": "Organize workspace",
+      "fi": "Järjestä työtila"
+    },
+    {
+      "zh": "享受自然風光",
+      "en": "Enjoy nature's beauty",
+      "fi": "Nauti luonnosta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Älä ylityöskentele"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Vältä hätäilyä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Be sedentary",
+      "fi": "Vältä istumista"
+    }
+  ],
+  "note_zh": "把握今日，為週末的放鬆與充電做好準備。",
+  "note_en": "Embrace today, preparing for weekend rest and rejuvenation.",
+  "note_fi": "Hyödynnä päivä ja valmistaudu viikonlopun lepoon ja virkistykseen."
+}
