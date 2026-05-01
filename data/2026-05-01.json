@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-01",
+  "lunar_cn": "三月廿四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax mind and body",
+      "fi": "Rentouta kehoa ja mieltä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度工作",
+      "en": "Overwork",
+      "fi": "Ylityö"
+    },
+    {
+      "zh": "獨自煩惱",
+      "en": "Worry alone",
+      "fi": "Murehdi yksin"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istu paikoillasi"
+    }
+  ],
+  "note_zh": "週末將至，放下疲憊，與所愛之人共度美好時光，滋養心靈。",
+  "note_en": "As the weekend approaches, release fatigue and nourish your soul with loved ones.",
+  "note_fi": "Viikonlopun lähestyessä vapauta väsymys ja ravitse sieluasi läheisten kanssa."
+}
