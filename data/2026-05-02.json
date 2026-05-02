@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-02",
+  "lunar_cn": "三月十五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "享受大自然",
+      "en": "Enjoy nature's beauty",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "閱讀與學習",
+      "en": "Read and learn",
+      "fi": "Lue ja opi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele asioita"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    }
+  ],
+  "note_zh": "週末是身心充電的好時光，放慢步調，享受當下。",
+  "note_en": "The weekend is a great time to recharge body and mind; slow down and enjoy the moment.",
+  "note_fi": "Viikonloppu on hyvä aika ladata kehoa ja mieltä; hidasta ja nauti hetkestä."
+}
