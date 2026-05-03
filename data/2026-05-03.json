@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-03",
+  "lunar_cn": "三月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "休息放鬆",
+      "en": "Rest and relax",
+      "fi": "Lepää ja rentoudu"
+    },
+    {
+      "zh": "戶外活動",
+      "en": "Enjoy outdoors",
+      "fi": "Nauti ulkoilmasta"
+    },
+    {
+      "zh": "親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskennellä liikaa"
+    },
+    {
+      "zh": "沉迷手機",
+      "en": "Excessive phone use",
+      "fi": "Selailla puhelinta liikaa"
+    },
+    {
+      "zh": "擔憂未來",
+      "en": "Worry about future",
+      "fi": "Murehtia tulevasta"
+    }
+  ],
+  "note_zh": "週末是為了充電和享受當下，讓心靈和身體都得到充分的滋養。",
+  "note_en": "Sundays are for recharging and enjoying the present, nourishing both mind and body.",
+  "note_fi": "Sunnuntait ovat latautumista ja hetkestä nauttimista varten, ravitsemalla sekä mieltä että kehoa."
+}
