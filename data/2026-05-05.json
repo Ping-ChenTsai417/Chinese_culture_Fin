@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-05",
+  "lunar_cn": "三月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "立夏",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "靜心品茗",
+      "en": "Enjoy peaceful tea",
+      "fi": "Nauti rauhasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Avoid negative thoughts",
+      "fi": "Vältä negatiivisuutta"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Avoid prolonged sitting",
+      "fi": "Vältä istumista"
+    }
+  ],
+  "note_zh": "立夏時節，感受陽光與活力，讓喜悅在心中盛開。",
+  "note_en": "Embrace summer's vibrant energy and let joy blossom within you.",
+  "note_fi": "Ota vastaan kesän energia ja anna ilon kukkia mielessäsi."
+}
