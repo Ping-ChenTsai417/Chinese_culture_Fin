@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-06",
+  "lunar_cn": "三月廿九",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "享受午茶",
+      "en": "Enjoy afternoon tea",
+      "fi": "Nauti iltapäiväteetä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "負面抱怨",
+      "en": "Negative complaining",
+      "fi": "Negatiivinen valitus"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late watching",
+      "fi": "Valvo myöhään katsoen"
+    }
+  ],
+  "note_zh": "讓今日的思考沉澱，為明日的行動積蓄力量。",
+  "note_en": "Let today's thoughts settle, gathering strength for tomorrow's actions.",
+  "note_fi": "Anna päivän ajatusten laskeutua, kerää voimia huomisen toimiin."
+}
