@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-07",
+  "lunar_cn": "三月廿九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受自然",
+      "en": "Enjoy nature",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "整理空間",
+      "en": "Tidy your space",
+      "fi": "Siisti tilaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylirasittaa itseäsi"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Screen overuse",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "週四宜為週末蓄力，保持心境平和，享受生活中的小確幸。",
+  "note_en": "On Thursday, gather energy for the weekend, maintain inner peace, and cherish small joys.",
+  "note_fi": "Torstaina kerää energiaa viikonloppua varten, säilytä sisäinen rauha ja arvosta pieniä iloja."
+}
