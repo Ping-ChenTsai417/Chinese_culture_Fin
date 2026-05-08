@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-08",
+  "lunar_cn": "三月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受週末",
+      "en": "Enjoy the weekend",
+      "fi": "Nauti viikonlopusta"
+    },
+    {
+      "zh": "檢視一週",
+      "en": "Review the week",
+      "fi": "Tarkastele viikkoa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice meditation",
+      "fi": "Harjoita meditaatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work overtime",
+      "fi": "Tee ylitöitä"
+    },
+    {
+      "zh": "沉溺憂慮",
+      "en": "Dwell on worries",
+      "fi": "Vello huolissa"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Postpone tasks",
+      "fi": "Lykkää tehtäviä"
+    }
+  ],
+  "note_zh": "週末近在眼前，放慢步調，尋找內心平靜，為身心注入活力。",
+  "note_en": "The weekend is near. Slow down, find inner peace, and revitalize your spirit.",
+  "note_fi": "Viikonloppu on lähellä. Hidasta, löydä sisäinen rauha ja virkistä sieluasi."
+}
