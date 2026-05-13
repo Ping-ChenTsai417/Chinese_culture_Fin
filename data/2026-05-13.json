@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-13",
+  "lunar_cn": "四月廿六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "閱讀學習",
+      "en": "Read and learn",
+      "fi": "Lue ja opi"
+    },
+    {
+      "zh": "輕度運動",
+      "en": "Gentle exercise",
+      "fi": "Kevyt liikunta"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate mindfully",
+      "fi": "Meditoi tietoisesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用眼",
+      "en": "Strain your eyes",
+      "fi": "Rasita silmiä"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Postpone tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "思慮過度",
+      "en": "Overthink things",
+      "fi": "Pohdi liikaa"
+    }
+  ],
+  "note_zh": "保持中庸之道，將身心調整到最佳狀態，迎接挑戰。",
+  "note_en": "Find your balance today; align body and mind for upcoming challenges.",
+  "note_fi": "Löydä tasapaino; valmistaudu haasteisiin kehon ja mielen kanssa."
+}
