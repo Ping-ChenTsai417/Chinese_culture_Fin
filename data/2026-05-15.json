@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-15",
+  "lunar_cn": "三月廿八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友相聚",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "規劃週末時光",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppuasi"
+    },
+    {
+      "zh": "輕鬆閱讀",
+      "en": "Relax with reading",
+      "fi": "Rentoudu lukien"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Tee liikaa ylitöitä"
+    },
+    {
+      "zh": "久盯電子螢幕",
+      "en": "Stare at screens",
+      "fi": "Tuijota näyttöjä liian kauan"
+    },
+    {
+      "zh": "匆忙行事",
+      "en": "Rush your tasks",
+      "fi": "Kiirehdi asioissa"
+    }
+  ],
+  "note_zh": "今日是迎接週末的序章，放鬆身心，準備享受美好時光。",
+  "note_en": "Today marks the prelude to the weekend; relax your mind and body, and prepare for good times.",
+  "note_fi": "Tänään on viikonlopun alkusoitto; rentouta mielesi ja kehosi ja valmistaudu hyviin hetkiin."
+}
