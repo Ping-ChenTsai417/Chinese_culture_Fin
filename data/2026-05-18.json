@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-18",
+  "lunar_cn": "四月初一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃本週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "享受午間漫步",
+      "en": "Enjoy a midday stroll",
+      "fi": "Nauti päiväkävelystä"
+    },
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Ota yhteyttä kollegoihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度安排",
+      "en": "Over-schedule yourself",
+      "fi": "Ylikuormittaa itsensä"
+    },
+    {
+      "zh": "忽略正餐",
+      "en": "Skip main meals",
+      "fi": "Jättää aterioita väliin"
+    },
+    {
+      "zh": "糾結過往",
+      "en": "Dwell on the past",
+      "fi": "Murehtia menneitä"
+    }
+  ],
+  "note_zh": "讓今日成為設定積極基調、迎接豐盛一週的起點。",
+  "note_en": "Let today be the start of setting a positive tone for an abundant week.",
+  "note_fi": "Anna tämän päivän asettaa positiivisen sävyn runsaalle viikolle."
+}
