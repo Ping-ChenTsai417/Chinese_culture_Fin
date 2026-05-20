@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-20",
+  "lunar_cn": "四月十三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "小滿",
+  "yi": [
+    {
+      "zh": "與友午餐",
+      "en": "Lunch with friends",
+      "fi": "Lounasta ystävien kanssa"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度比較",
+      "en": "Excessive comparison",
+      "fi": "Liiallinen vertailu"
+    },
+    {
+      "zh": "沉迷虛擬",
+      "en": "Excessive screen time",
+      "fi": "Liika ruutuaika"
+    },
+    {
+      "zh": "輕視休息",
+      "en": "Neglect rest",
+      "fi": "Aliarvioi lepo"
+    }
+  ],
+  "note_zh": "小滿時節，願你心田豐盛，日常點滴皆成滋養。",
+  "note_en": "As nature ripens, nurture your inner world and find nourishment in daily moments.",
+  "note_fi": "Kun luonto kypsyy, vaali sisäistä maailmaasi ja löydä ravintoa arjen hetkistä."
+}
