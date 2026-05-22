@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-22",
+  "lunar_cn": "四月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃週末",
+      "en": "Plan weekend activities",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "整理心情",
+      "en": "Clear your mind",
+      "fi": "Selvennä mieltäsi"
+    },
+    {
+      "zh": "品嚐佳餚",
+      "en": "Enjoy a good meal",
+      "fi": "Nauti ateriasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度分析",
+      "en": "Over-analyze things",
+      "fi": "Ylianalysoi asioita"
+    },
+    {
+      "zh": "熬夜工作",
+      "en": "Work late hours",
+      "fi": "Työskentele myöhään"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Laiminlyö lepo"
+    }
+  ],
+  "note_zh": "今日是週末的序章，放慢腳步，為身心注入能量，迎接輕鬆時光。",
+  "note_en": "Today is the prelude to the weekend; slow down, recharge your body and mind, and welcome relaxing times.",
+  "note_fi": "Tänään on viikonlopun alkusoitto; hidasta, lataa kehoasi ja mieltäsi ja toivota rentouttavat hetket tervetulleiksi."
+}
