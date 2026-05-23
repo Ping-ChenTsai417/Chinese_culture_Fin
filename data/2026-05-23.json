@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-23",
+  "lunar_cn": "四月初六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "享受閒暇",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Cultivate a hobby",
+      "fi": "Kehitä harrastusta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "久坐不動",
+      "en": "Stay inactive",
+      "fi": "Pysy toimettomana"
+    },
+    {
+      "zh": "糾結細節",
+      "en": "Dwell on details",
+      "fi": "Jää kiinni yksityiskohtiin"
+    },
+    {
+      "zh": "壓力過大",
+      "en": "Overdo it",
+      "fi": "Stressaa liikaa"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、滋養靈魂的時刻，享受這份寧靜與美好。",
+  "note_en": "The weekend is a time to relax, nourish your soul, and enjoy peace and beauty.",
+  "note_fi": "Viikonloppu on aikaa rentoutua, ravita sielua ja nauttia rauhasta ja kauneudesta."
+}
