@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-25",
+  "lunar_cn": "四月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "享受輕食",
+      "en": "Enjoy a light meal",
+      "fi": "Nauti kevyestä ateriasta"
+    },
+    {
+      "zh": "輕鬆散步",
+      "en": "Take a gentle walk",
+      "fi": "Kävele rauhallisesti"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "過度思考",
+      "en": "Overthink",
+      "fi": "Yliajatella"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimi hätäisesti"
+    }
+  ],
+  "note_zh": "讓週一成為靜心開始新篇章的日子。",
+  "note_en": "Let Monday be a day to start a new chapter with a calm mind.",
+  "note_fi": "Anna maanantain olla päivä aloittaa uusi luku rauhallisella mielellä."
+}
