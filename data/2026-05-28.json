@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-28",
+  "lunar_cn": "四月十三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink worries",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istuminen pitkään"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimia hätäisesti"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，為身心充電，迎接美好的週末。",
+  "note_en": "Find a moment of calm amidst the busyness to recharge for a good weekend.",
+  "note_fi": "Löydä hetki rauhaa kiireen keskeltä latautuaksesi hyvää viikonloppua varten."
+}
