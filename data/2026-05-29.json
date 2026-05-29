@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-05-29",
+  "lunar_cn": "四月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax your mind",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Enjoy good food",
+      "fi": "Nauti ruoasta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "沉溺網路",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspending",
+      "fi": "Ylikulutus"
+    },
+    {
+      "zh": "爭吵抱怨",
+      "en": "Argue or complain",
+      "fi": "Riitely tai valitus"
+    }
+  ],
+  "note_zh": "今日是小週末，放下工作的疲憊，為週末充飽電。",
+  "note_en": "Today marks the mini-weekend; release work fatigue and recharge for the days ahead.",
+  "note_fi": "Tänään on miniviikonloppu; päästä irti työväsymyksestä ja lataa akut tuleviin päiviin."
+}
