@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-01",
+  "lunar_cn": "四月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃週程",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "品味茶點",
+      "en": "Enjoy tea & snacks",
+      "fi": "Nauti teestä"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "熬夜工作",
+      "en": "Work late nights",
+      "fi": "Työskentele myöhään"
+    },
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimi impulsiivisesti"
+    }
+  ],
+  "note_zh": "今日宜靜心規劃，為嶄新一周注入平和與活力。",
+  "note_en": "Plan your week with a calm mind, infusing peace and energy into a new start.",
+  "note_fi": "Suunnittele viikkosi rauhallisesti, täyttäen uuden alun rauhalla ja energialla."
+}
