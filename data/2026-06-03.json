@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-03",
+  "lunar_cn": "四月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity tehtäviin"
+    },
+    {
+      "zh": "冥想靜心",
+      "en": "Meditate for calm",
+      "fi": "Meditoi rauhassa"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ole yhteydessä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate on tasks",
+      "fi": "Lykkää asioita"
+    }
+  ],
+  "note_zh": "保持專注，善用今日，為實現目標穩步前進。",
+  "note_en": "Stay focused, make the most of today, and steadily advance towards your goals.",
+  "note_fi": "Pysy keskittyneenä, hyödynnä päivä ja etene kohti tavoitteitasi."
+}
