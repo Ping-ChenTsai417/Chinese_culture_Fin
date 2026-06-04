@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-04",
+  "lunar_cn": "四月十九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度比較",
+      "en": "Excessive comparison",
+      "fi": "Vertaile liikaa"
+    },
+    {
+      "zh": "焦慮未來",
+      "en": "Worry about future",
+      "fi": "Murehdi tulevaisuutta"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Istu liikaa"
+    }
+  ],
+  "note_zh": "今日宜靜心整理，為週末的充電做好準備。",
+  "note_en": "Today, calm your mind and organize, preparing for a refreshing weekend.",
+  "note_fi": "Tänään rauhoita mielesi ja järjestä, valmistautuen virkistävään viikonloppuun."
+}
