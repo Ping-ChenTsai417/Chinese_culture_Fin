@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-06",
+  "lunar_cn": "四月廿二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Gather with family",
+      "fi": "Vietä perheen kanssa"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    },
+    {
+      "zh": "整理個人思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度計畫",
+      "en": "Over-plan your day",
+      "fi": "Liikaa suunnittelua"
+    },
+    {
+      "zh": "獨自憂慮",
+      "en": "Worry in solitude",
+      "fi": "Murehdi yksin"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit for too long",
+      "fi": "Istu pitkään"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、享受當下的好時光，讓心靈沉澱，感受生活美好。",
+  "note_en": "Embrace the weekend to relax, be present, and find beauty in simple moments.",
+  "note_fi": "Nauti viikonlopusta rentoutumalla, läsnäololla ja kauneuden löytämisellä arjen hetkistä."
+}
