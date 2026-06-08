@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-08",
+  "lunar_cn": "四月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃行程",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity työhön"
+    },
+    {
+      "zh": "保持微笑",
+      "en": "Keep smiling",
+      "fi": "Hymyile"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele töissä"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistä itseäsi"
+    },
+    {
+      "zh": "抱怨不休",
+      "en": "Constant complaining",
+      "fi": "Jatkuva valitus"
+    }
+  ],
+  "note_zh": "新的一週，以清晰的心態和積極的行動開啟，讓每一刻都充滿意義。",
+  "note_en": "Start the new week with a clear mind and positive action, making every moment meaningful.",
+  "note_fi": "Aloita uusi viikko selkeällä mielellä ja positiivisella toiminnalla, tehden jokaisesta hetkestä merkityksellisen."
+}
