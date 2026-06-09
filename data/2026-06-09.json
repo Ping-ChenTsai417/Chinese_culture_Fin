@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-09",
+  "lunar_cn": "四月廿四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與人交流",
+      "en": "Connect with people",
+      "fi": "Yhdistä ihmisiin"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Savor your meal",
+      "fi": "Nauti ateriastasi"
+    },
+    {
+      "zh": "規劃行程",
+      "en": "Plan your schedule",
+      "fi": "Suunnittele päiväsi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "急躁匆忙",
+      "en": "Rush unnecessarily",
+      "fi": "Kiirehdi turhaan"
+    },
+    {
+      "zh": "過度思考",
+      "en": "Overthink things",
+      "fi": "Pohdi liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian kauan"
+    }
+  ],
+  "note_zh": "每個小小的努力都匯聚成巨大的進步，今日專注，明日可期。",
+  "note_en": "Every small effort accumulates into great progress; focus today for a promising tomorrow.",
+  "note_fi": "Jokainen pieni ponnistus kasaa suurta edistystä; keskity tänään, huominen on lupaava."
+}
