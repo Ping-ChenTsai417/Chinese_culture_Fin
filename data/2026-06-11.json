@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-11",
+  "lunar_cn": "五月初六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Enjoy a good meal",
+      "fi": "Nauti ateriasta"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita mielenrauhaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Engage in negativity",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Binge-watch late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，為身心充電。",
+  "note_en": "Find moments of calm amidst busyness to recharge mind and body.",
+  "note_fi": "Löydä rauhallisia hetkiä kiireen keskeltä ladataksesi mieltä ja kehoa."
+}
