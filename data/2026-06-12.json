@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-12",
+  "lunar_cn": "四月廿六",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax your mind",
+      "fi": "Rentouta mielesi"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "與親友聚",
+      "en": "Connect with loved ones",
+      "fi": "Yhdistä läheisiin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork oneself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "擔憂瑣事",
+      "en": "Worry over trifles",
+      "fi": "Huolehdi pikkuasioista"
+    },
+    {
+      "zh": "熬夜玩樂",
+      "en": "Stay up late for fun",
+      "fi": "Valvo myöhään huvin vuoksi"
+    }
+  ],
+  "note_zh": "今日宜輕卸一週辛勞，以喜悅之心迎接週末的到來。",
+  "note_en": "Today, gently release the week's fatigue and welcome the weekend with joy.",
+  "note_fi": "Tänään, vapauta viikon väsymys ja toivota viikonloppu tervetulleeksi ilolla."
+}
