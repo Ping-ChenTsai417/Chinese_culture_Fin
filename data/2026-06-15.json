@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-15",
+  "lunar_cn": "四月三十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃本週",
+      "en": "Plan the week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "享受輕食",
+      "en": "Enjoy a light meal",
+      "fi": "Nauti kevyestä ateriasta"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Pohdi liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istu liikaa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain often",
+      "fi": "Valita usein"
+    }
+  ],
+  "note_zh": "讓今日的清晨成為你本週平靜與活力的起點。",
+  "note_en": "Let this morning be the start of your week's calm and vitality.",
+  "note_fi": "Anna tämän aamun olla viikkosi rauhallisuuden ja elinvoiman alku."
+}
