@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-17",
+  "lunar_cn": "五月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindful meditation",
+      "fi": "Harjoita meditaatiota"
+    },
+    {
+      "zh": "與家人共餐",
+      "en": "Share a family meal",
+      "fi": "Ruokaile perheen kanssa"
+    },
+    {
+      "zh": "規劃小憩",
+      "en": "Plan a short break",
+      "fi": "Suunnittele tauko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Yliajattele asioita"
+    },
+    {
+      "zh": "輕忽休息",
+      "en": "Neglect rest",
+      "fi": "Laiminlyö lepo"
+    },
+    {
+      "zh": "倉促決策",
+      "en": "Make hasty decisions",
+      "fi": "Tee hätiköityjä päätöksiä"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，保持內心平衡，讓生活更順遂。",
+  "note_en": "Find moments of calm amidst busyness, maintain inner balance for a smoother life.",
+  "note_fi": "Löydä rauhallisia hetkiä kiireessä, säilytä sisäinen tasapaino sujuvampaa elämää varten."
+}
