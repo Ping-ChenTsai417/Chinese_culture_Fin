@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-18",
+  "lunar_cn": "五月初四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "檢視目標",
+      "en": "Review goals",
+      "fi": "Tarkista tavoitteet"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Savor good food",
+      "fi": "Nauti ateriasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Yliajatella asioita"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglect rest",
+      "fi": "Laiminlyödä lepoa"
+    },
+    {
+      "zh": "沉迷手機",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "週四是回顧與展望的時刻，保持心境平和，穩步前行。",
+  "note_en": "Thursday is for reflection and looking ahead; stay calm and move forward steadily.",
+  "note_fi": "Torstai on aikaa miettiä ja katsoa eteenpäin; pysy rauhallisena ja etene tasaisesti."
+}
