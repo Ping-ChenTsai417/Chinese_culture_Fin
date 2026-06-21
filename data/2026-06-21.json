@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-21",
+  "lunar_cn": "五月初六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "夏至",
+  "yi": [
+    {
+      "zh": "享受自然",
+      "en": "Enjoy nature",
+      "fi": "Nauti luonnosta"
+    },
+    {
+      "zh": "家庭團聚",
+      "en": "Family gathering",
+      "fi": "Perhetapaaminen"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Mindful meditation",
+      "fi": "Mielen meditaatio"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Rasita itseäsi liikaa"
+    },
+    {
+      "zh": "沉溺螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    }
+  ],
+  "note_zh": "夏至日長，宜靜心享受陽光與親友的溫暖。",
+  "note_en": "On Summer Solstice, embrace the long daylight and the warmth of loved ones.",
+  "note_fi": "Kesäpäivänseisauksen pitkänä päivänä nauti auringosta ja rakkaiden lämmöstä."
+}
