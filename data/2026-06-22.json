@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-22",
+  "lunar_cn": "五月廿六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "輕度運動",
+      "en": "Engage in light exercise",
+      "fi": "Kevyt liikunta"
+    },
+    {
+      "zh": "交流分享",
+      "en": "Connect and share",
+      "fi": "Yhdistä ja jaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistä itsesi"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain or grumble",
+      "fi": "Valita tai nurista"
+    }
+  ],
+  "note_zh": "新的一週，以積極的心態迎接挑戰，保持身心平衡。",
+  "note_en": "A new week begins; embrace challenges with a positive mindset and maintain mind-body balance.",
+  "note_fi": "Uusi viikko alkaa; ota haasteet vastaan positiivisella mielellä ja ylläpidä kehon ja mielen tasapainoa."
+}
