@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-23",
+  "lunar_cn": "五月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Verkostoidu kollegoiden kanssa"
+    },
+    {
+      "zh": "尋找靈感",
+      "en": "Seek inspiration",
+      "fi": "Etsi inspiraatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork",
+      "fi": "Ylirasittuminen"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "鑽牛角尖",
+      "en": "Overthink small issues",
+      "fi": "Jumiudu pikkuseikkoihin"
+    }
+  ],
+  "note_zh": "今日宜專注於手邊之事，同時保持心境開闊，迎接新的可能。",
+  "note_en": "Focus on your tasks today, but keep an open mind for new possibilities.",
+  "note_fi": "Keskity tehtäviisi, mutta pidä mielesi avoimena uusille mahdollisuuksille."
+}
