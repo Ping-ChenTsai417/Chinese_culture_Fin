@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-24",
+  "lunar_cn": "五月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "冥想靜心",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita tietoisuutta"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaisuutta"
+    },
+    {
+      "zh": "與友共餐",
+      "en": "Dine with friends",
+      "fi": "Ruokaile ystävien kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "過度擔憂",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    }
+  ],
+  "note_zh": "讓心靈沉靜，找到工作與休憩的平衡，輕鬆度過中段旅程。",
+  "note_en": "Let your mind be calm, find balance in work and rest, and enjoy the journey.",
+  "note_fi": "Anna mielen rauhoittua, löydä tasapaino työn ja levon välillä, ja nauti matkasta."
+}
