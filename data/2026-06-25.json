@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-25",
+  "lunar_cn": "五月初十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    },
+    {
+      "zh": "發揮創意",
+      "en": "Express creativity",
+      "fi": "Ilmaise luovuutta"
+    },
+    {
+      "zh": "細品佳餚",
+      "en": "Savor your meals",
+      "fi": "Nauti aterioista"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "抱怨連連",
+      "en": "Excessive complaining",
+      "fi": "Liiallinen valitus"
+    },
+    {
+      "zh": "過勞透支",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "自我否定",
+      "en": "Self-doubt",
+      "fi": "Itsensä epäily"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，讓心靈充電，享受生活的美好。",
+  "note_en": "Find moments of peace amidst busyness to recharge your spirit and enjoy life's beauty.",
+  "note_fi": "Löydä rauhan hetkiä kiireen keskeltä, lataa mieltäsi ja nauti elämän kauneudesta."
+}
