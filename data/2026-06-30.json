@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-06-30",
+  "lunar_cn": "五月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Käy ulkona kävelyllä"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi jotain uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Yliajattele asioita"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Pysyä paikallaan"
+    },
+    {
+      "zh": "抱怨批評",
+      "en": "Complain or criticize",
+      "fi": "Valittaa tai kritisoida"
+    }
+  ],
+  "note_zh": "今日宜整理心緒，輕裝前行，迎接更清晰的明天。",
+  "note_en": "Today, organize your mind, travel lightly, and welcome a clearer tomorrow.",
+  "note_fi": "Tänään järjestä mielesi, kulje kevyesti ja toivota selkeämpi huominen tervetulleeksi."
+}
