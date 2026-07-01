@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-01",
+  "lunar_cn": "五月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate calmly",
+      "fi": "Meditoi rauhallisesti"
+    },
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Verkostoidu kollegoiden kanssa"
+    },
+    {
+      "zh": "規劃創意專案",
+      "en": "Plan creative projects",
+      "fi": "Suunnittele luovia projekteja"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Tee liikaa ylitöitä"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglect rest",
+      "fi": "Unohda levätä"
+    },
+    {
+      "zh": "與人比較",
+      "en": "Compare with others",
+      "fi": "Vertaa itseäsi muihin"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，讓心靈充電，繼續前行。",
+  "note_en": "Find a moment of calm amidst the busyness to recharge your spirit and move forward.",
+  "note_fi": "Löydä hetki rauhaa kiireen keskeltä, lataa mieltäsi ja jatka eteenpäin."
+}
