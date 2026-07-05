@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-05",
+  "lunar_cn": "五月二十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Gather with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "享受寧靜",
+      "en": "Enjoy peaceful moments",
+      "fi": "Nauti rauhasta"
+    },
+    {
+      "zh": "規劃下週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "焦慮未來",
+      "en": "Worry about future",
+      "fi": "Huoli tulevasta"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect proper rest",
+      "fi": "Vähätellä lepoa"
+    }
+  ],
+  "note_zh": "在週末的尾聲，充電身心，為新的開始做好準備。",
+  "note_en": "As the weekend ends, recharge your mind and body for a fresh start.",
+  "note_fi": "Kun viikonloppu päättyy, lataa mielesi ja kehosi uutta alkua varten."
+}
