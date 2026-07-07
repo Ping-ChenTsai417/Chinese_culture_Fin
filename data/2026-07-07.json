@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-07",
+  "lunar_cn": "五月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "小暑",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "輕食養生",
+      "en": "Eat light and nourish",
+      "fi": "Syö kevyesti"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度耗神",
+      "en": "Over-exhausting yourself",
+      "fi": "Ylikuormita itseäsi"
+    },
+    {
+      "zh": "沉溺虛擬",
+      "en": "Immerse in virtual",
+      "fi": "Uppoudu virtuaaliin"
+    },
+    {
+      "zh": "忽視休息",
+      "en": "Neglect your rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "小暑時節，保持心境清涼，如同微風輕拂，讓思緒清晰。",
+  "note_en": "As Minor Heat arrives, keep your mind cool like a gentle breeze, allowing thoughts to flow clearly.",
+  "note_fi": "Pienen helteen saapuessa pidä mielesi viileänä, anna ajatusten virrata selkeästi."
+}
