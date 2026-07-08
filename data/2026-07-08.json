@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-08",
+  "lunar_cn": "五月廿四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Ota yhteyttä kollegoihin"
+    },
+    {
+      "zh": "學習新技能",
+      "en": "Learn new skills",
+      "fi": "Opi uusia taitoja"
+    },
+    {
+      "zh": "冥想放鬆",
+      "en": "Meditate and relax",
+      "fi": "Meditoi ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "抱怨負能量",
+      "en": "Avoid complaining",
+      "fi": "Vältä valittamista"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspend",
+      "fi": "Ylikuluta"
+    },
+    {
+      "zh": "缺乏運動",
+      "en": "Skip exercise",
+      "fi": "Jätä liikunta väliin"
+    }
+  ],
+  "note_zh": "週間宜尋片刻寧靜，讓心靈充電再出發。",
+  "note_en": "Find a quiet moment mid-week to recharge your spirit.",
+  "note_fi": "Löydä rauhallinen hetki keskellä viikkoa sielun lataamiseen."
+}
