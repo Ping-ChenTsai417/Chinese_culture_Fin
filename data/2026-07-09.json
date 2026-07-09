@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-09",
+  "lunar_cn": "六月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友交流",
+      "en": "Connect with friends",
+      "fi": "Yhteydenpito ystäviin"
+    },
+    {
+      "zh": "整理工作區",
+      "en": "Organize workspace",
+      "fi": "Järjestä työtila"
+    },
+    {
+      "zh": "品嚐時令果蔬",
+      "en": "Enjoy seasonal produce",
+      "fi": "Nauti sesongin antimista"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen huoli"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykätä tehtäviä"
+    },
+    {
+      "zh": "熬夜疲憊",
+      "en": "Stay up late",
+      "fi": "Valvoa myöhään"
+    }
+  ],
+  "note_zh": "專注當下，保持輕盈的心態迎接挑戰與機遇。",
+  "note_en": "Focus on the present, maintaining a light heart to meet challenges and opportunities.",
+  "note_fi": "Keskity nykyhetkeen ja säilytä kevyt mieli kohdatessasi haasteita ja mahdollisuuksia."
+}
