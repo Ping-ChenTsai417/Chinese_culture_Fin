@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-12",
+  "lunar_cn": "五月廿七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "親近大自然",
+      "en": "Embrace nature",
+      "fi": "Ole luonnossa"
+    },
+    {
+      "zh": "享受寧靜時光",
+      "en": "Enjoy quiet moments",
+      "fi": "Nauti hiljaisuudesta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度計畫",
+      "en": "Over-planning",
+      "fi": "Ylisuunnittelu"
+    },
+    {
+      "zh": "沉溺電子產品",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "爭吵抱怨",
+      "en": "Argue or complain",
+      "fi": "Riitely ja valitus"
+    }
+  ],
+  "note_zh": "讓今日的寧靜滋養心靈，為新的一週積蓄能量。",
+  "note_en": "Let today's peace nourish your soul and gather energy for the new week.",
+  "note_fi": "Anna päivän rauhan ravita sieluasi ja kerää voimia uuteen viikkoon."
+}
