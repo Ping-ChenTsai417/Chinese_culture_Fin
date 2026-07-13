@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-13",
+  "lunar_cn": "五月廿八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃日程",
+      "en": "Plan your day",
+      "fi": "Suunnittele päivä"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity tehtäviin"
+    },
+    {
+      "zh": "靜心片刻",
+      "en": "Take a quiet moment",
+      "fi": "Ota hetki rauhaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Vältä viivyttelyä"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Avoid negative thoughts",
+      "fi": "Vältä negatiivisuutta"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Avoid prolonged sitting",
+      "fi": "Vältä pitkää istumista"
+    }
+  ],
+  "note_zh": "新的一周，帶著清新的心境，專注當下，創造美好。",
+  "note_en": "A new week begins; approach it with a fresh mind, focus on the present, and create beauty.",
+  "note_fi": "Uusi viikko alkaa; lähesty sitä avoimin mielin, keskity nykyhetkeen ja luo kauneutta."
+}
