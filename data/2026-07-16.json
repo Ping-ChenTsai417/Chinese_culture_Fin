@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-16",
+  "lunar_cn": "六月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "運動健身",
+      "en": "Exercise & fitness",
+      "fi": "Liiku ja kuntoile"
+    },
+    {
+      "zh": "與家人共餐",
+      "en": "Dine with family",
+      "fi": "Aterioi perheen kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate calmly",
+      "fi": "Rauhoitu ja meditoi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late for shows",
+      "fi": "Valvo sarjojen takia"
+    },
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink worries",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "沉迷虛擬",
+      "en": "Indulge in virtual",
+      "fi": "Uppoudu virtuaaliin"
+    }
+  ],
+  "note_zh": "今日宜放鬆身心，享受當下美好，為週末積蓄能量。",
+  "note_en": "Today, relax your mind and body, enjoy the present, and build energy for the weekend.",
+  "note_fi": "Tänään rentouta mielesi ja kehosi, nauti nykyhetkestä ja kerää energiaa viikonloppua varten."
+}
