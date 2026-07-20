@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-20",
+  "lunar_cn": "六月初五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一周",
+      "en": "Plan the week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Mindful meditation",
+      "fi": "Tietoinen meditaatio"
+    },
+    {
+      "zh": "滋養身心",
+      "en": "Nourish body, mind",
+      "fi": "Ravitse kehoa ja mieltä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvoa myöhään"
+    },
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worry",
+      "fi": "Murehtia liikaa"
+    },
+    {
+      "zh": "拖延待辦",
+      "en": "Procrastinate tasks",
+      "fi": "Lykätä tehtäviä"
+    }
+  ],
+  "note_zh": "以清明的心開啟新週，讓每一步都充滿目的與希望。",
+  "note_en": "Start your week with a clear mind, letting each step be purposeful and full of hope.",
+  "note_fi": "Aloita viikko kirkkaalla mielellä, antaen jokaisen askeleen olla päämäärätietoinen ja toiveikas."
+}
