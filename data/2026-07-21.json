@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-21",
+  "lunar_cn": "六月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "專注要務",
+      "en": "Focus on priorities",
+      "fi": "Keskity tärkeisiin"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "適度伸展",
+      "en": "Gentle stretching",
+      "fi": "Hellä venyttely"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "糾結細節",
+      "en": "Obsess over details",
+      "fi": "Takertua yksityiskohtiin"
+    },
+    {
+      "zh": "承諾過多",
+      "en": "Over-commit yourself",
+      "fi": "Sitoutua liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istua liian kauan"
+    }
+  ],
+  "note_zh": "在繁忙中尋找平衡點，即使是片刻的寧靜也能為你注入活力。",
+  "note_en": "Find balance amidst the busyness; even a moment of calm can energize you.",
+  "note_fi": "Löydä tasapaino kiireen keskellä; pienikin hetki rauhaa voi antaa sinulle energiaa."
+}
