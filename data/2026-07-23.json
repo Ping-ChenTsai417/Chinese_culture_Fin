@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-23",
+  "lunar_cn": "六月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "大暑",
+  "yi": [
+    {
+      "zh": "品茗消暑",
+      "en": "Enjoy cooling tea",
+      "fi": "Nauti viilentävää teetä"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    },
+    {
+      "zh": "靜心沉澱",
+      "en": "Quiet reflection",
+      "fi": "Hiljainen pohdinta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "烈日曝曬",
+      "en": "Over-exposure to sun",
+      "fi": "Vältä suoraa aurinkoa"
+    },
+    {
+      "zh": "思慮過度",
+      "en": "Overthinking worries",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "拖延怠惰",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    }
+  ],
+  "note_zh": "大暑時節，宜靜心養生，願你心清氣爽，樂享當下美好。",
+  "note_en": "Amidst the summer heat, find tranquility and nourish your spirit; may you enjoy the present moment.",
+  "note_fi": "Keskellä kesähellettä, löydä rauha ja ravitse sieluasi; nauti tästä hetkestä."
+}
