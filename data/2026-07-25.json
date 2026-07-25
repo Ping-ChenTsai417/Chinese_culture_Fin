@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-25",
+  "lunar_cn": "六月初十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外活動",
+      "en": "Engage in outdoors",
+      "fi": "Ulkoile"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Pursue hobbies",
+      "fi": "Harrasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度沉溺網路",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "計畫過滿",
+      "en": "Over-schedule yourself",
+      "fi": "Liian täysi kalenteri"
+    },
+    {
+      "zh": "斤斤計較",
+      "en": "Be overly critical",
+      "fi": "Ole kriittinen"
+    }
+  ],
+  "note_zh": "週六是放鬆和充電的日子，讓心靈和身體得到充分的休息。",
+  "note_en": "Saturday is a day for relaxation and recharging, allowing your mind and body to fully rest.",
+  "note_fi": "Lauantai on rentoutumisen ja latautumisen päivä, anna mielesi ja kehosi levätä täysin."
+}
