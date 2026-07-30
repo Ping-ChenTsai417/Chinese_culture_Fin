@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-30",
+  "lunar_cn": "六月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "輕度運動",
+      "en": "Light exercise",
+      "fi": "Kevyt liikunta"
+    },
+    {
+      "zh": "品嚐美食",
+      "en": "Enjoy good food",
+      "fi": "Nauti hyvästä ruoasta"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita tietoisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overwork",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "抱怨消極",
+      "en": "Avoid negativity",
+      "fi": "Vältä negatiivisuutta"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Avoid procrastination",
+      "fi": "Vältä viivyttelyä"
+    }
+  ],
+  "note_zh": "週四是充電的時刻，為即將到來的週末儲備活力。",
+  "note_en": "Thursday is a time to recharge, gather energy for the coming weekend.",
+  "note_fi": "Torstai on latautumisen aikaa, kerää energiaa viikonloppua varten."
+}
