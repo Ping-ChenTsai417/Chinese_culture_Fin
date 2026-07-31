@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-07-31",
+  "lunar_cn": "六月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax your mind and body",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "與友相聚",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Dwell on worries",
+      "fi": "Huolehdi liikaa"
+    },
+    {
+      "zh": "暴飲暴食",
+      "en": "Over-indulge in food",
+      "fi": "Syö liikaa"
+    },
+    {
+      "zh": "過度用屏",
+      "en": "Excessive screen time",
+      "fi": "Liika ruutuaika"
+    }
+  ],
+  "note_zh": "讓週末的喜悅洗滌一週的疲憊，為身心注入新的活力，享受當下。",
+  "note_en": "Let the joy of the weekend wash away the week's fatigue, re-energizing your mind and body.",
+  "note_fi": "Anna viikonlopun ilon huuhtoa pois viikon väsymys, täyttäen mielesi ja kehosi energialla."
+}
