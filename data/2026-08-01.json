@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-01",
+  "lunar_cn": "六月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受閒暇時光",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "與親友團聚",
+      "en": "Gather with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "探索新興趣",
+      "en": "Explore new hobbies",
+      "fi": "Tutustu uusiin harrastuksiin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "沉迷於工作",
+      "en": "Obsess over work",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "孤僻獨處",
+      "en": "Isolate oneself",
+      "fi": "Vältä eristäytymistä"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Overspend money",
+      "fi": "Vältä ylikulutusta"
+    }
+  ],
+  "note_zh": "週末是滋養身心、重拾活力的最佳時機，盡情放鬆吧。",
+  "note_en": "Weekends are perfect for nurturing your mind and body; allow yourself to truly relax.",
+  "note_fi": "Viikonloput ovat täydellisiä mielen ja kehon hoitamiseen; anna itsesi todella rentoutua."
+}
