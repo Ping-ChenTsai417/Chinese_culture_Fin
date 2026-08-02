@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-02",
+  "lunar_cn": "六月十九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Spend time with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate calmly",
+      "fi": "Meditoi rauhallisesti"
+    },
+    {
+      "zh": "享受自然",
+      "en": "Enjoy nature",
+      "fi": "Nauti luonnosta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思考",
+      "en": "Overthinking",
+      "fi": "Liiallinen ajattelu"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Binge-watching late",
+      "fi": "Valvoa myöhään sarjojen parissa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complaining negativity",
+      "fi": "Valittaa tyytymättömyyttä"
+    }
+  ],
+  "note_zh": "讓心靈在今日的寧靜中得到滋養，為新的一週積蓄能量。",
+  "note_en": "Let your mind be nourished by today's tranquility, gathering energy for the new week.",
+  "note_fi": "Anna mielesi ravintoutua päivän rauhasta, keräten energiaa uudelle viikolle."
+}
