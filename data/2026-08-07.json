@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-07",
+  "lunar_cn": "七月廿四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "立秋",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax mind and body",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Rasita itseäsi liikaa"
+    },
+    {
+      "zh": "長時間用手機",
+      "en": "Too much screen time",
+      "fi": "Liikaa ruutuaikaa"
+    }
+  ],
+  "note_zh": "秋意漸濃，放下疲憊，迎接週末的悠閒與美好。",
+  "note_en": "As autumn deepens, release fatigue and embrace the weekend's ease and beauty.",
+  "note_fi": "Syksyn syventyessä, vapauta väsymys ja nauti viikonlopun rauhasta ja kauneudesta."
+}
