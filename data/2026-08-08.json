@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-08",
+  "lunar_cn": "七月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受閒暇時光",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "與家人共餐",
+      "en": "Dine with family",
+      "fi": "Ruokaile perheen kanssa"
+    },
+    {
+      "zh": "探索新興趣",
+      "en": "Explore new hobbies",
+      "fi": "Tutki uusia harrastuksia"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "累積家務雜事",
+      "en": "Pile up chores",
+      "fi": "Kasaa kotitöitä"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "讓週末的陽光，照亮身心，為新的週注入活力。",
+  "note_en": "Let the weekend sun illuminate your body and mind, energizing you for the week ahead.",
+  "note_fi": "Anna viikonlopun auringon valaista mieltäsi ja kehoasi, antaen energiaa tulevaan viikkoon."
+}
