@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-14",
+  "lunar_cn": "七月初三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友共餐",
+      "en": "Dine with friends",
+      "fi": "Illasta ystävien kanssa"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "品茗休憩",
+      "en": "Enjoy tea and rest",
+      "fi": "Nauti teetä ja lepää"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Don't procrastinate tasks",
+      "fi": "Älä lykkää tehtäviä"
+    },
+    {
+      "zh": "負面情緒",
+      "en": "Steer clear of negativity",
+      "fi": "Vältä negatiivisuutta"
+    }
+  ],
+  "note_zh": "放下週中煩憂，迎接週末的輕鬆與喜悅，讓心靈得到滋養。",
+  "note_en": "Let go of weekday worries, embrace the weekend's ease and joy, and nourish your soul.",
+  "note_fi": "Päästä irti arkipäivän huolista, ota vastaan viikonlopun keveys ja ilo, ja ravitse sieluasi."
+}
