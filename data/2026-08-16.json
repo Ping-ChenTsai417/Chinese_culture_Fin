@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-16",
+  "lunar_cn": "七月初四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "回顧展望",
+      "en": "Reflect on your week",
+      "fi": "Pohdi viikkoasi"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Vietä aikaa luonnossa"
+    },
+    {
+      "zh": "準備美食",
+      "en": "Cook a healthy meal",
+      "fi": "Valmista terveellistä ruokaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink future worries",
+      "fi": "Ylimurehtia tulevaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Jäädä paikalleen"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    }
+  ],
+  "note_zh": "讓週末的寧靜滋養心靈，為新一週的挑戰積蓄力量。",
+  "note_en": "Let Sunday's tranquility nourish your soul, building strength for the week ahead.",
+  "note_fi": "Anna sunnuntain rauhan ravita sieluasi ja koota voimia tulevaan viikkoon."
+}
