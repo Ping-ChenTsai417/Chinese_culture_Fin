@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-20",
+  "lunar_cn": "七月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan for weekend",
+      "fi": "Suunnittele viikonloppua"
+    },
+    {
+      "zh": "品茗放鬆",
+      "en": "Enjoy tea break",
+      "fi": "Nauti teehetkestä"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "負面比較",
+      "en": "Make negative comparisons",
+      "fi": "Vertaa negatiivisesti"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Viivyttele tehtäviä"
+    }
+  ],
+  "note_zh": "即使週中繁忙，也要為內心平靜和力量留出時間。",
+  "note_en": "Even as the week winds down, nurture inner peace and strength.",
+  "note_fi": "Vaikka viikko lähenee loppuaan, vaali sisäistä rauhaa ja voimaa."
+}
