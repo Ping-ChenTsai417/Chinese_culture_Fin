@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-21",
+  "lunar_cn": "七月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與友歡聚",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "週末規劃",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppua"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Cultivate a hobby",
+      "fi": "Harrasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Overwork",
+      "fi": "Ylitöitä"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvoa myöhään"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    }
+  ],
+  "note_zh": "週末將至，平衡工作與生活，為身心充電，迎接輕鬆時光。",
+  "note_en": "The weekend approaches; balance work and life to recharge your mind and body for relaxed moments.",
+  "note_fi": "Viikonloppu lähestyy; tasapainota työ ja elämä, lataa mieltä ja kehoa rentoja hetkiä varten."
+}
