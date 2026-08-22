@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-22",
+  "lunar_cn": "七月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "處暑",
+  "yi": [
+    {
+      "zh": "與家人團聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "戶外活動",
+      "en": "Engage in outdoor activities",
+      "fi": "Harrasta ulkoilua"
+    },
+    {
+      "zh": "探索新知",
+      "en": "Explore new knowledge",
+      "fi": "Tutustu uuteen"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度規劃",
+      "en": "Over-schedule your day",
+      "fi": "Yli-suunnittele päivä"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Binge-watch late",
+      "fi": "Katso sarjoja myöhään"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istu liian pitkään"
+    }
+  ],
+  "note_zh": "處暑已至，宜收斂心神，享受夏末的寧靜與豐盛。",
+  "note_en": "As End of Heat arrives, quiet your mind and savor the peaceful abundance of late summer.",
+  "note_fi": "Kuumuuden päättymisen koittaessa rauhoita mielesi ja nauti loppukesän rauhallisesta runsaudesta."
+}
