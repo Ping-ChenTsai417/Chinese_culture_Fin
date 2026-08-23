@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-23",
+  "lunar_cn": "七月初一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "處暑",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    },
+    {
+      "zh": "與家人共聚",
+      "en": "Spend time with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita mindfulnessia"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Excessive worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "急躁匆忙",
+      "en": "Be impatient",
+      "fi": "Ole kärsimätön"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Jätä lepo huomiotta"
+    }
+  ],
+  "note_zh": "處暑時節，暑氣漸消。靜心養性，為新一週注入活力。",
+  "note_en": "Chushu brings cooler air. Find calm and rejuvenate for the week ahead.",
+  "note_fi": "Chushu tuo viileämpää ilmaa. Löydä rauha ja virkisty tulevaan viikkoon."
+}
