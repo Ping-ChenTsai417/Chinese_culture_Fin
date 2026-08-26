@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-26",
+  "lunar_cn": "七月十四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "整理工作",
+      "en": "Organize your tasks",
+      "fi": "Järjestele töitäsi"
+    },
+    {
+      "zh": "練習冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita meditaatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Ajattele liikaa"
+    },
+    {
+      "zh": "飲食不規律",
+      "en": "Irregular eating",
+      "fi": "Epäsäännöllinen ruokailu"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian pitkään"
+    }
+  ],
+  "note_zh": "在繁忙中找到片刻寧靜，讓心靈得到滋養。",
+  "note_en": "Find moments of calm amidst the busy day to nourish your spirit.",
+  "note_fi": "Löydä hetki rauhaa kiireen keskeltä ravintoa sielullesi."
+}
