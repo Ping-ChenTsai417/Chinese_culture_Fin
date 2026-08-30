@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-08-30",
+  "lunar_cn": "七月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "整理居室",
+      "en": "Organize your space",
+      "fi": "Järjestele kotia"
+    },
+    {
+      "zh": "戶外散步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用腦",
+      "en": "Avoid overthinking",
+      "fi": "Vältä yliajattelua"
+    },
+    {
+      "zh": "長時間久坐",
+      "en": "Avoid prolonged sitting",
+      "fi": "Vältä pitkää istumista"
+    },
+    {
+      "zh": "飲食不節",
+      "en": "Avoid immoderate eating",
+      "fi": "Vältä kohtuutonta syömistä"
+    }
+  ],
+  "note_zh": "享受此刻寧靜，為新一週蓄積能量。",
+  "note_en": "Embrace the present calm, gather energy for the new week.",
+  "note_fi": "Nauti nykyisestä rauhasta, kerää energiaa uudelle viikolle."
+}
