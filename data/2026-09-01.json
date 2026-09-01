@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-01",
+  "lunar_cn": "七月廿日",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃工作",
+      "en": "Plan your tasks",
+      "fi": "Suunnittele työsi"
+    },
+    {
+      "zh": "品味點心",
+      "en": "Savor a snack",
+      "fi": "Nauti välipala"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度思考",
+      "en": "Overthinking matters",
+      "fi": "Liikaa ajattelua"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Avoid prolonged sitting",
+      "fi": "Vältä pitkää istumista"
+    },
+    {
+      "zh": "熬夜疲勞",
+      "en": "Avoid late nights",
+      "fi": "Vältä valvomista"
+    }
+  ],
+  "note_zh": "今日宜心靜專注，以平衡之道迎接挑戰。",
+  "note_en": "Embrace today with a calm heart and focused mind, finding balance in every task.",
+  "note_fi": "Ota päivä vastaan rauhallisella sydämellä ja keskittyneellä mielellä, löytäen tasapainon."
+}
