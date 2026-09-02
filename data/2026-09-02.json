@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-02",
+  "lunar_cn": "七月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Socialize with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Clear your mind",
+      "fi": "Järjestele ajatuksia"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Acquire new knowledge",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Overthinking and worrying",
+      "fi": "Liiallinen murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged inactivity",
+      "fi": "Pitkä istuminen"
+    },
+    {
+      "zh": "草率決定",
+      "en": "Make hasty decisions",
+      "fi": "Hätäiset päätökset"
+    }
+  ],
+  "note_zh": "今日宜將心神凝聚，專注當下，為生活注入平靜與力量。",
+  "note_en": "Today, focus your mind on the present, bringing peace and strength into your life.",
+  "note_fi": "Keskity tähän hetkeen tänään, tuoden rauhaa ja voimaa elämääsi."
+}
