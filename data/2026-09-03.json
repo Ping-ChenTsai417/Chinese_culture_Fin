@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-03",
+  "lunar_cn": "七月廿二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Ota yhteyttä kollegoihin"
+    },
+    {
+      "zh": "品茗放鬆",
+      "en": "Enjoy tea to relax",
+      "fi": "Nauti teestä ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylirasita itseäsi"
+    },
+    {
+      "zh": "忽視身心",
+      "en": "Neglect mind and body",
+      "fi": "Laiminlyö mieltä ja kehoa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain constantly",
+      "fi": "Valita jatkuvasti"
+    }
+  ],
+  "note_zh": "星期四是為週末充電的好時機，保持專注，也別忘了為自己留些空間。",
+  "note_en": "Thursday is a good time to recharge for the weekend; stay focused, but also leave space for yourself.",
+  "note_fi": "Torstai on hyvä aika ladata akkuja viikonloppua varten; pysy keskittyneenä, mutta jätä tilaa myös itsellesi."
+}
