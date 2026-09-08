@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-08",
+  "lunar_cn": "七月廿七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "白露",
+  "yi": [
+    {
+      "zh": "運動健身",
+      "en": "Exercise and move",
+      "fi": "Liiku ja kuntoile"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Savor good food",
+      "fi": "Nauti hyvästä ruoasta"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity tehtäviin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Ajattele liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istua liian kauan"
+    }
+  ],
+  "note_zh": "白露時節，秋意漸濃，保持專注，靜心享受此刻的清晰與豐盛。",
+  "note_en": "As White Dew arrives, autumn deepens. Stay focused, embrace clarity and abundance.",
+  "note_fi": "Valkoisen kasteen saapuessa syksy syvenee. Pysy keskittyneenä, nauti selkeydestä ja runsaudesta."
+}
