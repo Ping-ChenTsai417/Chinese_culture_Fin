@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-11",
+  "lunar_cn": "八月初一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友小聚",
+      "en": "Catch up with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Clear your mind",
+      "fi": "Järjestele ajatuksesi"
+    },
+    {
+      "zh": "享受寧靜",
+      "en": "Savor quiet moments",
+      "fi": "Nauti rauhasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度熬夜",
+      "en": "Stay up too late",
+      "fi": "Älä valvo liian myöhään"
+    },
+    {
+      "zh": "沉溺社媒",
+      "en": "Excessive social media",
+      "fi": "Liika somen käyttö"
+    },
+    {
+      "zh": "累積壓力",
+      "en": "Let stress build",
+      "fi": "Älä anna stressin kertyä"
+    }
+  ],
+  "note_zh": "結束一週忙碌，讓心靈休憩，擁抱週末的喜悅。",
+  "note_en": "After a busy week, let your mind rest and embrace weekend joy.",
+  "note_fi": "Viikon kiireiden jälkeen, anna mielesi levätä ja syleile viikonlopun iloa."
+}
