@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-14",
+  "lunar_cn": "七月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "規劃本週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ota yhteyttä muihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worry",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää asioita"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu pitkään"
+    }
+  ],
+  "note_zh": "新的一週，以平衡的心態和清晰的目標迎接挑戰。",
+  "note_en": "Embrace the new week with a balanced mind and clear goals.",
+  "note_fi": "Ota uusi viikko vastaan tasapainoisella mielellä ja selkeillä tavoitteilla."
+}
