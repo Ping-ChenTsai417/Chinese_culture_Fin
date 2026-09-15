@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-15",
+  "lunar_cn": "八月初五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Keskustele kollegoiden kanssa"
+    },
+    {
+      "zh": "整理工作",
+      "en": "Organize your tasks",
+      "fi": "Järjestä työsi"
+    },
+    {
+      "zh": "靜心片刻",
+      "en": "Take a mindful pause",
+      "fi": "Vietä hetki hiljaisuudessa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度承諾",
+      "en": "Over-commit yourself",
+      "fi": "Sitoutua liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit still too long",
+      "fi": "Istua liian kauan"
+    },
+    {
+      "zh": "過度思考",
+      "en": "Overthink things",
+      "fi": "Murehtia liikaa"
+    }
+  ],
+  "note_zh": "今日宜專注當下，為生活注入一份平靜與效率。",
+  "note_en": "Focus on the present today, inviting peace and efficiency into your life.",
+  "note_fi": "Keskity nykyhetkeen, tuoden rauhaa ja tehokkuutta elämääsi."
+}
