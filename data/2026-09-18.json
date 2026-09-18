@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-18",
+  "lunar_cn": "八月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Gather with friends",
+      "fi": "Vietä aikaa ystävien kanssa"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Clear your mind",
+      "fi": "Selkeytä mielesi"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Tee liikaa ylitöitä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit for too long",
+      "fi": "Istu liikaa"
+    },
+    {
+      "zh": "煩惱瑣事",
+      "en": "Worry over trifles",
+      "fi": "Murehdi pikkujutuista"
+    }
+  ],
+  "note_zh": "週末將至，放下繁忙，讓心靈尋得片刻寧靜與歡愉。",
+  "note_en": "As the weekend approaches, set aside busyness and find moments of peace and joy.",
+  "note_fi": "Viikonlopun lähestyessä, jätä kiire taaksesi ja löydä rauhaa ja iloa hetkestä."
+}
