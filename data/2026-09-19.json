@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-19",
+  "lunar_cn": "八月初九",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與友相聚",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "探索創意",
+      "en": "Explore creativity",
+      "fi": "Tutki luovuutta"
+    },
+    {
+      "zh": "戶外漫步",
+      "en": "Take an outdoor walk",
+      "fi": "Kävele ulkona"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistä itseäsi"
+    },
+    {
+      "zh": "長久宅家",
+      "en": "Stay indoors too long",
+      "fi": "Pysy liian kauan sisällä"
+    },
+    {
+      "zh": "挑起爭執",
+      "en": "Provoke arguments",
+      "fi": "Haasta riitaa"
+    }
+  ],
+  "note_zh": "週六宜放鬆身心，與所愛之人共創美好回憶。",
+  "note_en": "Let Saturday be a day of rest, creating beautiful memories with loved ones.",
+  "note_fi": "Olkoon lauantai lepopäivä, luoden kauniita muistoja läheisten kanssa."
+}
