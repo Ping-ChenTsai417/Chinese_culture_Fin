@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-20",
+  "lunar_cn": "八月初八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita tietoisuutta"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatukset"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöllistää itseä"
+    },
+    {
+      "zh": "熬夜晚睡",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    },
+    {
+      "zh": "沉溺手機",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "讓心靈在今日獲得充分的休息，為新的一週積蓄能量。",
+  "note_en": "Allow your mind to fully rest today, gathering energy for the new week.",
+  "note_fi": "Anna mielesi levätä täysin tänään, kerää energiaa uudelle viikolle."
+}
