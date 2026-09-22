@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-22",
+  "lunar_cn": "八月十二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate peacefully",
+      "fi": "Meditoi rauhassa"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "與家人共餐",
+      "en": "Dine with family",
+      "fi": "Ruokaile perheen kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Excessive worrying",
+      "fi": "Turha murehtiminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Pitkä istuminen"
+    },
+    {
+      "zh": "負能量散播",
+      "en": "Spreading negativity",
+      "fi": "Negatiivisuuden levittäminen"
+    }
+  ],
+  "note_zh": "暫停呼吸，清明之心引導你的每一步。",
+  "note_en": "Pause and breathe; a clear mind guides your every step.",
+  "note_fi": "Pysähdy ja hengitä; selkeä mieli ohjaa jokaista askeltasi."
+}
