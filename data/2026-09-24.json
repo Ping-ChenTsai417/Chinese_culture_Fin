@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-24",
+  "lunar_cn": "八月十四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate peacefully",
+      "fi": "Meditoi rauhallisesti"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Clear your mind",
+      "fi": "Järjestä ajatuksesi"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Overthink things",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "飲食過量",
+      "en": "Eat excessively",
+      "fi": "Syö ylenmäärin"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian kauan"
+    }
+  ],
+  "note_zh": "今日宜放鬆身心，為迎接週末做好準備，保持心境平和。",
+  "note_en": "Today, relax your mind and body, and prepare for the weekend with inner peace.",
+  "note_fi": "Rentouta mielesi ja kehosi tänään, valmistaudu viikonloppuun ja säilytä mielenrauha."
+}
