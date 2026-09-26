@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-26",
+  "lunar_cn": "八月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友團聚",
+      "en": "Gather with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "戶外活動",
+      "en": "Enjoy outdoor activities",
+      "fi": "Nauti ulkoilusta"
+    },
+    {
+      "zh": "練習冥想",
+      "en": "Practice mindfulness meditation",
+      "fi": "Harjoita meditaatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "沉迷電子產品",
+      "en": "Limit screen time",
+      "fi": "Rajoita ruutuaikaa"
+    },
+    {
+      "zh": "過度消費",
+      "en": "Avoid overspending",
+      "fi": "Vältä ylikulutusta"
+    }
+  ],
+  "note_zh": "週末是充電的好時機，讓身心得到充分的休息與滋養。",
+  "note_en": "The weekend is a good time to recharge; let your mind and body rest and nourish.",
+  "note_fi": "Viikonloppu on hyvä aika ladata akkuja; anna mielesi ja kehosi levätä ja ravita."
+}
