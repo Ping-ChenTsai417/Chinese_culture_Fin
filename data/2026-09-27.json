@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-27",
+  "lunar_cn": "八月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    },
+    {
+      "zh": "家庭時光",
+      "en": "Enjoy family time",
+      "fi": "Perheen aikaa"
+    },
+    {
+      "zh": "沉澱規劃",
+      "en": "Reflect and plan",
+      "fi": "Pohdi ja suunnittele"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "過度憂慮",
+      "en": "Overthink and worry",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää asioita"
+    }
+  ],
+  "note_zh": "讓週日成為心靈充電的港灣，為新的一週積蓄能量。",
+  "note_en": "Let Sunday be a harbor for your soul to recharge, gathering energy for the new week.",
+  "note_fi": "Anna sunnuntain olla sielusi satama, joka lataa energiaa uudelle viikolle."
+}
