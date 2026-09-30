@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-09-30",
+  "lunar_cn": "八月二十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "靜心冥想",
+      "en": "Meditate",
+      "fi": "Meditoi"
+    },
+    {
+      "zh": "規劃創意",
+      "en": "Plan creatively",
+      "fi": "Suunnittele luovasti"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Yhdisty muihin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Worry excessively",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Be sedentary",
+      "fi": "Istu paikoillaan"
+    },
+    {
+      "zh": "分心多工",
+      "en": "Multitask distractedly",
+      "fi": "Hajauta huomio"
+    }
+  ],
+  "note_zh": "心靜則智生，以從容之心應對今日挑戰。",
+  "note_en": "A calm mind brings clarity; navigate today with grace.",
+  "note_fi": "Rauhallinen mieli selkeyttää; kulje päivästäsi armollisesti."
+}
