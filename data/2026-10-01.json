@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-01",
+  "lunar_cn": "八月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "專心致志",
+      "en": "Focus deeply",
+      "fi": "Keskity syvästi"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延事務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "過度思慮",
+      "en": "Overthink things",
+      "fi": "Pohdi liikaa"
+    },
+    {
+      "zh": "熬夜加班",
+      "en": "Work late nights",
+      "fi": "Valvo töiden takia"
+    }
+  ],
+  "note_zh": "今日宜專注與規劃，為週末的放鬆奠定基礎，保持身心輕盈。",
+  "note_en": "Focus and plan today, laying the groundwork for weekend relaxation and lightness.",
+  "note_fi": "Keskity ja suunnittele tänään, luo pohja viikonlopun rentoutumiselle ja keveydelle."
+}
