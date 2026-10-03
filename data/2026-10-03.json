@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-03",
+  "lunar_cn": "八月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人團聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "發展興趣",
+      "en": "Explore your hobbies",
+      "fi": "Kehitä harrastuksia"
+    },
+    {
+      "zh": "享受悠閒",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "鑽牛角尖",
+      "en": "Overthink small matters",
+      "fi": "Murehdi turhaan"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay inactive too long",
+      "fi": "Istuskele pitkään"
+    },
+    {
+      "zh": "過度趕急",
+      "en": "Rush through tasks",
+      "fi": "Kiirehdi liikaa"
+    }
+  ],
+  "note_zh": "週末是為心靈充電的時光，放慢腳步，享受當下的美好。",
+  "note_en": "Weekends are for recharging your spirit; slow down and savor the beauty of the present.",
+  "note_fi": "Viikonloppu on mielen lataamista varten; hidasta ja nauti nykyhetken kauneudesta."
+}
