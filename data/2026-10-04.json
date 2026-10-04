@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-04",
+  "lunar_cn": "八月十三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Yhdisty luontoon"
+    },
+    {
+      "zh": "家庭團聚",
+      "en": "Family gathering",
+      "fi": "Perheen kokoontuminen"
+    },
+    {
+      "zh": "靜心沉澱",
+      "en": "Quiet reflection",
+      "fi": "Hiljainen pohdinta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "匆忙急躁",
+      "en": "Rush and hurry",
+      "fi": "Kiirehtiminen"
+    },
+    {
+      "zh": "過度思慮",
+      "en": "Overthinking",
+      "fi": "Yliajattelu"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Late-night binge-watching",
+      "fi": "Valvoa sarjojen parissa"
+    }
+  ],
+  "note_zh": "讓身心在悠閒中充電，為即將到來的一週儲備活力。",
+  "note_en": "Allow your mind and body to recharge in leisure, preparing for the week ahead.",
+  "note_fi": "Anna mielen ja kehon latautua levossa, valmistautuen tulevaan viikkoon."
+}
