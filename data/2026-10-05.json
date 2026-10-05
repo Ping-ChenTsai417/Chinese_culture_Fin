@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-05",
+  "lunar_cn": "八月廿四",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃新週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    },
+    {
+      "zh": "專注工作",
+      "en": "Focus on tasks",
+      "fi": "Keskity työhön"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "精神渙散",
+      "en": "Lose focus",
+      "fi": "Kadota keskittyminen"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian kauan"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain often",
+      "fi": "Valita usein"
+    }
+  ],
+  "note_zh": "新的一周，帶著清晰的目標和放鬆的心情，迎接每一個挑戰。",
+  "note_en": "Embrace the new week with clear goals and a calm mind.",
+  "note_fi": "Aloita uusi viikko selkein tavoittein ja rentoutunein mielin."
+}
