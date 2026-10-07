@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-07",
+  "lunar_cn": "八月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一日",
+      "en": "Plan your day",
+      "fi": "Suunnittele päiväsi"
+    },
+    {
+      "zh": "與友聊天",
+      "en": "Connect with friends",
+      "fi": "Keskustele ystävien kanssa"
+    },
+    {
+      "zh": "練習冥想",
+      "en": "Practice meditation",
+      "fi": "Harjoita meditaatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度焦慮",
+      "en": "Overthink and worry",
+      "fi": "Vältä liikaa huolta"
+    },
+    {
+      "zh": "飲食失衡",
+      "en": "Eat unhealthy food",
+      "fi": "Syö epäterveellisesti"
+    },
+    {
+      "zh": "熬夜追劇",
+      "en": "Binge-watch late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "今日宜放慢腳步，享受當下，感受生活中的小確幸。",
+  "note_en": "Today, slow down and savor the present, finding joy in life's small moments.",
+  "note_fi": "Tänään hidasta ja nauti nykyhetkestä, löytäen iloa pienistä hetkistä."
+}
