@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-10",
+  "lunar_cn": "八月二十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Enjoy good food",
+      "fi": "Nauti ruoasta"
+    },
+    {
+      "zh": "探索新興趣",
+      "en": "Explore new hobbies",
+      "fi": "Tutustu uusiin harrastuksiin"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive overtime",
+      "fi": "Tee liikaa ylitöitä"
+    },
+    {
+      "zh": "爭吵抱怨",
+      "en": "Argue or complain",
+      "fi": "Riitele tai valita"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istu liian pitkään"
+    }
+  ],
+  "note_zh": "讓週末的陽光，為你的身心充電，享受當下的寧靜與美好。",
+  "note_en": "Let the weekend sun recharge your body and mind, embracing present calm and beauty.",
+  "note_fi": "Anna viikonlopun auringon ladata mielesi, nauttien hetken rauhasta ja kauneudesta."
+}
