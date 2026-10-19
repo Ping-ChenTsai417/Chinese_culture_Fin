@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-19",
+  "lunar_cn": "九月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一週",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "溫和伸展",
+      "en": "Gentle stretching",
+      "fi": "Kevyt venyttely"
+    },
+    {
+      "zh": "專注當下",
+      "en": "Focus on present",
+      "fi": "Keskity nykyhetkeen"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延怠惰",
+      "en": "Procrastinate",
+      "fi": "Viivyttele"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Stay sedentary",
+      "fi": "Istu liian kauan"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    }
+  ],
+  "note_zh": "每個新的開始都蘊含無限可能，以清晰的思緒迎接一週的挑戰。",
+  "note_en": "Every new beginning holds endless possibilities; embrace the week with a clear mind.",
+  "note_fi": "Jokainen uusi alku kätkee loputtomia mahdollisuuksia; kohtaa viikko selkeällä mielellä."
+}
