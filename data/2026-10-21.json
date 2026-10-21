@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-21",
+  "lunar_cn": "九月初一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opettele uutta"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestele ajatuksia"
+    },
+    {
+      "zh": "享受午茶",
+      "en": "Enjoy afternoon tea",
+      "fi": "Nauti iltapäivätee"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "負面思維",
+      "en": "Negative thinking",
+      "fi": "Negatiiviset ajatukset"
+    },
+    {
+      "zh": "匆忙行事",
+      "en": "Act in haste",
+      "fi": "Toimi hätäisesti"
+    },
+    {
+      "zh": "過度熬夜",
+      "en": "Stay up too late",
+      "fi": "Valvo liian myöhään"
+    }
+  ],
+  "note_zh": "週間宜放緩腳步，清空雜念，為心靈注入新的活力。",
+  "note_en": "Slow down mid-week, clear your mind, and infuse new vitality into your spirit.",
+  "note_fi": "Hidasta tahtia, tyhjennä mielesi ja anna sielullesi uutta virtaa."
+}
