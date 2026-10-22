@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-22",
+  "lunar_cn": "九月十二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "與人交流",
+      "en": "Connect with others",
+      "fi": "Ole yhteydessä"
+    },
+    {
+      "zh": "品茗靜心",
+      "en": "Enjoy tea, reflect",
+      "fi": "Nauti teetä, rauhoitu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "急躁行事",
+      "en": "Act impulsively",
+      "fi": "Toimi hätäisesti"
+    },
+    {
+      "zh": "獨自憂慮",
+      "en": "Worry in isolation",
+      "fi": "Murehdi yksin"
+    },
+    {
+      "zh": "久視螢幕",
+      "en": "Stare at screens",
+      "fi": "Tuijota näyttöä"
+    }
+  ],
+  "note_zh": "今日宜放慢步調，細品生活中的小確幸，為週末蓄積能量。",
+  "note_en": "Slow down today, savor life's small joys, and gather energy for the weekend.",
+  "note_fi": "Hidasta tänään, nauti elämän pienistä iloista ja kerää energiaa viikonloppua varten."
+}
