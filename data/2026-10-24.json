@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-24",
+  "lunar_cn": "九月十四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受悠閒",
+      "en": "Enjoy leisure",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "親友相聚",
+      "en": "Meet loved ones",
+      "fi": "Tapaa läheisiä"
+    },
+    {
+      "zh": "探索新趣",
+      "en": "Explore new interests",
+      "fi": "Tutki uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork",
+      "fi": "Liikaa työtä"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Prolonged sitting",
+      "fi": "Liikaa istumista"
+    },
+    {
+      "zh": "沉溺雜務",
+      "en": "Dwell on chores",
+      "fi": "Uppoudu askareisiin"
+    }
+  ],
+  "note_zh": "讓週末的寧靜滋養身心，為新的開始積蓄能量。",
+  "note_en": "Let the weekend's tranquility nourish your mind and body, gathering energy for a new beginning.",
+  "note_fi": "Anna viikonlopun rauhan ravita kehoasi ja mieltäsi, keräten voimia uuteen alkuun."
+}
