@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-25",
+  "lunar_cn": "九月十五",
+  "zodiac_cn": "龍",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受閒暇",
+      "en": "Enjoy leisure time",
+      "fi": "Nauti vapaa-ajasta"
+    },
+    {
+      "zh": "親近自然",
+      "en": "Connect with nature",
+      "fi": "Lähennä luontoa"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延怠惰",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "過度思慮",
+      "en": "Overthink worries",
+      "fi": "Murehdi liikaa"
+    },
+    {
+      "zh": "忽視自我",
+      "en": "Neglect self-care",
+      "fi": "Laiminlyö itseäsi"
+    }
+  ],
+  "note_zh": "把握週末時光，為身心充電，迎接嶄新的一週。",
+  "note_en": "Embrace the weekend to recharge your mind and body for the week ahead.",
+  "note_fi": "Hyödynnä viikonloppu ladata mielesi ja kehosi tulevaa viikkoa varten."
+}
