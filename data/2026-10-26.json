@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-26",
+  "lunar_cn": "九月十六",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一周",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikkosi"
+    },
+    {
+      "zh": "交流合作",
+      "en": "Collaborate with others",
+      "fi": "Tee yhteistyötä"
+    },
+    {
+      "zh": "伸展放鬆",
+      "en": "Stretch and relax",
+      "fi": "Venyttele ja rentoudu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Rasita itseäsi liikaa"
+    },
+    {
+      "zh": "久視熒幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    }
+  ],
+  "note_zh": "啟動一周的活力，用清晰的目標和積極的心態迎接挑戰。",
+  "note_en": "Energize your week with clear goals and a positive mindset to meet challenges.",
+  "note_fi": "Aloita viikkosi energisesti, kirkkain tavoittein ja positiivisella asenteella haasteisiin."
+}
