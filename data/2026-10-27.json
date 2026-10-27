@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-27",
+  "lunar_cn": "九月十七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "輕度運動",
+      "en": "Engage in gentle exercise",
+      "fi": "Kevyt liikunta"
+    },
+    {
+      "zh": "感謝他人",
+      "en": "Express gratitude",
+      "fi": "Osoita kiitollisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度憂慮",
+      "en": "Excessive worry",
+      "fi": "Liiallinen huoli"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate on tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "忽視疲勞",
+      "en": "Ignore fatigue",
+      "fi": "Vähättele väsymystä"
+    }
+  ],
+  "note_zh": "清晰的思緒能引導你走向更有效率且充滿喜悅的一天，別忘了感恩身邊的一切。",
+  "note_en": "Clear thoughts guide you to an efficient and joyful day; remember to appreciate everything around you.",
+  "note_fi": "Selkeät ajatukset ohjaavat sinua tehokkaaseen ja iloiseen päivään; muista arvostaa kaikkea ympärilläsi."
+}
