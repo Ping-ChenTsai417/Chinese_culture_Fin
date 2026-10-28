@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-28",
+  "lunar_cn": "九月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Yhdistä kollegoihin"
+    },
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "享受輕食",
+      "en": "Enjoy a light meal",
+      "fi": "Nauti kevyestä ateriasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度比較",
+      "en": "Avoid comparisons",
+      "fi": "Vältä vertailua"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liika ruutuaika"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，保持內心平和。",
+  "note_en": "Find moments of calm amidst busyness, maintain inner peace.",
+  "note_fi": "Löydä rauhaa kiireen keskeltä, säilytä sisäinen tyyneys."
+}
