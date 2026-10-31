@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-10-31",
+  "lunar_cn": "九月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "享受家庭時光",
+      "en": "Enjoy family time",
+      "fi": "Nauti perheen kanssa"
+    },
+    {
+      "zh": "培養個人愛好",
+      "en": "Cultivate hobbies",
+      "fi": "Harrasta"
+    },
+    {
+      "zh": "親近大自然",
+      "en": "Connect with nature",
+      "fi": "Yhdistä luontoon"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用電子產品",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "行程排太滿",
+      "en": "Over-scheduling",
+      "fi": "Liikaa ohjelmaa"
+    },
+    {
+      "zh": "沉溺憂慮",
+      "en": "Dwell on worries",
+      "fi": "Murehdi turhaan"
+    }
+  ],
+  "note_zh": "週末是享受生活簡單美好的時刻，讓心靈放鬆，感受當下。",
+  "note_en": "Weekends are for enjoying life's simple joys; let your mind relax and be present.",
+  "note_fi": "Viikonloput ovat elämän pienten ilojen nauttimiseen; anna mielen rentoutua ja ole läsnä."
+}
