@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-05",
+  "lunar_cn": "九月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Oppia uutta"
+    },
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestele ajatuksia"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Enjoy delicious food",
+      "fi": "Nauti ruoasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度比較",
+      "en": "Excessive comparison",
+      "fi": "Liiallinen vertailu"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    },
+    {
+      "zh": "負面對話",
+      "en": "Negative self-talk",
+      "fi": "Negatiivinen puhe"
+    }
+  ],
+  "note_zh": "今日宜放鬆心情，為週末的到來做好準備。",
+  "note_en": "Today, relax your mind and prepare for the approaching weekend.",
+  "note_fi": "Tänään, rentouta mielesi ja valmistaudu viikonloppuun."
+}
