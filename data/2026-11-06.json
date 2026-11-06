@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-06",
+  "lunar_cn": "十月廿七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax your mind",
+      "fi": "Rentoudu"
+    },
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Tapaa läheisiä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentelyä"
+    },
+    {
+      "zh": "鑽牛角尖",
+      "en": "Dwell on worries",
+      "fi": "Murehtimista"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvomista"
+    }
+  ],
+  "note_zh": "讓週末的喜悅為你注入新的活力，享受這份輕鬆與自在。",
+  "note_en": "Let the joy of the weekend recharge you, embrace ease.",
+  "note_fi": "Anna viikonlopun ilon ladata sinua, nauti keveydestä."
+}
