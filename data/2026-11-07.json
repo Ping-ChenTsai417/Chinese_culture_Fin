@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-07",
+  "lunar_cn": "九月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "立冬",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "探索新事物",
+      "en": "Discover something new",
+      "fi": "Tutustu uuteen"
+    },
+    {
+      "zh": "享受戶外",
+      "en": "Enjoy nature",
+      "fi": "Nauti ulkoilmasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度操勞",
+      "en": "Overexert yourself",
+      "fi": "Ylikuormita itseäsi"
+    },
+    {
+      "zh": "抱怨批評",
+      "en": "Complain or criticize",
+      "fi": "Valita tai arvostella"
+    },
+    {
+      "zh": "長時間久坐",
+      "en": "Sit for too long",
+      "fi": "Istu liian kauan"
+    }
+  ],
+  "note_zh": "立冬時節，放慢腳步，享受寧靜時光，滋養身心。",
+  "note_en": "As winter begins, slow down, enjoy quiet moments, and nourish your body and mind.",
+  "note_fi": "Talven alkaessa hidasta tahtia, nauti hiljaisuudesta ja ravitse mieltäsi ja kehoasi."
+}
