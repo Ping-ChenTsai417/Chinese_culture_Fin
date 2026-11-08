@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-08",
+  "lunar_cn": "九月十九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與家人相聚",
+      "en": "Connect with family",
+      "fi": "Vietä aikaa perheen kanssa"
+    },
+    {
+      "zh": "培養興趣",
+      "en": "Engage in hobbies",
+      "fi": "Harrasta"
+    },
+    {
+      "zh": "靜心沉思",
+      "en": "Mindful reflection",
+      "fi": "Rauhallista pohdintaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "沉迷螢幕",
+      "en": "Excessive screen time",
+      "fi": "Liiallinen ruutuaika"
+    },
+    {
+      "zh": "忽視自我",
+      "en": "Neglect self-care",
+      "fi": "Itsehoidon laiminlyönti"
+    }
+  ],
+  "note_zh": "今日宜靜心休養，為未來積蓄能量。",
+  "note_en": "Today, find quiet rest to gather energy for the future.",
+  "note_fi": "Tänään levähdä rauhassa ja kerää voimia tulevaan."
+}
