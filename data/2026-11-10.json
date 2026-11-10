@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-10",
+  "lunar_cn": "十月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理工作空間",
+      "en": "Organize workspace",
+      "fi": "Järjestä työtila"
+    },
+    {
+      "zh": "與同事交流",
+      "en": "Connect with colleagues",
+      "fi": "Keskustele kollegoiden kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice meditation",
+      "fi": "Harjoita meditaatiota"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂未來",
+      "en": "Overthink the future",
+      "fi": "Murehdi liikaa tulevasta"
+    },
+    {
+      "zh": "忽略身體信號",
+      "en": "Ignore body signals",
+      "fi": "Ohita kehon viestit"
+    },
+    {
+      "zh": "沉浸負能量",
+      "en": "Dwell on negativity",
+      "fi": "Vello negatiivisuudessa"
+    }
+  ],
+  "note_zh": "每一天都是新的開始，用積極的心態迎接挑戰。",
+  "note_en": "Every day is a new beginning; face challenges with a positive mindset.",
+  "note_fi": "Jokainen päivä on uusi alku; kohtaa haasteet positiivisella asenteella."
+}
