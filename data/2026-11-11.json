@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-11",
+  "lunar_cn": "九月廿一",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaa"
+    },
+    {
+      "zh": "交流學習",
+      "en": "Exchange and learn",
+      "fi": "Vaihda ja opi"
+    },
+    {
+      "zh": "適度活動",
+      "en": "Moderate exercise",
+      "fi": "Kohtalainen liikunta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度用眼",
+      "en": "Overuse screens",
+      "fi": "Silmien rasitus"
+    },
+    {
+      "zh": "拖延工作",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää töitä"
+    },
+    {
+      "zh": "焦慮匆忙",
+      "en": "Anxious rushing",
+      "fi": "Ahdistunut kiire"
+    }
+  ],
+  "note_zh": "週三宜回顧調整，以清晰平靜的心態穩步前行。",
+  "note_en": "Wednesday is a good day to reflect and adjust, moving forward with clarity and calm.",
+  "note_fi": "Keskiviikko on hyvä päivä pohtia ja säätää tahtia, edeten selkeästi ja rauhallisesti."
+}
