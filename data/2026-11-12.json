@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-12",
+  "lunar_cn": "十月廿三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "學習新知",
+      "en": "Learn new things",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "感謝分享",
+      "en": "Express gratitude",
+      "fi": "Kiitä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan the weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Over-worry",
+      "fi": "Liiallinen huoli"
+    },
+    {
+      "zh": "沉迷娛樂",
+      "en": "Indulge in entertainment",
+      "fi": "Liikaa viihdettä"
+    },
+    {
+      "zh": "忽略休息",
+      "en": "Neglect rest",
+      "fi": "Unohda lepo"
+    }
+  ],
+  "note_zh": "週四是連結工作與放鬆的橋樑，保持專注的同時，也別忘了為週末的愉快做準備。",
+  "note_en": "Thursday bridges work and relaxation; stay focused, but also prepare for a joyful weekend.",
+  "note_fi": "Torstai yhdistää työn ja rentoutumisen; pysy keskittyneenä, mutta valmistaudu myös iloiseen viikonloppuun."
+}
