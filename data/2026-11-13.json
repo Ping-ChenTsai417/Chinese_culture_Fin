@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-13",
+  "lunar_cn": "十月初四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    },
+    {
+      "zh": "放鬆身心",
+      "en": "Relax your mind",
+      "fi": "Rentouta mieli"
+    },
+    {
+      "zh": "享受美食",
+      "en": "Savor good food",
+      "fi": "Nauti hyvästä ruoasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskennellä liikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvoa myöhään"
+    }
+  ],
+  "note_zh": "週末將至，放下煩惱，享受當下美好。",
+  "note_en": "As the weekend nears, release worries and embrace the present beauty.",
+  "note_fi": "Viikonlopun lähestyessä, vapauta huolet ja nauti nykyhetken kauneudesta."
+}
