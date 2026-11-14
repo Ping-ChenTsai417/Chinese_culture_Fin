@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-14",
+  "lunar_cn": "九月廿五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與親友相聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "享受戶外時光",
+      "en": "Enjoy outdoor time",
+      "fi": "Nauti ulkoilmasta"
+    },
+    {
+      "zh": "學習新事物",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度使用電子產品",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "抱怨不滿",
+      "en": "Complain or grumble",
+      "fi": "Valita"
+    },
+    {
+      "zh": "熬夜",
+      "en": "Stay up late",
+      "fi": "Valvo myöhään"
+    }
+  ],
+  "note_zh": "週末是充電的好時機，讓身心得到充分休息，為下週儲備能量。",
+  "note_en": "Saturday is a great time to recharge. Let your mind and body rest fully to store energy for the week ahead.",
+  "note_fi": "Lauantai on loistava aika ladata akkuja. Anna mielesi ja kehosi levätä täysin, jotta keräät energiaa tulevaan viikkoon."
+}
