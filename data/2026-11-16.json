@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-16",
+  "lunar_cn": "十月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃行程",
+      "en": "Plan your schedule",
+      "fi": "Suunnittele aikataulu"
+    },
+    {
+      "zh": "專注學習",
+      "en": "Focus on learning",
+      "fi": "Keskity oppimiseen"
+    },
+    {
+      "zh": "練習靜心",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita läsnäoloa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Lykkää tehtäviä"
+    },
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Työskentele liikaa"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Indulge negative thoughts",
+      "fi": "Negatiivinen ajattelu"
+    }
+  ],
+  "note_zh": "新的一週，以清晰思緒和寧靜心境開啟，讓效率與平靜同在。",
+  "note_en": "Start the new week with a clear mind and peaceful heart, allowing efficiency and calm to coexist.",
+  "note_fi": "Aloita viikko selkeällä mielellä ja rauhallisella sydämellä, anna tehokkuuden ja rauhan kohdata."
+}
