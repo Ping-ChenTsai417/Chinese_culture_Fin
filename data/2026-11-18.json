@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-18",
+  "lunar_cn": "十月初九",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友交流",
+      "en": "Connect with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "規劃工作",
+      "en": "Plan your work",
+      "fi": "Suunnittele työtä"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice meditation",
+      "fi": "Meditoi rauhassa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "陷入負面",
+      "en": "Dwell on negativity",
+      "fi": "Älä juutu negatiiviseen"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Vältä viivyttelyä"
+    }
+  ],
+  "note_zh": "在週中保持一份從容，讓心靈隨著節奏輕舞。",
+  "note_en": "Maintain a calm pace mid-week, let your spirit dance with the rhythm.",
+  "note_fi": "Pidä rauhallinen tahti keskiviikkona, anna henkesi tanssia rytmissä."
+}
