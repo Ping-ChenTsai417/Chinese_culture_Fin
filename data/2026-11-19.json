@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-19",
+  "lunar_cn": "十月初十",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理工作",
+      "en": "Organize work",
+      "fi": "Järjestä työt"
+    },
+    {
+      "zh": "靜心片刻",
+      "en": "Find quiet moments",
+      "fi": "Etsi hiljaisuutta"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan your weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overtax yourself",
+      "fi": "Vältä ylikuormitusta"
+    },
+    {
+      "zh": "拖延任務",
+      "en": "Procrastinate tasks",
+      "fi": "Viivästytä tehtäviä"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Dwell on negativity",
+      "fi": "Vältä negatiivisuutta"
+    }
+  ],
+  "note_zh": "讓今日的專注與效率，為週末的放鬆奠定基礎。",
+  "note_en": "Let today's focus and efficiency lay the groundwork for weekend relaxation.",
+  "note_fi": "Anna tämän päivän keskittymisen luoda pohjaa viikonlopun rentoutumiselle."
+}
