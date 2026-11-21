@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-21",
+  "lunar_cn": "十月初二",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "與朋友聚會",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "探索新興趣",
+      "en": "Explore new hobbies",
+      "fi": "Tutki uusia harrastuksia"
+    },
+    {
+      "zh": "享受戶外時光",
+      "en": "Enjoy outdoor time",
+      "fi": "Nauti ulkoilmasta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "長時間久坐",
+      "en": "Sit for too long",
+      "fi": "Istu liian kauan"
+    },
+    {
+      "zh": "過度沉迷網路",
+      "en": "Overindulge online",
+      "fi": "Liiallinen netin käyttö"
+    },
+    {
+      "zh": "爭論不休",
+      "en": "Engage in arguments",
+      "fi": "Osallistu riitoihin"
+    }
+  ],
+  "note_zh": "週末是放鬆身心、滋養靈魂的時刻，與所愛之人共創美好回憶。",
+  "note_en": "Weekends are for relaxing, nourishing your soul, and making memories with loved ones.",
+  "note_fi": "Viikonloput ovat rentoutumista, sielun ravitsemista ja muistojen luomista rakkaiden kanssa."
+}
