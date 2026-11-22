@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-22",
+  "lunar_cn": "十月初三",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "小雪",
+  "yi": [
+    {
+      "zh": "與親友聚",
+      "en": "Connect with loved ones",
+      "fi": "Vietä aikaa läheisten kanssa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita läsnäoloa"
+    },
+    {
+      "zh": "計劃未來",
+      "en": "Plan for future",
+      "fi": "Suunnittele tulevaa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Overwork yourself",
+      "fi": "Ylityöskentely"
+    },
+    {
+      "zh": "負面思維",
+      "en": "Negative thinking",
+      "fi": "Negatiivinen ajattelu"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Remain sedentary",
+      "fi": "Istu pitkään"
+    }
+  ],
+  "note_zh": "小雪宜靜心沉澱，為心靈儲備溫暖與能量。",
+  "note_en": "On Minor Snow, quiet your mind to gather warmth and energy for your spirit.",
+  "note_fi": "Pikkulumen päivänä rauhoita mielesi ja kerää lämpöä ja energiaa sielullesi."
+}
