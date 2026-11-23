@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-23",
+  "lunar_cn": "十月初四",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "規劃一周",
+      "en": "Plan your week",
+      "fi": "Suunnittele viikko"
+    },
+    {
+      "zh": "健康飲食",
+      "en": "Eat nourishing food",
+      "fi": "Syö ravitsevaa ruokaa"
+    },
+    {
+      "zh": "靜心冥想",
+      "en": "Practice mindfulness",
+      "fi": "Harjoita tietoisuutta"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度勞累",
+      "en": "Avoid overworking",
+      "fi": "Vältä ylityötä"
+    },
+    {
+      "zh": "拖延怠惰",
+      "en": "Shun procrastination",
+      "fi": "Vältä viivyttelyä"
+    },
+    {
+      "zh": "負面思考",
+      "en": "Limit negative thoughts",
+      "fi": "Rajoita negatiivisia ajatuksia"
+    }
+  ],
+  "note_zh": "把握新的開始，為本週注入活力與目標。",
+  "note_en": "Embrace new beginnings; energize your week with intention.",
+  "note_fi": "Hyödynnä uusi alku; lataa viikkosi tarkoituksella."
+}
