@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-24",
+  "lunar_cn": "十月初五",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "享受咖啡/茶",
+      "en": "Enjoy coffee/tea",
+      "fi": "Nauti kahvista/teestä"
+    },
+    {
+      "zh": "輕度伸展",
+      "en": "Light stretching",
+      "fi": "Kevyt venyttely"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度比較",
+      "en": "Excessive comparison",
+      "fi": "Liiallinen vertailu"
+    },
+    {
+      "zh": "沉迷電子設備",
+      "en": "Excessive screen time",
+      "fi": "Liikaa ruutuaikaa"
+    },
+    {
+      "zh": "累積壓力",
+      "en": "Accumulating stress",
+      "fi": "Kerää stressiä"
+    }
+  ],
+  "note_zh": "在忙碌中尋找片刻寧靜，讓心靈得以休憩。",
+  "note_en": "Find a moment of calm in your busy day to rest your mind.",
+  "note_fi": "Löydä hetki rauhaa kiireisestä päivästäsi mielen lepoa varten."
+}
