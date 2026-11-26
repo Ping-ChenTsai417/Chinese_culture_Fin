@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-26",
+  "lunar_cn": "十月初七",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "整理思緒",
+      "en": "Organize your thoughts",
+      "fi": "Järjestä ajatukset"
+    },
+    {
+      "zh": "學習新知",
+      "en": "Learn something new",
+      "fi": "Opi uutta"
+    },
+    {
+      "zh": "與家人共餐",
+      "en": "Dine with family",
+      "fi": "Syö perheen kanssa"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度擔憂",
+      "en": "Worry excessively",
+      "fi": "Huoli liikaa"
+    },
+    {
+      "zh": "久坐不動",
+      "en": "Sit too long",
+      "fi": "Istu liian pitkään"
+    },
+    {
+      "zh": "抱怨批評",
+      "en": "Complain or criticize",
+      "fi": "Valita tai kritisoi"
+    }
+  ],
+  "note_zh": "今日宜整理思緒，為週末做好準備，保持內心平靜。",
+  "note_en": "Today is good for organizing thoughts, preparing for the weekend, and maintaining inner peace.",
+  "note_fi": "Tänään on hyvä järjestellä ajatuksia, valmistautua viikonloppuun ja säilyttää sisäinen rauha."
+}
