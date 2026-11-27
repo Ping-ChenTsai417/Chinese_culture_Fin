@@ -1,0 +1,43 @@
+{
+  "date_iso": "2026-11-27",
+  "lunar_cn": "十月十八",
+  "zodiac_cn": "馬",
+  "solar_term_cn": "—",
+  "yi": [
+    {
+      "zh": "放鬆身心",
+      "en": "Relax and unwind",
+      "fi": "Rentoudu ja hellitä"
+    },
+    {
+      "zh": "朋友相聚",
+      "en": "Meet with friends",
+      "fi": "Tapaa ystäviä"
+    },
+    {
+      "zh": "規劃週末",
+      "en": "Plan the weekend",
+      "fi": "Suunnittele viikonloppu"
+    }
+  ],
+  "ji": [
+    {
+      "zh": "過度加班",
+      "en": "Work excessive hours",
+      "fi": "Tee ylitöitä"
+    },
+    {
+      "zh": "沉迷手機",
+      "en": "Overuse phone",
+      "fi": "Liikaa puhelinta"
+    },
+    {
+      "zh": "爭吵抱怨",
+      "en": "Argue or complain",
+      "fi": "Riitele tai valita"
+    }
+  ],
+  "note_zh": "讓一週的辛勞在今日畫下句點，迎接充滿喜悅的週末時光。",
+  "note_en": "Let the week's hard work conclude today, welcoming a joyful weekend ahead.",
+  "note_fi": "Anna viikon työn päättyä tänään, ja toivota iloinen viikonloppu tervetulleeksi."
+}
